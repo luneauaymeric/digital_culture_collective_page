@@ -2,7 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: index.md
+root: README.md
 chapters:
-- file: groupe1.md
-- file: groupe2.md
+- file: syllabus.md
+- file: lesson_1_internet.md
+- file: Explo_1.md
+- file: lesson_2_biens_communs.md
+- file: biblio.md
