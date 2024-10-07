@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: README.md
+root: syllabus.md
 chapters:
 - file: syllabus.md
 - file: lesson_1_internet.md
