@@ -1,8 +1,6 @@
 # README
 
-Ce site est conçu comme un support du cours de "Cultures numériques" de 2024 destinées aux étudiant.es en deuxième année du collège universitaire de Sciences Po Paris (Campus de Reims) appartenant aux groupes 5 et 6.
-
-https://luneauaymeric.github.io/cultnum/
+Cette page github héberge les explorations menées par les étudiant.es du groupe 5 (2e année du collège universitaire, campus de Reims) dans le cadre du cours _Cultures numériques_ de Sciences Po.
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
@@ -16,7 +14,4 @@ Il a été créé sous la licence :
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
 
-## Table des matières
 
-```{tableofcontents}
-```
