@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: syllabus.md
+root: intro.md
 chapters:
 - file: groupe2.md
 - file: essai_de_markdown.md
