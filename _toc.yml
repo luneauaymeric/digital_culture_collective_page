@@ -6,4 +6,5 @@ root: intro.md
 chapters:
 - file: groupe2.md
 - file: exemple.md
+- file: ./pegasus/exercice_md.md
 - file: biblio.md
