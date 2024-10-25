@@ -5,6 +5,5 @@ format: jb-book
 root: intro.md
 chapters:
 - file: groupe2.md
-- file: essai_de_markdown.md
-- file: esport/Introduction_présentation_projet_esport.md
+- file: exemple.md
 - file: biblio.md
