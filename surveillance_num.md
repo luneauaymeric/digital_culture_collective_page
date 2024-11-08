@@ -1,19 +1,30 @@
 
 
+
 # Introduction Podcast 
 > consignes
+
 Bonjour à tous
 glossaire notion importante
 
+
 intérêt
 
+
 questions qu’on se pose
+
 
 termes spécifique à définir en mode glossaire
 
   
 
+
+  
+
 penser a preciser dans lequel des enjeux qu’il a proposé ca s’inscrit : droit et citoyenneté - régulation - économie
+
+  
+
 
   
 
@@ -36,7 +47,10 @@ penser a preciser dans lequel des enjeux qu’il a proposé ca s’inscrit : dro
 
   
 
+
+  
+
 → espionnage et surveillance definition juridique
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjY3NTA4OV19
+eyJoaXN0b3J5IjpbODUwNjY1MDMzLDE0MDY2NzUwODldfQ==
 -->
