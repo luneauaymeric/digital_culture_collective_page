@@ -1,4 +1,4 @@
-intro: comment nous aie venu le sujet, la   
+# intro: comment nous aie venu le sujet, la   
 Le problème, les enjeux qu’il pose, et après annoncer notre plan 
 
 ecrire en markdown ds un ggogle doc et l’enregistrer en mardown ou sinon utilisé un editeur en ligne stackedit 
