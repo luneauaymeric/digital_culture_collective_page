@@ -6,10 +6,10 @@
 
 *Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ?* 
 
-I- Pegasus, une menace pour les droits fondamentaux et la démocratie
+## I- Pegasus, une menace pour les droits fondamentaux et la démocratie
 
-1) **Une atteinte aux droits individuels et à la vie privée** ANI  
-2) **Une stratégie de surveillance de masse menaçant les démocraties** LANA
+### 1) **Une atteinte aux droits individuels et à la vie privée** ANI  
+### 2) **Une stratégie de surveillance de masse menaçant les démocraties** LANA
 
 \=\> Version détaillée de l’intérieur de ces sous parties de Ani sur Insta
 
@@ -43,5 +43,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
   - Initiative de l’ONU pour le droit du numérique  
 - Redéfinition des frontières de la surveillance légitime (déclaration de Toronto sur les droits humains numériques, Principes de Johannesburg pour les entreprises de cybersurveillance et travail du Parlement européen sur une loi visant à obliger les entreprises à divulguer les clients et les conditions d’utilisation de leurs technologies de surveillance, assurant ainsi que ces technologies ne sont pas détournées à des fins répressives.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYzODgzODVdfQ==
+eyJoaXN0b3J5IjpbOTU1Mzg2MDFdfQ==
 -->
