@@ -1,6 +1,6 @@
 
 
-# Projet d’exploration: Pegasus (logiciel espion)
+# Projet d’explorationPegasus (logiciel espion)
 
  - ![enter image description here](https://cybersecuritymag.africa/sites/default/files/styles/og_image/public/2021-07/pegasus-nso.jpg?h=8368c627&itok=IrNjb_4Y)
 
@@ -43,5 +43,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
   - Initiative de l’ONU pour le droit du numérique  
 - Redéfinition des frontières de la surveillance légitime (déclaration de Toronto sur les droits humains numériques, Principes de Johannesburg pour les entreprises de cybersurveillance et travail du Parlement européen sur une loi visant à obliger les entreprises à divulguer les clients et les conditions d’utilisation de leurs technologies de surveillance, assurant ainsi que ces technologies ne sont pas détournées à des fins répressives.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1Mzg2MDFdfQ==
+eyJoaXN0b3J5IjpbLTYzMjg1OTk2NSw5NTUzODYwMV19
 -->
