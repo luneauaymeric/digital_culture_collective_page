@@ -41,5 +41,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ## Bibliographie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzgxMzI2Myw5NTUzODYwMV19
+eyJoaXN0b3J5IjpbMTk1MzgxMzI2M119
 -->
