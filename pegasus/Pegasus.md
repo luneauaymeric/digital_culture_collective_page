@@ -1,6 +1,6 @@
 
 
-# Projet d’explorationPegasus (logiciel espion)
+# Pegasus (logiciel espion)
 
  - ![enter image description here](https://cybersecuritymag.africa/sites/default/files/styles/og_image/public/2021-07/pegasus-nso.jpg?h=8368c627&itok=IrNjb_4Y)
 
@@ -8,14 +8,14 @@
 
 ## I- Pegasus, une menace pour les droits fondamentaux et la démocratie
 
-### 1) **Une atteinte aux droits individuels et à la vie privée** ANI  
-### 2) **Une stratégie de surveillance de masse menaçant les démocraties** LANA
+### 1) Une atteinte aux droits individuels et à la vie privée   
+### 2) Une stratégie de surveillance de masse menaçant les démocraties
 
-\=\> Version détaillée de l’intérieur de ces sous parties de Ani sur Insta
+
 
 ## II- Le Projet Pégasus : Révélateur des failles du cadre légal et nécessité d’une régulation internationale plus stricte
 
-### 1) **Une mise en lumière des lacunes juridiques face aux technologies de surveillance** (Perrine \- 851 mots)   
+### 1) Une mise en lumière des lacunes juridiques face aux technologies de surveillance**    
    
 
 En révélant les multiples atteintes au droit individuel et à la citoyenneté causées par le logiciel de cyber-espionnage Pegasus, les journalistes et laboratoires soulignent les nombreuses lacunes juridiques face aux technologies de surveillance. En effet, les outils juridiques en place jusqu’en 2021 n’ont pas permis de protéger les propriétaires des 50 000 téléphones potentiellement infectés par le logiciel. Le scandale lié à Pegasus révèle en particulier trois failles du cadre juridique.
@@ -36,12 +36,10 @@ Ainsi, l’utilisation de Pegasus s’appuie sur trois failles majeures du cadre
 
 En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel pour protéger les droits individuels et la citoyenneté. C’est uniquement grâce au travail d’un consortium de journalistes de Forbidden Stories et à l’expertise informatique du Citizen Lab d’Amnesty International que l’ampleur de l’utilisation de Pegasus a été révélée, permettant à la justice de se saisir de l’affaire. Ceci montre que pour garantir un cadre juridique réellement protecteur, il est essentiel non seulement de réformer les lois relatives au cyber-espionnage mais aussi de renforcer la protection des journalistes et des laboratoires indépendants. Leur travail compense, en partie, les défaillances étatiques et garantit la transparence nécessaire à la défense des droits fondamentaux.
 
-### 2) **Vers un renforcement du droit international : encadrement juridique et protection des droits humains à l’ère numérique** ISABELLE  
-- Réformes nécessaires pour combler les lacunes juridiques en terme de cyber-espionnage (Appels de l’ONU, réglementation européenne en cours d’élaboration et proposition de lois américaines pour réguler l’exportation de logiciels de surveillance dans les pays qui n’ont pas de cadre de protection de droits humains, afin de réduire les abus à l’international)  
-- Mise en place d’un cadre de surveillance international (appel du conseil de l’Europe pour une réglementation commune pour mieux surveiller et restreindre l’usage de logiciels espions avec un suivi rigoureux de leur utilisation par les gouvernements  
-  - Question de l’utilisation possible de la CEDH dans ce cadre ?  
-  - Initiative de l’ONU pour le droit du numérique  
-- Redéfinition des frontières de la surveillance légitime (déclaration de Toronto sur les droits humains numériques, Principes de Johannesburg pour les entreprises de cybersurveillance et travail du Parlement européen sur une loi visant à obliger les entreprises à divulguer les clients et les conditions d’utilisation de leurs technologies de surveillance, assurant ainsi que ces technologies ne sont pas détournées à des fins répressives.)
+### 2) Vers un renforcement du droit international : encadrement juridique et protection des droits humains à l’ère numérique  
+
+
+## Bibliographie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjg1OTk2NSw5NTUzODYwMV19
+eyJoaXN0b3J5IjpbMTk1MzgxMzI2Myw5NTUzODYwMV19
 -->
