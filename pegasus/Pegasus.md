@@ -5,7 +5,7 @@
 *Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ? </p>
 
 
-## I- Pegasus, une menace pour les droits fondamentaux et la démocratie
+## <span style='color : darkblue;'> Pegasus, une menace pour les droits fondamentaux et la démocratie </span>
 
 ### 1) Une atteinte aux droits individuels et à la vie privée   
 ### 2) Une stratégie de surveillance de masse menaçant les démocraties
@@ -42,5 +42,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ## Bibliographie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjI4MjQwNywtMTg0MjE3NDI0Ml19
+eyJoaXN0b3J5IjpbMzU4NjIwMzg2LC0xODQyMTc0MjQyXX0=
 -->
