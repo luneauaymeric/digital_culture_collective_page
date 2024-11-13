@@ -40,9 +40,8 @@ ROSSARO, Alejandra Delfin et RIAL-SEBBAG, Emmanuelle. « L’émergence des outi
 
 VIGOUROUX, Christian. « Le renseignement, une nécessité au service de la République… à surveiller », Après-demain. 2016, vol.37 no 1. p. 43‑45. En ligne : [https://shs.cairn.info/revue-apres-demain-2016-1-page-43](https://shs.cairn.info/revue-apres-demain-2016-1-page-43) [consulté le 1 novembre 2024].
 
-  
-
-Younas, Muhammad Ahsan. « “Digital Jihad” and its Significance to Counterterrorism », Counter Terrorist Trends and Analyses. 2014, vol.6 no 2. p. 10‑17. En ligne : [https://www.jstor.org/stable/26351231](https://www.jstor.org/stable/26351231) [consulté le 3 novembre 2024].
+ 
+YOUNAS, Muhammad Ahsan. « “Digital Jihad” and its Significance to Counterterrorism », Counter Terrorist Trends and Analyses. 2014, vol.6 no 2. p. 10‑17. En ligne : [https://www.jstor.org/stable/26351231](https://www.jstor.org/stable/26351231) [consulté le 3 novembre 2024].
 
 ### et d'autres ressources : 
 
@@ -93,6 +92,6 @@ Reynaud, Florian. « Une proposition de loi veut étendre le dispositif des «�
   
 R, Rina. Pegasus : le logiciel espion le plus redoutable ! Tout savoir. 2024. En ligne : [https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir](https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir) [consulté le 12 novembre 2024].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDg1NDUxNCwtNjAxMzQ2NzEsLTE1NT
-U1NjU3MDUsODUwNjY1MDMzXX0=
+eyJoaXN0b3J5IjpbLTEzNDI2NjA4NTQsLTYwMTM0NjcxLC0xNT
+U1NTY1NzA1LDg1MDY2NTAzM119
 -->
