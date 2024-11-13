@@ -16,7 +16,7 @@
 
 ### 1) Une mise en lumière des lacunes juridiques face aux technologies de surveillance**    
    
-
+ <p style='text-align:justify;'>
 En révélant les multiples atteintes au droit individuel et à la citoyenneté causées par le logiciel de cyber-espionnage Pegasus, les journalistes et laboratoires soulignent les nombreuses lacunes juridiques face aux technologies de surveillance. En effet, les outils juridiques en place jusqu’en 2021 n’ont pas permis de protéger les propriétaires des 50 000 téléphones potentiellement infectés par le logiciel. Le scandale lié à Pegasus révèle en particulier trois failles du cadre juridique.
 
  Tout d’abord, Pegasus a permis de révéler l’absence de cadre juridique relatif au cyber-espionnage dans de nombreux pays, laissant les États libres d’espionner leurs citoyens sans risque d’être poursuivis.
@@ -34,11 +34,11 @@ En effet, selon le droit international des droits de l’homme, nul ne doit êtr
 Ainsi, l’utilisation de Pegasus s’appuie sur trois failles majeures du cadre juridique : l’absence de lois protégeant les citoyens dans certains pays, l’incapacité à faire respecter le droit national face aux intrusions étrangères, et les limites du droit international dans la protection de la vie privée. En exploitant ces failles, les logiciels cyber-espions ne se contentent pas de bafouer le droit à la vie privée. Ils affectent également des libertés fondamentales telles que la liberté d’opinion et la liberté de la presse, et menacent ainsi des rouages essentiels des démocraties. Par exemple, au Mexique, le gouvernement utilise Pegasus depuis 2011 pour cibler les militants anti-corruption, limitant de facto la liberté d’action et d’expression des défenseurs des droits.
 
 En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel pour protéger les droits individuels et la citoyenneté. C’est uniquement grâce au travail d’un consortium de journalistes de Forbidden Stories et à l’expertise informatique du Citizen Lab d’Amnesty International que l’ampleur de l’utilisation de Pegasus a été révélée, permettant à la justice de se saisir de l’affaire. Ceci montre que pour garantir un cadre juridique réellement protecteur, il est essentiel non seulement de réformer les lois relatives au cyber-espionnage mais aussi de renforcer la protection des journalistes et des laboratoires indépendants. Leur travail compense, en partie, les défaillances étatiques et garantit la transparence nécessaire à la défense des droits fondamentaux.
-
+</p>
 ### 2) Vers un renforcement du droit international : encadrement juridique et protection des droits humains à l’ère numérique  
 
 
 ## Bibliographie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDIxNzQyNDJdfQ==
+eyJoaXN0b3J5IjpbMjAxMTU5MTMzNSwtMTg0MjE3NDI0Ml19
 -->
