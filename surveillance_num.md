@@ -45,53 +45,56 @@ YOUNAS, Muhammad Ahsan. « “Digital Jihad” and its Significance to Counterte
 
 ### et d'autres ressources : 
 
-AA. « Pegasus, un logiciel israélien utilisé pour espionner journalistes et militants dans le monde », Rfi . 2021. En ligne : [https://www.rfi.fr/fr/moyen-orient/20210718-pegasus-un-logiciel-israélien-utilisé-pour-espionner-journalistes-et-militants-dans-le-monde](https://www.rfi.fr/fr/moyen-orient/20210718-pegasus-un-logiciel-isra%C3%A9lien-utilis%C3%A9-pour-espionner-journalistes-et-militants-dans-le-monde) [consulté le ].
+
+AA. « Pegasus, un logiciel israélien utilisé pour espionner journalistes et militants dans le monde », Rfi . 2021. En ligne : [https://www.rfi.fr/fr/moyen-orient/20210718-pegasus-un-logiciel-israélien-utilisé-pour-espionner-journalistes-et-militants-dans-le-monde](https://www.rfi.fr/fr/moyen-orient/20210718-pegasus-un-logiciel-isra%C3%A9lien-utilis%C3%A9-pour-espionner-journalistes-et-militants-dans-le-monde) [consulté le 1 novembre 2024].
 
   
 
-AA. Renseignement : « Des moyens d’action légaux mais pas de moyens d’exception ni de surveillance généralisée des citoyens ». En ligne : [https://www.info.gouv.fr/actualite/renseignement-des-moyens-d-action-legaux-mais-pas-de-moyens-d-exception-ni-de-surveillance](https://www.info.gouv.fr/actualite/renseignement-des-moyens-d-action-legaux-mais-pas-de-moyens-d-exception-ni-de-surveillance) [consulté le 8 novembre 2024].
+AA. Renseignement : « Des moyens d’action légaux mais pas de moyens d’exception ni de surveillance généralisée des citoyens ». En ligne : [https://www.info.gouv.fr/actualite/renseignement-des-moyens-d-action-legaux-mais-pas-de-moyens-d-exception-ni-de-surveillance](https://www.info.gouv.fr/actualite/renseignement-des-moyens-d-action-legaux-mais-pas-de-moyens-d-exception-ni-de-surveillance) [consulté le 22 octobre 2024].
 
   
 
-AA. Les gouvernements utilisent des logiciels espions pour attaquer la liberté d’expression. 2015. En ligne : [https://www.amnesty.org/fr/latest/campaigns/2015/08/how-governments-are-using-spyware-to-attack-free-speech/](https://www.amnesty.org/fr/latest/campaigns/2015/08/how-governments-are-using-spyware-to-attack-free-speech/) [consulté le 8 novembre 2024].
+AA. Les gouvernements utilisent des logiciels espions pour attaquer la liberté d’expression. 2015. En ligne : [https://www.amnesty.org/fr/latest/campaigns/2015/08/how-governments-are-using-spyware-to-attack-free-speech/](https://www.amnesty.org/fr/latest/campaigns/2015/08/how-governments-are-using-spyware-to-attack-free-speech/) [consulté le 22 octobre 2024].
 
   
 
-AA. « France set to allow police to spy through phones ». 6 juillet 2023. En ligne : [https://www.lemonde.fr/en/france/article/2023/07/06/france-set-to-allow-police-to-spy-through-phones_6044269_7.html](https://www.lemonde.fr/en/france/article/2023/07/06/france-set-to-allow-police-to-spy-through-phones_6044269_7.html) [consulté le 8 novembre 2024].
+AA. « France set to allow police to spy through phones ». 6 juillet 2023. En ligne : [https://www.lemonde.fr/en/france/article/2023/07/06/france-set-to-allow-police-to-spy-through-phones_6044269_7.html](https://www.lemonde.fr/en/france/article/2023/07/06/france-set-to-allow-police-to-spy-through-phones_6044269_7.html) [consulté le 1 novembre 2024].
 
   
 
-AA. Conseil de sécurité: Les technologies numériques présentent autant de défis que d’opportunités en matière de paix et de sécurité | Couverture des réunions & communiqués de presse. En ligne : [https://press.un.org/fr/2022/cs14899.doc.htm](https://press.un.org/fr/2022/cs14899.doc.htm) [consulté le 8 novembre 2024].
+AA. Conseil de sécurité: Les technologies numériques présentent autant de défis que d’opportunités en matière de paix et de sécurité | Couverture des réunions & communiqués de presse. En ligne : [https://press.un.org/fr/2022/cs14899.doc.htm](https://press.un.org/fr/2022/cs14899.doc.htm) [consulté le 1 novembre 2024].
 
   
 
-AA. La Quadrature du Net. 2024. En ligne : [https://www.laquadrature.net](https://www.laquadrature.net) [consulté le 12 novembre 2024].
+AA. La Quadrature du Net. 2024. En ligne : [https://www.laquadrature.net](https://www.laquadrature.net) [consulté le 3 novembre 2024].
 
   
 
-Albertini, Antoine. « Une enveloppe de 8 milliards d’euros pour la transition numérique de la police ». 16 mars 2022. En ligne : [https://www.lemonde.fr/societe/article/2022/03/16/une-enveloppe-de-8-milliards-d-euros-pour-la-transition-numerique-de-la-police_6117801_3224.html](https://www.lemonde.fr/societe/article/2022/03/16/une-enveloppe-de-8-milliards-d-euros-pour-la-transition-numerique-de-la-police_6117801_3224.html) [consulté le 12 novembre 2024].
+ALBERTINI, Antoine. « Une enveloppe de 8 milliards d’euros pour la transition numérique de la police ». 16 mars 2022. En ligne : [https://www.lemonde.fr/societe/article/2022/03/16/une-enveloppe-de-8-milliards-d-euros-pour-la-transition-numerique-de-la-police_6117801_3224.html](https://www.lemonde.fr/societe/article/2022/03/16/une-enveloppe-de-8-milliards-d-euros-pour-la-transition-numerique-de-la-police_6117801_3224.html) [consulté le 3 novembre 2024].
 
   
 
-Bernard , Sophie . « La plateforme Pharos renforcée pour mieux lutter contre la cybercriminalité », Gendinfo. 2020. En ligne :
+BERNARD, Sophie . « La plateforme Pharos renforcée pour mieux lutter contre la cybercriminalité », Gendinfo. 2020. En ligne :
 
-[https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2020/la-plateforme-pharos-renforcee-pour-mieux-lutter-contre-la-cybercriminalite](https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2020/la-plateforme-pharos-renforcee-pour-mieux-lutter-contre-la-cybercriminalite) [consulté le 12 novembre 2024].
-
-  
-
-Champeau, Guillaume. Que feront les boites noires de la Loi Renseignement ? 2015. En ligne : [https://www.numerama.com/politique/32699-que-feront-les-boites-noires-de-la-loi-renseignement.html](https://www.numerama.com/politique/32699-que-feront-les-boites-noires-de-la-loi-renseignement.html) [consulté le 8 novembre 2024].
+[https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2020/la-plateforme-pharos-renforcee-pour-mieux-lutter-contre-la-cybercriminalite](https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2020/la-plateforme-pharos-renforcee-pour-mieux-lutter-contre-la-cybercriminalite) [consulté le 4 novembre 2024].
 
   
 
-Confrère, Emma. Tout savoir sur Pegasus, ce logiciel dévoyé pour espionner journalistes et activistes. 2021. En ligne : [https://www.lefigaro.fr/secteur/high-tech/tout-savoir-sur-pegasus-ce-logiciel-devoye-pour-espionner-journalistes-et-activistes-20210719](https://www.lefigaro.fr/secteur/high-tech/tout-savoir-sur-pegasus-ce-logiciel-devoye-pour-espionner-journalistes-et-activistes-20210719) [consulté le 8 novembre 2024].
+CHAMPEAU, Guillaume. Que feront les boites noires de la Loi Renseignement ? 2015. En ligne : [https://www.numerama.com/politique/32699-que-feront-les-boites-noires-de-la-loi-renseignement.html](https://www.numerama.com/politique/32699-que-feront-les-boites-noires-de-la-loi-renseignement.html) [consulté le 3 novembre 2024].
 
   
 
-Reynaud, Florian. « Une proposition de loi veut étendre le dispositif des « boîtes noires » à la lutte contre les ingérences étrangères ». 13 mars 2024. En ligne : [https://www.lemonde.fr/pixels/article/2024/03/13/une-proposition-de-loi-veut-etendre-le-dispositif-des-boites-noires-a-la-lutte-contre-les-ingerences-etrangeres_6221735_4408996.html](https://www.lemonde.fr/pixels/article/2024/03/13/une-proposition-de-loi-veut-etendre-le-dispositif-des-boites-noires-a-la-lutte-contre-les-ingerences-etrangeres_6221735_4408996.html) [consulté le 8 novembre 2024].
+CONFRÈRE, Emma. Tout savoir sur Pegasus, ce logiciel dévoyé pour espionner journalistes et activistes. 2021. En ligne : [https://www.lefigaro.fr/secteur/high-tech/tout-savoir-sur-pegasus-ce-logiciel-devoye-pour-espionner-journalistes-et-activistes-20210719](https://www.lefigaro.fr/secteur/high-tech/tout-savoir-sur-pegasus-ce-logiciel-devoye-pour-espionner-journalistes-et-activistes-20210719) [consulté le 22 octobre 2024].
 
   
-R, Rina. Pegasus : le logiciel espion le plus redoutable ! Tout savoir. 2024. En ligne : [https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir](https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir) [consulté le 12 novembre 2024].
+
+REYNAUD, Florian. « Une proposition de loi veut étendre le dispositif des « boîtes noires » à la lutte contre les ingérences étrangères ». 13 mars 2024. En ligne : [https://www.lemonde.fr/pixels/article/2024/03/13/une-proposition-de-loi-veut-etendre-le-dispositif-des-boites-noires-a-la-lutte-contre-les-ingerences-etrangeres_6221735_4408996.html](https://www.lemonde.fr/pixels/article/2024/03/13/une-proposition-de-loi-veut-etendre-le-dispositif-des-boites-noires-a-la-lutte-contre-les-ingerences-etrangeres_6221735_4408996.html) [consulté le 22 octobre 2024].
+
+  
+
+R, Rina. Pegasus : le logiciel espion le plus redoutable ! Tout savoir. 2024. En ligne : [https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir](https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir) [consulté le 1 novembre 2024].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI2NjA4NTQsLTYwMTM0NjcxLC0xNT
-U1NTY1NzA1LDg1MDY2NTAzMywxNDA2Njc1MDg5XX0=
+eyJoaXN0b3J5IjpbMTQ3Mjg2NzI5MSwtMTM0MjY2MDg1NCwtNj
+AxMzQ2NzEsLTE1NTU1NjU3MDUsODUwNjY1MDMzLDE0MDY2NzUw
+ODldfQ==
 -->
