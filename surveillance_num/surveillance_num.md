@@ -1,7 +1,7 @@
 
 
 
-# Bienvenue sur notre podcast hebdomadaire Enjeux du Numérique
+# Podcast Enjeux du Numérique
 
 ## Épisode 1 : La surveillance étatique des citoyens par le numérique.
 
@@ -94,7 +94,7 @@ REYNAUD, Florian. « Une proposition de loi veut étendre le dispositif des «�
 
 R, Rina. Pegasus : le logiciel espion le plus redoutable ! Tout savoir. 2024. En ligne : [https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir](https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir) [consulté le 1 novembre 2024].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Nzk2Mjc5OSwxNDcyODY3MjkxLC0xMz
-QyNjYwODU0LC02MDEzNDY3MSwtMTU1NTU2NTcwNSw4NTA2NjUw
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODU2Njg4MTUsLTc2Nzk2Mjc5OSwxND
+cyODY3MjkxLC0xMzQyNjYwODU0LC02MDEzNDY3MSwtMTU1NTU2
+NTcwNSw4NTA2NjUwMzNdfQ==
 -->
