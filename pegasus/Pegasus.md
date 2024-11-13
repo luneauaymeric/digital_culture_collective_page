@@ -1,5 +1,5 @@
 
-# <span style='color :red;'> Pegasus (logiciel espion)</span>
+# <span style='color :purple;'> Pegasus (logiciel espion)</span>
 
  
  ![enter image description here](https://cybersecuritymag.africa/sites/default/files/styles/og_image/public/2021-07/pegasus-nso.jpg?h=8368c627&itok=IrNjb_4Y)
@@ -42,5 +42,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ## Bibliographie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjAwNjAyN119
+eyJoaXN0b3J5IjpbMTc3MTMxMDIyMl19
 -->
