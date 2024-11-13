@@ -94,6 +94,7 @@ REYNAUD, Florian. « Une proposition de loi veut étendre le dispositif des «�
 
 R, Rina. Pegasus : le logiciel espion le plus redoutable ! Tout savoir. 2024. En ligne : [https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir](https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir) [consulté le 1 novembre 2024].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mjg2NzI5MSwtMTM0MjY2MDg1NCwtNj
-AxMzQ2NzEsLTE1NTU1NjU3MDUsODUwNjY1MDMzXX0=
+eyJoaXN0b3J5IjpbLTc2Nzk2Mjc5OSwxNDcyODY3MjkxLC0xMz
+QyNjYwODU0LC02MDEzNDY3MSwtMTU1NTU2NTcwNSw4NTA2NjUw
+MzNdfQ==
 -->
