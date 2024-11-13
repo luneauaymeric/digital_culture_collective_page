@@ -34,7 +34,7 @@ PRÈS, Michel. « Espionnage, interconnexion de réseaux et démocratie », Sigi
 
   
 
-ROSSARO, Alejandra Delfin et RIAL-SEBBAG, Emmanuelle. « L’émergence des outils numériques dans le contexte d’état d’urgence sanitaire. Enjeux et conditions d’application face au droit au respect de la vie privée », Droit, Santé et Société. 2020, vol.1 no 1. p. 98‑104. En ligne : [https://shs.cairn.info/revue-droit-sante-et-societe-2020-1-page-98](https://shs.cairn.info/revue-droit-sante-et-societe-2020-1-page-98) [consulté le 22 octobre 2024].
+ROSSARO, Alejandra Delfin et RIAL-SEBBAG, Emmanuelle. « L’émergence des outils numériques dans le contexte d’état d’urgence sanitaire. Enjeux et conditions d’application face au droit au respect de la vie privée », Droit, Santé et Société. 2020, vol.1 no 1. p. 98‑104. En ligne : [https://shs.cairn.info/revue-droit-sante-et-societe-2020-1-page-98](https://shs.cairn.info/revue-droit-sante-et-societe-2020-1-page-98) [consulté le 27 septembre 2024].
 
   
 
@@ -94,5 +94,5 @@ REYNAUD, Florian. « Une proposition de loi veut étendre le dispositif des «�
 
 R, Rina. Pegasus : le logiciel espion le plus redoutable ! Tout savoir. 2024. En ligne : [https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir](https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir) [consulté le 1 novembre 2024].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mjg2NzI5MV19
+eyJoaXN0b3J5IjpbLTc2Nzk2Mjc5OV19
 -->
