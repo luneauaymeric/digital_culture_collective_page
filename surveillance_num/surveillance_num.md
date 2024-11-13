@@ -13,31 +13,36 @@ Comme le rappelle Michel Près, le numérique constitue un tournant dans les pra
 
 ### Avec des ressources académiques :
 
-Ganor, Boaz. « Artificial or Human: A New Era of Counterterrorism Intelligence? », Studies in Conflict & Terrorism. 3 juillet 2021, vol.44 no 7. p. 605‑624. En ligne : [https://www.tandfonline.com/doi/full/10.1080/1057610X.2019.1568815](https://www.tandfonline.com/doi/full/10.1080/1057610X.2019.1568815) [consulté le 8 novembre 2024].
+
+DOUZET, Frédéric. Les frontière chinoises de l’Internet. Hérodote, 2007/2 n° 125, p.127-142. URL : [https://shs.cairn.info/revue-herodote-2007-2-page-127?lang=fr](https://shs.cairn.info/revue-herodote-2007-2-page-127?lang=fr). [consulté le 20 septembre 2024]
 
   
 
-Giroux, Henry A. « Totalitarian Paranoia in the Post-Orwellian Surveillance State », Cultural Studies. 4 mars 2015, vol.29 no 2. p. 108‑140. En ligne : [http://www.tandfonline.com/doi/abs/10.1080/09502386.2014.917118](http://www.tandfonline.com/doi/abs/10.1080/09502386.2014.917118) [consulté le 8 novembre 2024].
+GANOR, Boaz. « Artificial or Human: A New Era of Counterterrorism Intelligence? », Studies in Conflict & Terrorism. 3 juillet 2021, vol.44 no 7. p. 605‑624. En ligne : [https://www.tandfonline.com/doi/full/10.1080/1057610X.2019.1568815](https://www.tandfonline.com/doi/full/10.1080/1057610X.2019.1568815) [consulté le 19 octobre 2024].
 
   
 
-Lyon, David. « La surveillance globale dans un monde post-Snowden », Communiquer. Revue de communication sociale et publique. 30 septembre 2017 no 20. p. 49‑65. En ligne : [http://journals.openedition.org/communiquer/2315](http://journals.openedition.org/communiquer/2315) [consulté le 8 novembre 2024].
+GIROUX, Henry A. « Totalitarian Paranoia in the Post-Orwellian Surveillance State », Cultural Studies. 4 mars 2015, vol.29 no 2. p. 108‑140. En ligne : [http://www.tandfonline.com/doi/abs/10.1080/09502386.2014.917118](http://www.tandfonline.com/doi/abs/10.1080/09502386.2014.917118) [consulté le 18 octobre 2024].
 
   
 
-Près, Michel. « Espionnage, interconnexion de réseaux et démocratie », Sigila. 2012, vol.30 no 2. p. 123‑132. En ligne : [https://shs.cairn.info/revue-sigila-2012-2-page-123](https://shs.cairn.info/revue-sigila-2012-2-page-123) [consulté le 8 novembre 2024].
+LYON, David. « La surveillance globale dans un monde post-Snowden », Communiquer. Revue de communication sociale et publique. 30 septembre 2017 no 20. p. 49‑65. En ligne : [http://journals.openedition.org/communiquer/2315](http://journals.openedition.org/communiquer/2315) [consulté le 19 octobre 202].
 
   
 
-Rossaro, Alejandra Delfin et Emmanuelle Rial-Sebbag. « L’émergence des outils numériques dans le contexte d’état d’urgence sanitaire. Enjeux et conditions d’application face au droit au respect de la vie privée », Droit, Santé et Société. 2020, vol.1 no 1. p. 98‑104. En ligne : [https://shs.cairn.info/revue-droit-sante-et-societe-2020-1-page-98](https://shs.cairn.info/revue-droit-sante-et-societe-2020-1-page-98) [consulté le 8 novembre 2024].
+PRÈS, Michel. « Espionnage, interconnexion de réseaux et démocratie », Sigila. 2012, vol.30 no 2. p. 123‑132. En ligne : [https://shs.cairn.info/revue-sigila-2012-2-page-123](https://shs.cairn.info/revue-sigila-2012-2-page-123) [consulté le 18 octobre 202].
 
   
 
-Vigouroux, Christian. « Le renseignement, une nécessité au service de la République… à surveiller », Après-demain. 2016, vol.37 no 1. p. 43‑45. En ligne : [https://shs.cairn.info/revue-apres-demain-2016-1-page-43](https://shs.cairn.info/revue-apres-demain-2016-1-page-43) [consulté le 8 novembre 2024].
+ROSSARO, Alejandra Delfin et RIAL-SEBBAG, Emmanuelle. « L’émergence des outils numériques dans le contexte d’état d’urgence sanitaire. Enjeux et conditions d’application face au droit au respect de la vie privée », Droit, Santé et Société. 2020, vol.1 no 1. p. 98‑104. En ligne : [https://shs.cairn.info/revue-droit-sante-et-societe-2020-1-page-98](https://shs.cairn.info/revue-droit-sante-et-societe-2020-1-page-98) [consulté le 22 octobre 2024].
 
   
 
-Younas, Muhammad Ahsan. « “Digital Jihad” and its Significance to Counterterrorism », Counter Terrorist Trends and Analyses. 2014, vol.6 no 2. p. 10‑17. En ligne : [https://www.jstor.org/stable/26351231](https://www.jstor.org/stable/26351231) [consulté le 8 novembre 2024].
+VIGOUROUX, Christian. « Le renseignement, une nécessité au service de la République… à surveiller », Après-demain. 2016, vol.37 no 1. p. 43‑45. En ligne : [https://shs.cairn.info/revue-apres-demain-2016-1-page-43](https://shs.cairn.info/revue-apres-demain-2016-1-page-43) [consulté le 1 novembre 2024].
+
+  
+
+Younas, Muhammad Ahsan. « “Digital Jihad” and its Significance to Counterterrorism », Counter Terrorist Trends and Analyses. 2014, vol.6 no 2. p. 10‑17. En ligne : [https://www.jstor.org/stable/26351231](https://www.jstor.org/stable/26351231) [consulté le 3 novembre 2024].
 
 ### et d'autres ressources : 
 
@@ -88,6 +93,6 @@ Reynaud, Florian. « Une proposition de loi veut étendre le dispositif des «�
   
 R, Rina. Pegasus : le logiciel espion le plus redoutable ! Tout savoir. 2024. En ligne : [https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir](https://www.lebigdata.fr/logiciel-espion-pegasus-tout-savoir) [consulté le 12 novembre 2024].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTM0NjcxLC0xNTU1NTY1NzA1LDg1MD
-Y2NTAzM119
+eyJoaXN0b3J5IjpbMjA1NDg1NDUxNCwtNjAxMzQ2NzEsLTE1NT
+U1NjU3MDUsODUwNjY1MDMzXX0=
 -->
