@@ -13,9 +13,9 @@
 
 
 
-## II- Le Projet Pégasus : Révélateur des failles du cadre légal et nécessité d’une régulation internationale plus stricte </span>
+## <span style='color : darkblue;'>  Le Projet Pégasus : Révélateur des failles du cadre légal et nécessité d’une régulation internationale plus stricte </span>
 
-### 1) Une mise en lumière des lacunes juridiques face aux technologies de surveillance**    </span>
+###  <span style='color : darkblue;'>1) Une mise en lumière des lacunes juridiques face aux technologies de surveillance**    </span>
    
  <p style='text-align:justify;'>
 En révélant les multiples atteintes au droit individuel et à la citoyenneté causées par le logiciel de cyber-espionnage Pegasus, les journalistes et laboratoires soulignent les nombreuses lacunes juridiques face aux technologies de surveillance. En effet, les outils juridiques en place jusqu’en 2021 n’ont pas permis de protéger les propriétaires des 50 000 téléphones potentiellement infectés par le logiciel. Le scandale lié à Pegasus révèle en particulier trois failles du cadre juridique.
@@ -37,11 +37,11 @@ Ainsi, l’utilisation de Pegasus s’appuie sur trois failles majeures du cadre
 En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel pour protéger les droits individuels et la citoyenneté. C’est uniquement grâce au travail d’un consortium de journalistes de Forbidden Stories et à l’expertise informatique du Citizen Lab d’Amnesty International que l’ampleur de l’utilisation de Pegasus a été révélée, permettant à la justice de se saisir de l’affaire. Ceci montre que pour garantir un cadre juridique réellement protecteur, il est essentiel non seulement de réformer les lois relatives au cyber-espionnage mais aussi de renforcer la protection des journalistes et des laboratoires indépendants. Leur travail compense, en partie, les défaillances étatiques et garantit la transparence nécessaire à la défense des droits fondamentaux.
 </p>
 
-### 2) Vers un renforcement du droit international : encadrement juridique et protection des droits humains à l’ère numérique  </span>
+### <span style='color : darkblue;'> 2) Vers un renforcement du droit international : encadrement juridique et protection des droits humains à l’ère numérique  </span>
 
 
 
-## Bibliographie
+##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDE0OTcwMywtMTg0MjE3NDI0Ml19
+eyJoaXN0b3J5IjpbLTEwMjE4NjY5OTNdfQ==
 -->
