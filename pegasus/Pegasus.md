@@ -2,7 +2,7 @@
 
 # Pegasus (logiciel espion)
 
- - ![enter image description here](https://cybersecuritymag.africa/sites/default/files/styles/og_image/public/2021-07/pegasus-nso.jpg?h=8368c627&itok=IrNjb_4Y)
+ ![enter image description here](https://cybersecuritymag.africa/sites/default/files/styles/og_image/public/2021-07/pegasus-nso.jpg?h=8368c627&itok=IrNjb_4Y)
 
 *Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ?* 
 
@@ -41,5 +41,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ## Bibliographie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzgxMzI2M119
+eyJoaXN0b3J5IjpbLTE3MDI2MTI1NDgsMTk1MzgxMzI2M119
 -->
