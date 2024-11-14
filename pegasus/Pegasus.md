@@ -107,7 +107,7 @@ Ainsi notre étude se concentre sur une question centrale : *Comment le logiciel
 
  <p style='text-align:justify;'>En dehors de l'Union européenne, d'autres pays n’ont guère pris de mesures pour répondre aux problèmes révélés par le Projet Pegasus. Les États-Unis, après avoir inscrit NSO Group sur leur liste noire, n'ont pas fait grand-chose de plus dans un premier temps. De petits progrès ont été réalisés aux États-Unis lorsque le président Biden a signé un décret imposant des limites à l'utilisation gouvernementale de logiciels espions commerciaux en 2023. De plus, les États-Unis ont collaboré avec d’autres pays lors des deux derniers Sommets pour la Démocratie afin de rédiger une déclaration contre la prolifération et l'usage abusif des logiciels espions commerciaux. Cependant, tout comme pour l'UE, ces déclarations peinent souvent à se traduire en actions concrètes. Le rapport de 2023 qui dénonçait l'implication des pays européens dans le cyberespionnage en Afrique a également révélé l'exportation de logiciels espions par des entreprises américaines. Bien que les États-Unis semblent soucieux de protéger leur propre cybersécurité, leur intérêt ne semble malheureusement pas s'étendre à la réglementation de l'utilisation de la technologie américaine à l'échelle internationale, en dépit des déclarations conjointes affirmant le contraire. De plus, même la cybersécurité intérieure est remise en question, car avec la transition future vers une administration Trump, l'avenir de ces efforts américains reste incertain. </p>
 
-
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfg8Ugya4jSBe_Pz04SOQHEa95Au_1qWFpFPpbPARt4DGobw5JXT0Cevv218quTK2TYEg3lhjwYFyudS8dVjV9dy7ost15NQ25vl26hBWrq68_7ML4YbrUwDU6jwVz7sxW3FapuFA?key=vMYSvzPhYwSeUDhOxw3_OBo9)**
  <p style='text-align:justify;'>Pour finir sur l’Union Européen, l’acteur qui en tout cas a pris le plus l'effort d’aller vers une protection des droits de l’homme sur l'internet et l'édifice des nouveaux lois pour fermer les lacunes de l’actuel droit. Le fait que le rapport PEGA identifie le travail de la presse et des lanceurs d'alerte comme la protection la plus efficace contre les logiciels espions est tout à fait ironique. La presse et les lanceurs d'alerte sont ceux qui sont les plus menacés par la prolifération des logiciels espions. Cela met en évidence l'échec des gouvernements mondiaux et d'autres autorités plus importantes, telles que l'UE et l’ONU, face à la menace qu'apporte cette nouvelle technologie. L'impact de Pegasus et d'autres logiciels espions similaires sur les droits de l'homme est grave, comme nous l'avons déjà souligné. Les rapports de 145 pages de l'UE, aussi détaillés soient-ils, ne devraient pas laisser entendre que seuls les journalistes peuvent défendre leurs droits humains. Comme beaucoup l'ont demandé, un changement global est nécessaire, et le cadre juridique doit être réformé pour mieux protéger les citoyens contre non seulement Pegasus, mais tous les logiciels qui menacent ces populations. </p>
 
 ## :bulb: Pour aller plus loin :  </span>
@@ -205,6 +205,6 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk1NjA1NDksLTc3NDIzNDI2OCwtMT
-IwOTAxMzE4NF19
+eyJoaXN0b3J5IjpbLTc0NjE0MDA2NCwtNzc0MjM0MjY4LC0xMj
+A5MDEzMTg0XX0=
 -->
