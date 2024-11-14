@@ -45,49 +45,27 @@ Le constat des journalistes est alors alarmant. Les Etats semblent faire un usag
 
   
 
-“ est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est
-
-nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la
-
-défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui”.
-
-  
+> “ est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui”.
 
 Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée. Cependant, Pegasus permet de collecter des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.
 
-  
-
 Pour les femmes en particulier, Pegasus représente une menace d’autant plus sérieuse. En accédant à leurs appareils, il pourrait permettre de collecter et de diffuser des informations privées ou des images intimes. Ces fuites d'informations peuvent exposer les femmes à des risques d'abus, de chantage et de stigmatisation sociale, ce qui représente un danger personnel considérable. En violant leur droit à la sécurité et à l’intimité, Pegasus porte atteinte à des aspects fondamentaux de la dignité humaine.
-
-  
 
 Outre les violations directes de la vie privée, l’utilisation de Pegasus restreint également d'autres droits fondamentaux tels que la liberté de réunion et la liberté d’expression. L’intrusion dans les appareils numériques limite la possibilité pour les individus de s’exprimer librement, car ils craignent que leurs propos ou actions soient surveillés et potentiellement réprimés. Ainsi, Pegasus instaure un climat de peur et de répression qui nous renvoie à l’œuvre dystopique 1984 de George Orwell. La phrase mythique « Big Brother is watching you » prend tout son sens dans le contexte de Pegasus.
 
-  
-
-Au Mexique, où la liberté d'expression est déjà restreinte, Pegasus a été utilisé pour surveiller de nombreux membres de la société civile, en ciblant des acteurs clés comme les journalistes, les militants et les défenseurs des droits humains. On peut notamment citer le cas du journaliste Cecilio Pineda Brito. Ce journaliste mexicain dénonçait les liens entre la police et les cartels locaux suite à son enquête sur le narcotrafic dans la région de Tierra Caliente. C’est ainsi que, le 2 mars 2017, il a été pris pour cible par un commando. On découvrira plus tard qu’il avait été identifié comme cible potentielle de Pegasus. Son numéro de téléphone figurait parmi les 15 000 contacts surveillés au Mexique. De même, Jamal Khashoggi, qui avait osé critiquer la monarchie saoudienne, a été assassiné à Istanbul. Une opération commando orchestrée par les autorités saoudiennes. Pegasus semble avoir joué un rôle déterminant. Le Security Lab d'Amnesty International a pu analyser le téléphone de sa compagne, Hatice Cengize. Il a été découvert que quatre jours après la mort de Jamal Khashoggi, Pegasus était installé sur son téléphone. Les auteurs de l’attaque pouvaient donc suivre chacun de ses échanges et le moindre de ses déplacements.
-
-  
+Au Mexique, où la liberté d'expression est déjà restreinte, Pegasus a été utilisé pour surveiller de nombreux membres de la société civile, en ciblant des acteurs clés comme les journalistes, les militants et les défenseurs des droits humains. On peut notamment citer le cas du journaliste Cecilio Pineda Brito. Ce journaliste mexicain dénonçait les liens entre la police et les cartels locaux suite à son enquête sur le narcotrafic dans la région de Tierra Caliente. C’est ainsi que, le 2 mars 2017, il a été pris pour cible par un commando. On découvrira plus tard qu’il avait été identifié comme cible potentielle de Pegasus. Son numéro de téléphone figurait parmi les 15 000 contacts surveillés au Mexique. De même, Jamal Khashoggi, qui avait osé critiquer la monarchie saoudienne, a été assassiné à Istanbul. Une opération commando orchestrée par les autorités saoudiennes. Pegasus semble avoir joué un rôle déterminant. Le Security Lab d'Amnesty International a pu analyser le téléphone de sa compagne, Hatice Cengize. Il a été découvert que quatre jours après la mort de Jamal Khashoggi, Pegasus était installé sur son téléphone. Les auteurs de l’attaque pouvaient donc suivre chacun de ses échanges et le moindre de ses déplacements.  
 
 Ces tragédie illustre le danger extrême auquel sont exposés les journalistes et les défenseurs des droits humains lorsque leur vie privée est violée, car cette surveillance permet de suivre leurs activités, d’identifier leurs sources et de les rendre vulnérables à des représailles violentes.
 
-  
-
 De la même manière, la fille de Paul Rusesabagina, opposant du président Kagame en prison au Rwanda qui s’était battue afin de libérer son père, a vu son téléphone infecté par Pegasus depuis la Belgique où elle réside. Ainsi, toutes ses informations ont été interceptées. La jeune femme a dit qu’elle portrait plainte et qu’elle était choquée de savoir que Rwanda, un pays pauvre, avait payé des millions pour l’espionner avec Pegausus, alors que cette argent aurait pu servir à nourrir la population.
 
-  
-
-Un autre cas marquant est celui des 43 étudiants d’Ayotzinapa, disparus au Mexique en 2014 après leur arrestation par la police. Les familles de ces étudiants, en quête de justice, auraient également été surveillées par le biais de Pegasus, un outil dont les autorités ont abusé pour contrôler et limiter les actions des activistes cherchant à connaître la vérité sur les disparitions. Cette affaire illustre un phénomène plus large de harcèlement et d’intimidation à l’encontre des familles de disparus au Mexique, qui se battent pour obtenir justice.
-
-  
+Un autre cas marquant est celui des 43 étudiants d’Ayotzinapa, disparus au Mexique en 2014 après leur arrestation par la police. Les familles de ces étudiants, en quête de justice, auraient également été surveillées par le biais de Pegasus, un outil dont les autorités ont abusé pour contrôler et limiter les actions des activistes cherchant à connaître la vérité sur les disparitions. Cette affaire illustre un phénomène plus large de harcèlement et d’intimidation à l’encontre des familles de disparus au Mexique, qui se battent pour obtenir justice.  
 
 En ciblant ces populations vulnérables et en violant la vie privée des individus, Pegasus va bien au-delà de son objectif déclaré de lutte contre la criminalité et le terrorisme. NSO Group se défend en affirmant que Pegasus est un outil essentiel pour lutter contre le terrorisme et le crime organisé, deux objectifs cruciaux pour la sécurité des États. Cependant, les révélations sur les usages de Pegasus dans des affaires de répression montrent que cette justification est insuffisante et qu’elle ne respecte pas les principes de légalité, de nécessité et de proportionnalité.
 
 D'après les rapporteurs spéciaux des Nations Unies, la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus: 
 
-> « leur utilisation ne peut être justifiée que dans dans le cadre
-> d'enquêtes sur des crimes graves et des menaces graves pour la
-> sécurité ».
+> « leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».
 
 Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des instances comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.
 
@@ -122,5 +100,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5ODYwMTY4LDE2ODM4NjU5ODVdfQ==
+eyJoaXN0b3J5IjpbLTUzNDExNzMzNiwxNjgzODY1OTg1XX0=
 -->
