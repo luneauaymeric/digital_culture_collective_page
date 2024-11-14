@@ -37,7 +37,7 @@ En outre, au-delà de cet interventionnisme étatique du cyberespace qui traduit
 
   
 
-Le constat des journalistes est alors alarmant. Les Etats semblent faire un usage libre et interventionnistes du logiciel de sorte à nourrir leur renseignements sur l’opposant politique ciblé et ce, sans que l'Etat attaqué soit en mesure de s’en rendre compte. Ce fut entre autres le cas en France . Le président de la République fut espionné à travers son téléphone personnel mais les services de renseignements en furent conscient seulement à la suite des révélations journalistiques . Forbidden stories, qui est un des instigateurs de ce scandale, fut alors enjoint par la gouvernement de communiquer la liste des 50 000 personnes touchées par Pegasus. Cette demande montre donc l'impuissance de la France face à cette problématique qui dépasse le cadre de la souveraineté nationale.
+Le constat des journalistes est alors alarmant. Les Etats semblent faire un usage libre et interventionnistes du logiciel de sorte à nourrir leur renseignements sur l’opposant politique ciblé et ce, sans que l'Etat attaqué soit en mesure de s’en rendre compte. Ce fut entre autres le cas en France . Le président de la République fut espionné à travers son téléphone personnel mais les services de renseignements en furent conscient seulement à la suite des révélations journalistiques . Forbidden stories, qui est un des instigateurs de ce scandale, fut alors enjoint par la gouvernement de communiquer la liste des 50 000 personnes touchées par Pegasus. Cette demande montre donc l'impuissance de la France face à cette problématique qui dépasse le cadre de la souveraineté nationale. </p>
 
 
 ### <span style='color : darkblue;'>2) Une stratégie de surveillance de masse menaçant les démocraties </span>
@@ -122,5 +122,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ5NDc2NjQsMTY4Mzg2NTk4NV19
+eyJoaXN0b3J5IjpbMTQ5ODE4NTU1MSwxNjgzODY1OTg1XX0=
 -->
