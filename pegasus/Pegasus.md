@@ -41,13 +41,13 @@ Le constat des journalistes est alors alarmant. Les Etats semblent faire un usag
 
 
 ### <span style='color : darkblue;'>2) Une stratégie de surveillance de masse menaçant les démocraties </span>
-<p style='text-align:justify;'>Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Le droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH):
+<p style='text-align:justify;'>Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Le droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH): </p>
 
   
 
 > “ est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui”.
 
-Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée. Cependant, Pegasus permet de collecter des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.
+<p style='text-align:justify;'> Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée. Cependant, Pegasus permet de collecter des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.
 
 Pour les femmes en particulier, Pegasus représente une menace d’autant plus sérieuse. En accédant à leurs appareils, il pourrait permettre de collecter et de diffuser des informations privées ou des images intimes. Ces fuites d'informations peuvent exposer les femmes à des risques d'abus, de chantage et de stigmatisation sociale, ce qui représente un danger personnel considérable. En violant leur droit à la sécurité et à l’intimité, Pegasus porte atteinte à des aspects fondamentaux de la dignité humaine.
 
@@ -63,11 +63,11 @@ Un autre cas marquant est celui des 43 étudiants d’Ayotzinapa, disparus au Me
 
 En ciblant ces populations vulnérables et en violant la vie privée des individus, Pegasus va bien au-delà de son objectif déclaré de lutte contre la criminalité et le terrorisme. NSO Group se défend en affirmant que Pegasus est un outil essentiel pour lutter contre le terrorisme et le crime organisé, deux objectifs cruciaux pour la sécurité des États. Cependant, les révélations sur les usages de Pegasus dans des affaires de répression montrent que cette justification est insuffisante et qu’elle ne respecte pas les principes de légalité, de nécessité et de proportionnalité.
 
-D'après les rapporteurs spéciaux des Nations Unies, la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus: 
+D'après les rapporteurs spéciaux des Nations Unies, la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus: </p>
 
 > « leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».
 
-Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des instances comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.
+<p style='text-align:justify;'> Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des instances comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.</p>
 
 
 ## <span style='color : darkblue;'>  Le Projet Pégasus : Révélateur des failles du cadre légal et nécessité d’une régulation internationale plus stricte </span>
@@ -100,5 +100,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDExNzMzNiwxNjgzODY1OTg1XX0=
+eyJoaXN0b3J5IjpbMTYwODIzMTIyNywxNjgzODY1OTg1XX0=
 -->
