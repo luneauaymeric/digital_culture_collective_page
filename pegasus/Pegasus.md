@@ -45,7 +45,7 @@ Le constat des journalistes est alors alarmant. Les Etats semblent faire un usag
 
   
 
-> “ Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.” [^1]
+> “ Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.”[^1]
 
 <p style='text-align:justify;'> Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée. Cependant, Pegasus permet de collecter des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.
 
@@ -112,11 +112,98 @@ D'après les rapporteurs spéciaux des Nations Unies, la surveillance des commun
 ## :bulb: Pour aller plus loin :
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
+
+
 ##  <span style='color : darkblue;'> Bibliographie : </span>
+Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
+
+  
+
+Amnesty France. “Projet Pegasus : au Mexique, des milliers de personnes ciblées par le logiciel espion.” Accessed November 8, 2024. https://www.amnesty.fr/liberte-d-expression/actualites/projet-pegasus-revelations-mexique-logiciel-espion-nso-group.
+
+  
+
+Belga. “Affaire Pegasus: le téléphone de la fille de Paul Rusesabagina a été ciblé par un logiciel espion.” La Libre.be, November 8, 2024. [https://www.lalibre.be/international/afrique/2021/07/20/affaire-pegasus-le-telephone-de-la-fille-de-paul-rusesabagina-a-ete-cible-par-un-logiciel-espion-46PDW4ILDFDQFOU3TWRBF76BOE/](https://www.lalibre.be/international/afrique/2021/07/20/affaire-pegasus-le-telephone-de-la-fille-de-paul-rusesabagina-a-ete-cible-par-un-logiciel-espion-46PDW4ILDFDQFOU3TWRBF76BOE/).
+
+  
+
+European Parliament, "L’incidence de Pegasus sur les droits fondamentaux et les processus démocratiques," Département thématique des droits des citoyens et des affaires constitutionnelles Direction générale des politiques internes - PE 740.514 – janvier 2023, 43.
+
+  
+
+Franceinfo. “ENQUÊTE. Le projet Pegasus : un logiciel espion utilisé par des États pour cibler des politiques, des journalistes, des avocats... y compris des Français,” July 18, 2021. https://www.francetvinfo.fr/monde/proche-orient/disparition-d-un-journaliste-saoudien/enquete-le-projet-pegasus-un-logiciel-espion-utilise-par-des-etats-pour-cibler-des-politiques-des-journalistes-des-avocats-y-compris-des-francais_4707199.html.
+
+“La fille d’un opposant rwandais espionnée par Pegasus en Belgique.” July 19, 2021. https://www.lemonde.fr/projet-pegasus/article/2021/07/19/la-fille-d-un-opposant-rwandais-espionnee-par-pegasus-en-belgique_6088774_6088648.html.
+
+  
+
+“Pegasus : des lois conformes aux droits de l’homme sont nécessaires pour réglementer les logiciels espions | ONU Info,” July 20, 2021. [https://news.un.org/fr/story/2021/07/1100402](https://news.un.org/fr/story/2021/07/1100402).
+
+« Affaire Pegasus : quelles avancées depuis le scandale des révélations ? » Amnesty France, https://www.amnesty.fr/liberte-d-expression/actualites/pegasus-quelles-avancees-depuis-les-revelations-surveillance-logiciel-espion. Consulté le 9 novembre 2024.
+
+  
+
+Froussard, Alice. « Affaire Pegasus : Israël pris à son propre piège ». Mediapart, 12 février 2022, https://www.mediapart.fr/journal/international/120222/affaire-pegasus-israel-pris-son-propre-piege.
+
+  
+
+Lamant, Ludovic. « Pegasus : vers un nouveau front judiciaire pour les indépendantistes catalans ». Mediapart, 25 avril 2022, https://www.mediapart.fr/journal/international/250422/pegasus-vers-un-nouveau-front-judiciaire-pour-les-independantistes-catalans.
+
+  
+
+Pegasus : la Catalogne demande des comptes à Madrid sur le possible espionnage de certains de ses élus. 20 avril 2022. Le Monde, https://www.lemonde.fr/projet-pegasus/article/2022/04/20/projet-pegasus-des-deputes-europeens-et-des-independantistes-catalans-cibles-par-le-logiciel-espion_6122902_6088648.html.
+
+  
+
+« Pegasus Project: 14 World Leaders in Leaked Database ». The Wire, https://thewire.in/world/pegasus-project-14-world-leaders-macron-ramaphosa-michel-imran. Consulté le 9 novembre 2024.
+
+  
+
+« Projet Pegasus : au Mexique, des milliers de personnes ciblées par le logiciel espion ». Amnesty France, https://www.amnesty.fr/liberte-d-expression/actualites/projet-pegasus-revelations-mexique-logiciel-espion-nso-group. Consulté le 9 novembre 2024.
+
+  
+
+« Projet Pegasus : le téléphone d’Emmanuel Macron pourrait avoir été espionné ». Amnesty France, https://www.amnesty.fr/liberte-d-expression/actualites/projet-pegasus-revelations-france-logiciel-espion-nso-group. Consulté le 9 novembre 2024.
+
+  
+
+« [Projet Pegasus] Révélations choc sur un logiciel espion israélien ». Amnesty France, https://www.amnesty.fr/liberte-d-expression/actualites/surveillance-revelations-sur-le-logiciel-espion-israelien-pegasus-nso-group. Consulté le 9 novembre 2024.
+
+  
+
+webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021, https://forbiddenstories.org/fr/a-propos-du-projet-pegasus/.
+
+  
+
+https://www.vie-publique.fr/fiches/269787-la-notion-de-souverainete-dans-les-relations-internationales. Consulté le 9 novembre 2024.
+
+  
+
+https://www.vie-publique.fr/fiches/271187-quest-ce-que-le-principe-de-la-responsabilite-de-proteger. Consulté le 9 novembre 2024.
+
+  
+
+Epthinktank. “What Action Has Parliament Taken against Spyware Abuse?,” June 2, 2024. https://epthinktank.eu/2024/06/02/what-action-has-parliament-taken-against-spyware-abuse/.
+
+  
+
+Feldstein, Steven, and Brian Kot. “Why Does the Global Spyware Industry Continue to Thrive? Trends, Explanations, and Responses.” Carnegie Endowment for International Peace, 2023. https://www.jstor.org/stable/resrep48430.
+
+  
+
+Roberts, T. et al. “Mapping the Supply of Surveillance Technologies to Africa: Case Studies from Nigeria, Ghana, Morocco, Malawi, and Zambia.” Institute of Development Studies. Accessed November 11, 2024. https://www.ids.ac.uk/publications/mapping-the-supply-of-surveillance-technologies-to-africa-case-studies-from-nigeria-ghana-morocco-malawi-and-zambia/.
+
+  
+
+UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11, 2024. https://www.state.gov/briefings-foreign-press-centers/unga79/commercial-spyware-freedom-online-ministerial/.
+
+  
+
+United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 ## Notes de bas de page :
-[^1] : Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.
+[^1] :Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjgxNDY5NCwtMzIzMDM4MDc4LC0zNT
-c5OTU4OTldfQ==
+eyJoaXN0b3J5IjpbMjA4NjEzODY4MCwtMzMyODE0Njk0LC0zMj
+MwMzgwNzgsLTM1Nzk5NTg5OV19
 -->
