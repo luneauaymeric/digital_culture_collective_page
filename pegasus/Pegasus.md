@@ -12,7 +12,7 @@ Ainsi notre étude se concentre sur une question centrale : *Comment le logiciel
 ## <span style='color : darkblue;'> Pegasus, une menace pour les droits fondamentaux et la démocratie </span>
 
 ### <span style='color : darkblue;'> 1) Une atteinte aux droits individuels et à la vie privée   </span>
-
+Pour la réalisation de l’exploration, la recherche d'informations sur Pegasus et ses implications pour les droits individuels a été un défi en raison de la rareté des matériaux disponibles sur le sujet. Nous avons donc principalement utilisé des articles et des rapports de sources fiables telles qu'Amnesty International, qui joue un rôle actif dans la dénonciation des abus de surveillance. Amnesty International a mené des enquêtes approfondies via son Security Lab, révélant la manière dont Pegasus fonctionne et les violations des droits qui en découlent. De plus, nous avons consulté des rapports produits par l'Union Européenne et les Nations Unies, qui fournissent un cadre analytique sur l'impact des technologies de surveillance sur les droits humains. Par ailleurs, nous avons tenté en vain de contacter des experts dans le domaine comme Steven Feldstein de The Carnegie Endowment for International Peace, qui a publié plusieurs articles sur la cybersécurité et les logiciels d'espionnage. Toutefois, nos efforts n’ont pas abouti dans la mesure où nous n’avons pas reçu de réponse, limitant ainsi notre accès à des perspectives internes supplémentaires.
 ### <span style='color : darkblue;'>2) Une stratégie de surveillance de masse menaçant les démocraties </span>
 
 
@@ -47,5 +47,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mzg2NTk4NV19
+eyJoaXN0b3J5IjpbMTkwMjIwOTU2MCwxNjgzODY1OTg1XX0=
 -->
