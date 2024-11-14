@@ -205,6 +205,5 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDkwMTMxODQsMTY5ODI3NjE4LDE3Nz
-MxMjg0ODUsLTQwMTU1Mjk4MF19
+eyJoaXN0b3J5IjpbLTEyMDkwMTMxODRdfQ==
 -->
