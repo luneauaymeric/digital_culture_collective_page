@@ -107,10 +107,11 @@ En dehors de l'Union européenne, d'autres pays n’ont guère pris de mesures p
  <p style='text-align:justify;'>Pour finir sur l’Union Européen, l’acteur qui en tout cas a pris le plus l'effort d’aller vers une protection des droits de l’homme sur l'internet et l'édifice des nouveaux lois pour fermer les lacunes de l’actuel droit. Le fait que le rapport PEGA identifie le travail de la presse et des lanceurs d'alerte comme la protection la plus efficace contre les logiciels espions est tout à fait ironique. La presse et les lanceurs d'alerte sont ceux qui sont les plus menacés par la prolifération des logiciels espions. Cela met en évidence l'échec des gouvernements mondiaux et d'autres autorités plus importantes, telles que l'UE et l’ONU, face à la menace qu'apporte cette nouvelle technologie. L'impact de Pegasus et d'autres logiciels espions similaires sur les droits de l'homme est grave, comme nous l'avons déjà souligné. Les rapports de 145 pages de l'UE, aussi détaillés soient-ils, ne devraient pas laisser entendre que seuls les journalistes peuvent défendre leurs droits humains. Comme beaucoup l'ont demandé, un changement global est nécessaire, et le cadre juridique doit être réformé pour mieux protéger les citoyens contre non seulement Pegasus, mais tous les logiciels qui menacent ces populations. <p style='text-align:justify;'>
 
 ## :bulb: Pour aller plus loin :
+
 [https://www.arte.tv/fr/videos/106169-001-A/pegasus-un-espion-dans-votre-poche/](https://www.arte.tv/fr/videos/106169-001-A/pegasus-un-espion-dans-votre-poche/)
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MTE4NDU5LC0xMDQzMzEzOTEsMTA3MD
-k2NDU1LDE2MDgyMzEyMjcsMTY4Mzg2NTk4NV19
+eyJoaXN0b3J5IjpbLTE3OTQ1NTgxNjcsLTEwNDMzMTM5MSwxMD
+cwOTY0NTUsMTYwODIzMTIyNywxNjgzODY1OTg1XX0=
 -->
