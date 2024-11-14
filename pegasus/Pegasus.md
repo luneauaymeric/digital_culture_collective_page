@@ -45,7 +45,7 @@ Le constat des journalistes est alors alarmant. Les Etats semblent faire un usag
 
   
 
-> “ Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.” 
+> “ Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.” [^1]
 
 <p style='text-align:justify;'> Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée. Cependant, Pegasus permet de collecter des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.
 
@@ -112,8 +112,11 @@ D'après les rapporteurs spéciaux des Nations Unies, la surveillance des commun
 ## :bulb: Pour aller plus loin :
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
-##  <span style='color : darkblue;'> Bibliographie </span>
+##  <span style='color : darkblue;'> Bibliographie : </span>
+
+## Notes de bas de page :
+[^1] : Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MTI3MTgsLTMyMzAzODA3OCwtMzU3OT
-k1ODk5XX0=
+eyJoaXN0b3J5IjpbLTMzMjgxNDY5NCwtMzIzMDM4MDc4LC0zNT
+c5OTU4OTldfQ==
 -->
