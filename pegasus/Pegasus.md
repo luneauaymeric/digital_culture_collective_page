@@ -45,7 +45,7 @@ Le constat des journalistes est alors alarmant. Les Etats semblent faire un usag
 
   
 
-> “ est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui”.
+> “ Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.” 
 
 <p style='text-align:justify;'> Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée. Cependant, Pegasus permet de collecter des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.
 
@@ -114,5 +114,6 @@ D'après les rapporteurs spéciaux des Nations Unies, la surveillance des commun
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzAzODA3OCwtMzU3OTk1ODk5XX0=
+eyJoaXN0b3J5IjpbOTc3MTI3MTgsLTMyMzAzODA3OCwtMzU3OT
+k1ODk5XX0=
 -->
