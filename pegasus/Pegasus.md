@@ -23,11 +23,73 @@ L’Etat de droit pourtant garanti par la souveraineté interne des Etats est al
 Par ailleurs, ce scandale planétaire révèle que Pegasus gangrène les rivalités de pouvoir interétatiques à des fins géopolitiques. Les Etats cherchent à maximiser leurs pouvoirs et contreviennent à la souveraineté des nations qu’ils outrepassent. Le renseignement devient un moyen illégal de maintenir sa compétitivité en terme de hard power numérique.
 
 Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. ![Le premier ministre libanais  Saad Hairi](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9)
+A l’échelle de l'Europe, les problématiques de souveraineté face à cet enjeu du contrôle du cyberespace est tout aussi présent. A la suite de la découverte de l’infection téléphonique du commissaire européen de la justice, Didier Reynders, et de quatres autres fonctionnaires, une question se pose : Qui est l’auteur de cette attaque ? Mais la commission fut incapable d’en deteriner l’origine. L’exécutif européen indique qu’il n’a aucune compétence en matière de contrôle sur les services de renseignement et renvoie vers les Etats membres, censés mener des enquêtes et permettre aux citoyens de recourir à une justice indépendante du pouvoir pour défendre leurs droits.
 
+  
+
+Par conséquent, la souveraineté externe des Etats est donc mise en péril par l’usage massif de ce logiciel. Le principe de souveraineté externe repose sur l'idée qu'un État dispose de l'autorité exclusive sur son territoire et sur la population qui y réside, sans qu'aucun autre État ne puisse s'immiscer dans ses affaires internes. L’État n’est ainsi subordonné à aucune autre entité et n’est soumis qu’à sa propre volonté.
+
+Mais le principe d’égalité entre les Etats est bafoué alors que la Charte des Nations Unies parle “d’égalité souveraine” à l’article 2 alinéa 1.
+
+  
+
+En outre, au-delà de cet interventionnisme étatique du cyberespace qui traduit les relations de pouvoirs et de rivalités nationales, les individus eux-mêmes sont affectés et sont une cible d'intérêt pour les utilisateurs de PeCes formes d'espionnage se retrouvent également entre le Rwanda et l’Afrique du Sud ou bien entre l’Inde et le Pakistan. Le [Premier ministre du Pakistan](https://fr.wikipedia.org/wiki/Premier_ministre_du_Pakistan)  [Imran Khan](https://fr.wikipedia.org/wiki/Imran_Khan) a ainsi été surveillé par les autorités indiennes à travers Pegasus.
+
+  
+
+Le constat des journalistes est alors alarmant. Les Etats semblent faire un usage libre et interventionnistes du logiciel de sorte à nourrir leur renseignements sur l’opposant politique ciblé et ce, sans que l'Etat attaqué soit en mesure de s’en rendre compte. Ce fut entre autres le cas en France . Le président de la République fut espionné à travers son téléphone personnel mais les services de renseignements en furent conscient seulement à la suite des révélations journalistiques . Forbidden stories, qui est un des instigateurs de ce scandale, fut alors enjoint par la gouvernement de communiquer la liste des 50 000 personnes touchées par Pegasus. Cette demande montre donc l'impuissance de la France face à cette problématique qui dépasse le cadre de la souveraineté nationale.
 
 
 ### <span style='color : darkblue;'>2) Une stratégie de surveillance de masse menaçant les démocraties </span>
+Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Le droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH):
 
+  
+
+“ est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est
+
+nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la
+
+défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui”.
+
+  
+
+Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée. Cependant, Pegasus permet de collecter des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.
+
+  
+
+Pour les femmes en particulier, Pegasus représente une menace d’autant plus sérieuse. En accédant à leurs appareils, il pourrait permettre de collecter et de diffuser des informations privées ou des images intimes. Ces fuites d'informations peuvent exposer les femmes à des risques d'abus, de chantage et de stigmatisation sociale, ce qui représente un danger personnel considérable. En violant leur droit à la sécurité et à l’intimité, Pegasus porte atteinte à des aspects fondamentaux de la dignité humaine.
+
+  
+
+Outre les violations directes de la vie privée, l’utilisation de Pegasus restreint également d'autres droits fondamentaux tels que la liberté de réunion et la liberté d’expression. L’intrusion dans les appareils numériques limite la possibilité pour les individus de s’exprimer librement, car ils craignent que leurs propos ou actions soient surveillés et potentiellement réprimés. Ainsi, Pegasus instaure un climat de peur et de répression qui nous renvoie à l’œuvre dystopique 1984 de George Orwell. La phrase mythique « Big Brother is watching you » prend tout son sens dans le contexte de Pegasus.
+
+  
+
+Au Mexique, où la liberté d'expression est déjà restreinte, Pegasus a été utilisé pour surveiller de nombreux membres de la société civile, en ciblant des acteurs clés comme les journalistes, les militants et les défenseurs des droits humains. On peut notamment citer le cas du journaliste Cecilio Pineda Brito. Ce journaliste mexicain dénonçait les liens entre la police et les cartels locaux suite à son enquête sur le narcotrafic dans la région de Tierra Caliente. C’est ainsi que, le 2 mars 2017, il a été pris pour cible par un commando. On découvrira plus tard qu’il avait été identifié comme cible potentielle de Pegasus. Son numéro de téléphone figurait parmi les 15 000 contacts surveillés au Mexique. De même, Jamal Khashoggi, qui avait osé critiquer la monarchie saoudienne, a été assassiné à Istanbul. Une opération commando orchestrée par les autorités saoudiennes. Pegasus semble avoir joué un rôle déterminant. Le Security Lab d'Amnesty International a pu analyser le téléphone de sa compagne, Hatice Cengize. Il a été découvert que quatre jours après la mort de Jamal Khashoggi, Pegasus était installé sur son téléphone. Les auteurs de l’attaque pouvaient donc suivre chacun de ses échanges et le moindre de ses déplacements.
+
+  
+
+Ces tragédie illustre le danger extrême auquel sont exposés les journalistes et les défenseurs des droits humains lorsque leur vie privée est violée, car cette surveillance permet de suivre leurs activités, d’identifier leurs sources et de les rendre vulnérables à des représailles violentes.
+
+  
+
+De la même manière, la fille de Paul Rusesabagina, opposant du président Kagame en prison au Rwanda qui s’était battue afin de libérer son père, a vu son téléphone infecté par Pegasus depuis la Belgique où elle réside. Ainsi, toutes ses informations ont été interceptées. La jeune femme a dit qu’elle portrait plainte et qu’elle était choquée de savoir que Rwanda, un pays pauvre, avait payé des millions pour l’espionner avec Pegausus, alors que cette argent aurait pu servir à nourrir la population.
+
+  
+
+Un autre cas marquant est celui des 43 étudiants d’Ayotzinapa, disparus au Mexique en 2014 après leur arrestation par la police. Les familles de ces étudiants, en quête de justice, auraient également été surveillées par le biais de Pegasus, un outil dont les autorités ont abusé pour contrôler et limiter les actions des activistes cherchant à connaître la vérité sur les disparitions. Cette affaire illustre un phénomène plus large de harcèlement et d’intimidation à l’encontre des familles de disparus au Mexique, qui se battent pour obtenir justice.
+
+  
+
+En ciblant ces populations vulnérables et en violant la vie privée des individus, Pegasus va bien au-delà de son objectif déclaré de lutte contre la criminalité et le terrorisme. NSO Group se défend en affirmant que Pegasus est un outil essentiel pour lutter contre le terrorisme et le crime organisé, deux objectifs cruciaux pour la sécurité des États. Cependant, les révélations sur les usages de Pegasus dans des affaires de répression montrent que cette justification est insuffisante et qu’elle ne respecte pas les principes de légalité, de nécessité et de proportionnalité.
+
+D'après les rapporteurs spéciaux des Nations Unies, la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus: 
+
+> « leur utilisation ne peut être justifiée que dans dans le cadre
+> d'enquêtes sur des crimes graves et des menaces graves pour la
+> sécurité ».
+
+Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des instances comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.
 
 
 ## <span style='color : darkblue;'>  Le Projet Pégasus : Révélateur des failles du cadre légal et nécessité d’une régulation internationale plus stricte </span>
@@ -60,5 +122,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjcwNzYwMiwxNjgzODY1OTg1XX0=
+eyJoaXN0b3J5IjpbLTExODQ5NDc2NjQsMTY4Mzg2NTk4NV19
 -->
