@@ -22,6 +22,9 @@ L’Etat de droit pourtant garanti par la souveraineté interne des Etats est al
 
 Par ailleurs, ce scandale planétaire révèle que Pegasus gangrène les rivalités de pouvoir interétatiques à des fins géopolitiques. Les Etats cherchent à maximiser leurs pouvoirs et contreviennent à la souveraineté des nations qu’ils outrepassent. Le renseignement devient un moyen illégal de maintenir sa compétitivité en terme de hard power numérique.
 
+Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. ![Le premier ministre libanais  Saad Hairi](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9)
+
+
 
 ### <span style='color : darkblue;'>2) Une stratégie de surveillance de masse menaçant les démocraties </span>
 
@@ -57,5 +60,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzODQwNjk1LDE2ODM4NjU5ODVdfQ==
+eyJoaXN0b3J5IjpbMTIxMjcwNzYwMiwxNjgzODY1OTg1XX0=
 -->
