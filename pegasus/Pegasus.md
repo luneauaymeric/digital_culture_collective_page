@@ -12,7 +12,7 @@ Ainsi notre étude se concentre sur une question centrale : *Comment le logiciel
 ## <span style='color : darkblue;'> Pegasus, une menace pour les droits fondamentaux et la démocratie </span>
 
 ### <span style='color : darkblue;'> 1) Une atteinte aux droits individuels et à la vie privée   </span>
-<p style='text-align:justify;'> L’entreprise NSO, fondatrice de Pegasus, ne cesse de défendre ses positions en réaffirmant que la vente de ce logiciel est exclusivement décernée à des entités gouvernementales. Au cours de l’affaire, le consortium de journalistes a relevé que onze États utilisaient Pegasus pour cibler les communications de journalistes, militants, dissidents ou politiques. Ainsi se pose la question de la légitimité de leur exploitation. Se cantonnent - elles réellement à la défense et prévention “des activités criminelles graves et terroristes.” ?  
+<p style='text-align:justify;'>  L’entreprise NSO, fondatrice de Pegasus, ne cesse de défendre ses positions en réaffirmant que la vente de ce logiciel est exclusivement décernée à des entités gouvernementales. Au cours de l’affaire, le consortium de journalistes a relevé que onze États utilisaient Pegasus pour cibler les communications de journalistes, militants, dissidents ou politiques. Ainsi se pose la question de la légitimité de leur exploitation. Se cantonnent - elles réellement à la défense et prévention “des activités criminelles graves et terroristes.” ?  
 
 Alors que l'existence de ce logiciel se veut sécuritaire, le constat actuel en fait un tableau bien différent. On assiste, comme le démontrent les journalistes et experts à l’orchestration d’une surveillance de masse. Bien que étatiques, les possesseurs de ce logiciel semblent animés par d’autres objectifs. Chaque Etat-acheteur s’en approprie les usages . Ils s'articulent dans le domaine d’actions de la souveraineté tant nationale qu' internationale . 
 
@@ -22,8 +22,8 @@ L’Etat de droit pourtant garanti par la souveraineté interne des Etats est al
 
 Par ailleurs, ce scandale planétaire révèle que Pegasus gangrène les rivalités de pouvoir interétatiques à des fins géopolitiques. Les Etats cherchent à maximiser leurs pouvoirs et contreviennent à la souveraineté des nations qu’ils outrepassent. Le renseignement devient un moyen illégal de maintenir sa compétitivité en terme de hard power numérique.
 
-Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. ![Le premier ministre libanais  Saad Hairi](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9)
-A l’échelle de l'Europe, les problématiques de souveraineté face à cet enjeu du contrôle du cyberespace est tout aussi présent. A la suite de la découverte de l’infection téléphonique du commissaire européen de la justice, Didier Reynders, et de quatres autres fonctionnaires, une question se pose : Qui est l’auteur de cette attaque ? Mais la commission fut incapable d’en deteriner l’origine. L’exécutif européen indique qu’il n’a aucune compétence en matière de contrôle sur les services de renseignement et renvoie vers les Etats membres, censés mener des enquêtes et permettre aux citoyens de recourir à une justice indépendante du pouvoir pour défendre leurs droits.
+Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. </p>![Le premier ministre libanais  Saad Hairi](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9)
+<p style='text-align:justify;'>A l’échelle de l'Europe, les problématiques de souveraineté face à cet enjeu du contrôle du cyberespace est tout aussi présent. A la suite de la découverte de l’infection téléphonique du commissaire européen de la justice, Didier Reynders, et de quatres autres fonctionnaires, une question se pose : Qui est l’auteur de cette attaque ? Mais la commission fut incapable d’en deteriner l’origine. L’exécutif européen indique qu’il n’a aucune compétence en matière de contrôle sur les services de renseignement et renvoie vers les Etats membres, censés mener des enquêtes et permettre aux citoyens de recourir à une justice indépendante du pouvoir pour défendre leurs droits.
 
   
 
@@ -41,7 +41,7 @@ Le constat des journalistes est alors alarmant. Les Etats semblent faire un usag
 
 
 ### <span style='color : darkblue;'>2) Une stratégie de surveillance de masse menaçant les démocraties </span>
-Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Le droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH):
+<p style='text-align:justify;'>Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Le droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH):
 
   
 
@@ -122,5 +122,5 @@ En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel po
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODE4NTU1MSwxNjgzODY1OTg1XX0=
+eyJoaXN0b3J5IjpbNzE5ODYwMTY4LDE2ODM4NjU5ODVdfQ==
 -->
