@@ -29,7 +29,7 @@
 
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9" alt="Le premier ministre libanais  Saad Hairi"></img>
 
-<p style='text-align:justify;'>A l’échelle de l'Europe, les problématiques de souveraineté face à cet enjeu du contrôle du cyberespace est tout aussi présent. A la suite de la découverte de l’infection téléphonique du commissaire européen de la justice, Didier Reynders, et de quatres autres fonctionnaires, une question se pose : Qui est l’auteur de cette attaque ? Mais la commission fut incapable d’en deteriner l’origine. L’exécutif européen indique qu’il n’a aucune compétence en matière de contrôle sur les services de renseignement et renvoie vers les Etats membres, censés mener des enquêtes et permettre aux citoyens de recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
+<p style='text-align:justify;'>A l’échelle de l'Europe, les problématiques de souveraineté face à cet enjeu du contrôle du cyberespace est tout aussi présent. A la suite de la découverte de l’infection téléphonique du commissaire européen de la justice, Didier Reynders, et de quatres autres fonctionnaires, une question se pose : Qui est l’auteur de cette attaque ? Mais la commission fut incapable d’en determiner l’origine. L’exécutif européen indique qu’il n’a aucune compétence en matière de contrôle sur les services de renseignement et renvoie vers les Etats membres, censés mener des enquêtes et permettre aux citoyens de recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
 
   
 
@@ -55,7 +55,7 @@
 
 <p style='text-align:justify;'> Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée. Cependant, Pegasus permet de collecter des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.</p>
 
-<p style='text-align:justify;'>Pour les femmes en particulier, Pegasus représente une menace d’autant plus sérieuse. En accédant à leurs appareils, il pourrait permettre de collecter et de diffuser des informations privées ou des images intimes. Ces fuites d'informations peuvent exposer les femmes à des risques d'abus, de chantage et de stigmatisation sociale, ce qui représente un danger personnel considérable. En violant leur droit à la sécurité et à l’intimité, Pegasus porte atteinte à des aspects fondamentaux de la dignité humaine.</p>
+<p style='text-align:justify;'> Pegasus représente une menace d’autant plus sérieuse pour les femmes. En accédant à leurs appareils, il pourrait permettre de collecter et de diffuser des informations privées ou des images intimes. Ces fuites d'informations peuvent exposer les femmes à des risques d'abus, de chantage et de stigmatisation sociale, ce qui représente un danger personnel considérable. En violant leur droit à la sécurité et à l’intimité, Pegasus porte atteinte à des aspects fondamentaux de la dignité humaine.</p>
 
 <p style='text-align:justify;'>Outre les violations directes de la vie privée, l’utilisation de Pegasus restreint également d'autres droits fondamentaux tels que la liberté de réunion et la liberté d’expression. L’intrusion dans les appareils numériques limite la possibilité pour les individus de s’exprimer librement, car ils craignent que leurs propos ou actions soient surveillés et potentiellement réprimés. Ainsi, Pegasus instaure un climat de peur et de répression qui nous renvoie à l’œuvre dystopique 1984 de George Orwell. La phrase mythique « Big Brother is watching you » prend tout son sens dans le contexte de Pegasus.</p>
 
@@ -211,5 +211,6 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc3MTc2NDAsMzA1NjkyNDU5XX0=
+eyJoaXN0b3J5IjpbLTE0ODEzMzkzNzAsLTE3ODc3MTc2NDAsMz
+A1NjkyNDU5XX0=
 -->
