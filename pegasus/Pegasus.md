@@ -114,7 +114,7 @@ Ainsi notre étude se concentre sur une question centrale : *Comment le logiciel
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfg8Ugya4jSBe_Pz04SOQHEa95Au_1qWFpFPpbPARt4DGobw5JXT0Cevv218quTK2TYEg3lhjwYFyudS8dVjV9dy7ost15NQ25vl26hBWrq68_7ML4YbrUwDU6jwVz7sxW3FapuFA?key=vMYSvzPhYwSeUDhOxw3_OBo9)**
  <p style='text-align:justify;'>Pour finir sur l’Union Européen, l’acteur qui en tout cas a pris le plus l'effort d’aller vers une protection des droits de l’homme sur l'internet et l'édifice des nouveaux lois pour fermer les lacunes de l’actuel droit. Le fait que le rapport PEGA identifie le travail de la presse et des lanceurs d'alerte comme la protection la plus efficace contre les logiciels espions est tout à fait ironique. La presse et les lanceurs d'alerte sont ceux qui sont les plus menacés par la prolifération des logiciels espions. Cela met en évidence l'échec des gouvernements mondiaux et d'autres autorités plus importantes, telles que l'UE et l’ONU, face à la menace qu'apporte cette nouvelle technologie. L'impact de Pegasus et d'autres logiciels espions similaires sur les droits de l'homme est grave, comme nous l'avons déjà souligné. Les rapports de 145 pages de l'UE, aussi détaillés soient-ils, ne devraient pas laisser entendre que seuls les journalistes peuvent défendre leurs droits humains. Comme beaucoup l'ont demandé, un changement global est nécessaire, et le cadre juridique doit être réformé pour mieux protéger les citoyens contre non seulement Pegasus, mais tous les logiciels qui menacent ces populations. </p>
 
-## <span style='color : darkblue;'> :bulb: Pour aller plus loin :  </span>
+## <span style='color : darkblue;'> 💡 Pour aller plus loin :  </span>
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
 
@@ -209,6 +209,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMwNzkyOTYsLTE1NDAyMTY1NjksLT
-c0NjE0MDA2NCwtNzc0MjM0MjY4LC0xMjA5MDEzMTg0XX0=
+eyJoaXN0b3J5IjpbLTEzNjY2MDExMDcsLTEwNjMwNzkyOTYsLT
+E1NDAyMTY1NjksLTc0NjE0MDA2NCwtNzc0MjM0MjY4LC0xMjA5
+MDEzMTg0XX0=
 -->
