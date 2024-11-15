@@ -24,7 +24,6 @@ Ainsi notre étude se concentre sur une question centrale : *Comment le logiciel
 
 <p style='text-align:justify;'>Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. </p>
 
-![Le premier ministre libanais  Saad Hairi](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9)
 
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9" alt="Le premier ministre libanais  Saad Hairi"></img>
 
