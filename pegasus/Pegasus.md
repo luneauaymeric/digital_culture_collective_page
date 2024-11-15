@@ -11,7 +11,7 @@
 
 ## <span style='color : darkblue;'> Pegasus, une menace pour les droits fondamentaux et la démocratie </span>
 
-### <span style='color : darkblue;'> 1) Une atteinte aux droits individuels et à la vie privée   </span>
+### <span style='color : darkblue;'> Une atteinte aux droits individuels et à la vie privée   </span>
 <p style='text-align:justify;'>  L’entreprise NSO, fondatrice de Pegasus, ne cesse de défendre ses positions en réaffirmant que la vente de ce logiciel est exclusivement décernée à des entités gouvernementales. Au cours de l’affaire, le consortium de journalistes a relevé que onze États utilisaient Pegasus pour cibler les communications de journalistes, militants, dissidents ou politiques. Ainsi se pose la question de la légitimité de leur exploitation. Se cantonnent - elles réellement à la défense et prévention “des activités criminelles graves et terroristes.” ?  </p>
 
 <p style='text-align:justify;'> Alors que l'existence de ce logiciel se veut sécuritaire, le constat actuel en fait un tableau bien différent. On assiste, comme le démontrent les journalistes et experts à l’orchestration d’une surveillance de masse. Bien que étatiques, les possesseurs de ce logiciel semblent animés par d’autres objectifs. Chaque Etat-acheteur s’en approprie les usages . Ils s'articulent dans le domaine d’actions de la souveraineté tant nationale qu' internationale . </p>
@@ -44,7 +44,7 @@
 <p style='text-align:justify;'>Le constat des journalistes est alors alarmant. Les Etats semblent faire un usage libre et interventionnistes du logiciel de sorte à nourrir leur renseignements sur l’opposant politique ciblé et ce, sans que l'Etat attaqué soit en mesure de s’en rendre compte. Ce fut entre autres le cas en France . Le président de la République fut espionné à travers son téléphone personnel mais les services de renseignements en furent conscient seulement à la suite des révélations journalistiques . Forbidden stories, qui est un des instigateurs de ce scandale, fut alors enjoint par la gouvernement de communiquer la liste des 50 000 personnes touchées par Pegasus. Cette demande montre donc l'impuissance de la France face à cette problématique qui dépasse le cadre de la souveraineté nationale. </p>
 
 
-### <span style='color : darkblue;'>2) Une stratégie de surveillance de masse menaçant les démocraties </span>
+### <span style='color : darkblue;'> Une stratégie de surveillance de masse menaçant les démocraties </span>
 <p style='text-align:justify;'>Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Le droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH): </p>
 
   
@@ -76,7 +76,7 @@
 
 ## <span style='color : darkblue;'>  Le Projet Pégasus : Révélateur des failles du cadre légal et nécessité d’une régulation internationale plus stricte </span>
 
-###  <span style='color : darkblue;'>1) Une mise en lumière des lacunes juridiques face aux technologies de surveillance   </span>
+###  <span style='color : darkblue;'>Une mise en lumière des lacunes juridiques face aux technologies de surveillance   </span>
    
  <p style='text-align:justify;'> En révélant les multiples atteintes au droit individuel et à la citoyenneté causées par le logiciel de cyber-espionnage Pegasus, les journalistes et laboratoires soulignent les nombreuses lacunes juridiques face aux technologies de surveillance. En effet, les outils juridiques en place jusqu’en 2021 n’ont pas permis de protéger les propriétaires des 50 000 téléphones potentiellement infectés par le logiciel. Le scandale lié à Pegasus révèle en particulier trois failles du cadre juridique.
 
@@ -100,7 +100,7 @@
  <p style='text-align:justify;'>En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel pour protéger les droits individuels et la citoyenneté. C’est uniquement grâce au travail d’un consortium de journalistes de Forbidden Stories et à l’expertise informatique du Citizen Lab d’Amnesty International que l’ampleur de l’utilisation de Pegasus a été révélée, permettant à la justice de se saisir de l’affaire. Ceci montre que pour garantir un cadre juridique réellement protecteur, il est essentiel non seulement de réformer les lois relatives au cyber-espionnage mais aussi de renforcer la protection des journalistes et des laboratoires indépendants. Leur travail compense, en partie, les défaillances étatiques et garantit la transparence nécessaire à la défense des droits fondamentaux.
 </p>
 
-### <span style='color : darkblue;'> 2) Vers un renforcement du droit international : encadrement juridique et protection des droits humains à l’ère numérique  </span>
+### <span style='color : darkblue;'> Vers un renforcement du droit international : encadrement juridique et protection des droits humains à l’ère numérique  </span>
  <p style='text-align:justify;'> Le cas de Pegasus, bien qu'à première vue plutôt sombre, compte tenu des 50 000 personnes espionnées, se conclut de manière plus claire que la plupart des affaires dans le secteur du cyberespionnage. Après la publication du Projet Pegasus 2021 par Amnesty International, le gouvernement américain a placé NSO Group, l’entreprise à l'origine du logiciel, sur une liste noire. Bien que cette mesure ait déstabilisé l'entreprise, celle-ci continue d'exister, même si elle n'a plus sa puissance d’antan Toutefois, si l'on examine les tendances de l'industrie mondiale des logiciels espions, le projet Pegasus ne semble malheureusement pas avoir été l’électrochoc espéré par ses auteurs pour inciter les gouvernements mondiaux à agir contre l’essor du cyberespionnage. </p>
 
  <p style='text-align:justify;'>Certains gouvernements ont pris des mesures importantes pour examiner la problématique du cyberespionnage. Comme mentionné,, le gouvernement américain a placé NSO Group sur liste noire. De son côté, le Parlement européen est allé encore plus loin en créant la PEGA (commission d'enquête sur l'utilisation de Pegasus et de logiciels espions de surveillance équivalents). Cette commission, qui s'est dissoute en 2023 avec un rapport final de 145 pages sur ce qu’elle a trouvé et ses recommandations, a enquêté sur les abus gouvernementaux spécifiques de Pegasus, et d’autres logiciels équivalents, dans les pays de l'UE et au-delà. À la suite de ces investigations, PEGA a dressé une liste de recommandations à l'intention de l'UE.</p>
@@ -209,7 +209,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk3NDI4MDMsLTEzNjY2MDExMDcsLT
-EwNjMwNzkyOTYsLTE1NDAyMTY1NjksLTc0NjE0MDA2NCwtNzc0
-MjM0MjY4LC0xMjA5MDEzMTg0XX0=
+eyJoaXN0b3J5IjpbLTkxMTQyNjAwMSwtMTM2NjYwMTEwNywtMT
+A2MzA3OTI5NiwtMTU0MDIxNjU2OSwtNzQ2MTQwMDY0LC03NzQy
+MzQyNjgsLTEyMDkwMTMxODRdfQ==
 -->
