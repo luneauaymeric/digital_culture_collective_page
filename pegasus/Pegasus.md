@@ -26,6 +26,8 @@ Ainsi notre étude se concentre sur une question centrale : *Comment le logiciel
 
 ![Le premier ministre libanais  Saad Hairi](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9)
 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM3fS0gC4xv48ee-Sh4_9HYPjMaWHZFqtUXve-pz8urSrJKl0MYou1XGJQ5zDrumRWoff-vEG1AyReNQYQkoH0bOrUZyahe2LhfR7gKJpfQtUGwJWe4Sa8sNBtYw_cqZvC63NtIQ?key=vMYSvzPhYwSeUDhOxw3_OBo9" alt="Le premier ministre libanais  Saad Hairi"></img>
+
 <p style='text-align:justify;'>A l’échelle de l'Europe, les problématiques de souveraineté face à cet enjeu du contrôle du cyberespace est tout aussi présent. A la suite de la découverte de l’infection téléphonique du commissaire européen de la justice, Didier Reynders, et de quatres autres fonctionnaires, une question se pose : Qui est l’auteur de cette attaque ? Mais la commission fut incapable d’en deteriner l’origine. L’exécutif européen indique qu’il n’a aucune compétence en matière de contrôle sur les services de renseignement et renvoie vers les Etats membres, censés mener des enquêtes et permettre aux citoyens de recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
 
   
