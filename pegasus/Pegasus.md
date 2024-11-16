@@ -51,7 +51,7 @@
 <p style='text-align:justify;'>Le constat des journalistes est alors alarmant. Les Etats semblent faire un usage libre et interventionnistes du logiciel de sorte à nourrir leur renseignements sur l’opposant politique ciblé et ce, sans que l'Etat attaqué soit en mesure de s’en rendre compte. Ce fut entre autres le cas en France . Le président de la République fut espionné à travers son téléphone personnel mais les services de renseignements en furent conscient seulement à la suite des révélations journalistiques . Forbidden stories, qui est un des instigateurs de ce scandale, fut alors enjoint par la gouvernement de communiquer la liste des 50 000 personnes touchées par Pegasus. Cette demande montre donc l'impuissance de la France face à cette problématique qui dépasse le cadre de la souveraineté nationale. </p>
 
 
-###   <span style='color : darkblue;'>Une stratégie de surveillance de masse menaçant les démocraties </span>
+###   <span style='color : darkblue;'>Une stratégie de surveillance de masse menaçant les démocraties </
 <p style='text-align:justify;'>Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Le droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH): </p>
 
   
@@ -216,5 +216,5 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgyNTMwMzksMTUxNTM5MDA2NV19
+eyJoaXN0b3J5IjpbLTEwMzA5NzI2OTEsMTUxNTM5MDA2NV19
 -->
