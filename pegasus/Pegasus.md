@@ -11,9 +11,9 @@
 
 <p style='text-align:justify;'>Réaliser cette exploration a été un véritable défi en raison de la rareté des informations disponibles sur Pégasus. Pendant un mois et demi, nous avons tenté de contacter des salariés de NSO Group, des journalistes ayant participé au Projet Pegasus, des députés ayant participé aux rapports de l’Union Européenne sur le sujet ainsi que des experts dans le domaine des technologies de cyber-surveillance comme Steven Feldstein de The Carnegie Endowment for International Peace, qui a publié plusieurs articles sur la cybersécurité et les logiciels d'espionnage. Toutefois, sur les 24 personnes contactées, seule Jeanne Ohamo, attachée de presse du parlement européen nous a répondu, en nous indiquant qu’elle ne pourrait pas nous aider.</p>
 
-<p style='text-align:justify;'>
+<p style='text-align:justify;'>Pour réaliser nos recherches, nous avons donc dû nous contenter d’articles de journal et de rapports de sources fiables sur le sujet. Le travail d’Amnesty International sur le sujet nous a été particulièrement utile puisque l’ONG a joué un rôle majeur dans la dénonciation des abus d’utilisation de Pegasus en menant des enquêtes approfondies via son laboratoire de recherche appelé “Security Lab”. Nous nous sommes également beaucoup intéressées aux rapports produits par l’Union Européenne qui analysent l’impact des technologies de surveillance sur les droits humains et les évolutions nécessaires des cadres légaux et éthiques.</p>
 
- <p style='text-align:justify;'>Ainsi notre étude se concentre sur une question centrale : *Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ?* </p>
+ <p style='text-align:justify;'>En nous appuyant sur ces sources, nous avons donc tenté de répondre à la question suivante : “ *Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ?”*</p>
 
 
 ## <span style='color : darkblue;'> Pegasus, une menace pour les droits fondamentaux et la démocratie </span>
@@ -216,6 +216,6 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODU2NTg5NywtMTQ4MTMzOTM3MCwtMT
-c4NzcxNzY0MCwzMDU2OTI0NTldfQ==
+eyJoaXN0b3J5IjpbLTEzMTI1NjkwNTUsLTE0ODEzMzkzNzAsLT
+E3ODc3MTc2NDAsMzA1NjkyNDU5XX0=
 -->
