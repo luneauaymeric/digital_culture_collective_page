@@ -13,12 +13,12 @@
 
 <p style='text-align:justify;'>Pour réaliser nos recherches, nous avons donc dû nous contenter d’articles de journal et de rapports de sources fiables sur le sujet. Le travail d’Amnesty International sur le sujet nous a été particulièrement utile puisque l’ONG a joué un rôle majeur dans la dénonciation des abus d’utilisation de Pegasus en menant des enquêtes approfondies via son laboratoire de recherche appelé “Security Lab”. Nous nous sommes également beaucoup intéressées aux rapports produits par l’Union Européenne qui analysent l’impact des technologies de surveillance sur les droits humains et les évolutions nécessaires des cadres légaux et éthiques.</p>
 
- <p style='text-align:justify;'>En nous appuyant sur ces sources, nous avons donc tenté de répondre à la question suivante :_“ Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ?”_</p>
+ <p style='text-align:justify;'>En nous appuyant sur ces sources, nous avons donc tenté de répondre à la question suivante :Ainsi notre étude se concentre sur une question centrale : *Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ?* </p>
 
 
 ## <span style='color : darkblue;'> Pegasus, une menace pour les droits fondamentaux et la démocratie </span>
 
-###  <span style='color : darkblue;'> Une atteinte aux droits individuels et à la vie privée</span>   
+###  Une atteinte aux droits individuels et à la vie privée   
 <p style='text-align:justify;'>  L’entreprise NSO, fondatrice de Pegasus, ne cesse de défendre ses positions en réaffirmant que la vente de ce logiciel est exclusivement décernée à des entités gouvernementales. Au cours de l’affaire, le consortium de journalistes a relevé que onze États utilisaient Pegasus pour cibler les communications de journalistes, militants, dissidents ou politiques. Ainsi se pose la question de la légitimité de leur exploitation. Se cantonnent - elles réellement à la défense et prévention “des activités criminelles graves et terroristes.” ?  </p>
 
 <p style='text-align:justify;'> Alors que l'existence de ce logiciel se veut sécuritaire, le constat actuel en fait un tableau bien différent. On assiste, comme le démontrent les journalistes et experts à l’orchestration d’une surveillance de masse. Bien que étatiques, les possesseurs de ce logiciel semblent animés par d’autres objectifs. Chaque Etat-acheteur s’en approprie les usages . Ils s'articulent dans le domaine d’actions de la souveraineté tant nationale qu' internationale . </p>
@@ -51,7 +51,7 @@
 <p style='text-align:justify;'>Le constat des journalistes est alors alarmant. Les Etats semblent faire un usage libre et interventionnistes du logiciel de sorte à nourrir leur renseignements sur l’opposant politique ciblé et ce, sans que l'Etat attaqué soit en mesure de s’en rendre compte. Ce fut entre autres le cas en France . Le président de la République fut espionné à travers son téléphone personnel mais les services de renseignements en furent conscient seulement à la suite des révélations journalistiques . Forbidden stories, qui est un des instigateurs de ce scandale, fut alors enjoint par la gouvernement de communiquer la liste des 50 000 personnes touchées par Pegasus. Cette demande montre donc l'impuissance de la France face à cette problématique qui dépasse le cadre de la souveraineté nationale. </p>
 
 
-###   <span style='color : darkblue;'>Une stratégie de surveillance de masse menaçant les démocraties </
+###  Une stratégie de surveillance de masse menaçant les démocraties 
 <p style='text-align:justify;'>Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Le droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH): </p>
 
   
@@ -216,5 +216,5 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA5NzI2OTEsMTUxNTM5MDA2NV19
+eyJoaXN0b3J5IjpbLTE4MTM1MTYzOTgsMTUxNTM5MDA2NV19
 -->
