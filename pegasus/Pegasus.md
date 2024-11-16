@@ -125,6 +125,7 @@
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
 
+[^1]:Article 8 de la Convention des droits de l'homme
 
 ##  <span style='color : darkblue;'> Bibliographie : </span>
 Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
@@ -213,8 +214,7 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
-
-[^1]:Article 8 de la Cnvention des droits de l'homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzcwNzk5LDEyMDMzMTE3MzddfQ==
+eyJoaXN0b3J5IjpbLTg2MDQ2NTk4NCwtNzY3NzA3OTksMTIwMz
+MxMTczN119
 -->
