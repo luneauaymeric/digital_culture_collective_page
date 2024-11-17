@@ -68,7 +68,7 @@ Comment le logiciel espion Pegasus, qui menace les droits individuels et la cito
 
 <p style='text-align:justify;'> Cependant, Pegasus viole ces principes fondamentaux. Il collecte des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.</p>
 
-<p style='text-align:justify;'>Cependant, Pegasus viole ces principes fondamentaux. Il collecte des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.</p>
+<p style='text-align:justify;'>Cependant, Pegasus viole ces principes fondamentaux.[^3] Il collecte des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.</p>
 
 <p style='text-align:justify;'>Outre les violations directes de la vie privée, l’utilisation de Pegasus restreint également d'autres droits fondamentaux tels que la liberté de réunion et la liberté d’expression. Les intrusions numériques limitent la possibilité pour les individus de s’exprimer librement, car ils craignent que leurs propos ou actions soient surveillés et potentiellement réprimés. Cette atmosphère oppressante évoque l’univers dystopique décrit dans 1984 de George Orwell, où la phrase “Big Brother is watching you” trouve un écho troublant dans l’affaire Pegasus.</p>
 
@@ -226,9 +226,10 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]: The Time of Israël
 [^2]: Article 8 de la Convention Européenne des Droits de l'Homme
+[^3]: Blabla 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MzU2MTgyLDc5NTY4MTU1OCw2NjgzMj
+eyJoaXN0b3J5IjpbMTg1NTgwNDM0LDc5NTY4MTU1OCw2NjgzMj
 A3MTgsMTQwMTE4OTk0OSw4OTc4OTQzMzMsMTg4ODYzNDk0Nl19
 
 -->
