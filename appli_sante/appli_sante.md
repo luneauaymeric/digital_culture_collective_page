@@ -12,12 +12,9 @@ Nous nous demandons donc si les pratiques individuelles de “Quantified Self”
 
 Pour répondre, nous allons d’abord nous intéresser à l’avis des professionnels de santé, pour ensuite évoquer les expériences vécues par les utilisateurs, et enfin étudier les implications politiques et commerciales influençant notre rapport à l’autonomie et au contrôle de notre corps.
 
-# 1.  Avis des professionnels de santé </ins>
+# <ins> 1.  Avis des professionnels de santé
     
-
-  
-
-En premier lieu, nous allons nous intéresser à l’avis des professionnels de santé en comparant le témoignage d’une diététicienne-nutritionniste interrogée via une visioconférence Zoom et celui d’un médecin généraliste, recueilli de manière indirecte dans un article du site internet Cairn.
+En premier lieu, nous nous sommes intéressés à l’avis des professionnels de santé en comparant le témoignage d’une diététicienne-nutritionniste interrogée via une visioconférence Zoom et celui d’un médecin généraliste, recueilli de manière indirecte dans un article du site internet Cairn.
 
 Madame Alexandra Murcier, une diététicienne-nutritionniste basée à Paris, a accepté de nous recevoir pour répondre à nos questions sur les applications de minceur, et plus particulièrement sur My Fitness Pal. Selon elle, ces applications peuvent avoir de nombreux effets positifs pour les utilisateurs tant qu'elles restent un support motivant et que ne créent pas d’obsession autour du poids. En effet, les applications de minceur telles que My Fitness Pal permettent un suivi quotidien impossible à réaliser par les professionnels de santé. En pouvant rentrer les données de chaque repas réalisé, les utilisateurs ont la possibilité de contrôler leur alimentation en direct. Madame Murcier nous a partagé qu’elle conseillait les applications de minceur à certains de ses patients en surpoids afin de les aider à poursuivre leurs objectifs plus efficacement. Selon elle, les applications de minceur sont stimulantes et permettent aux utilisateurs de s’imposer des challenges et améliorer leurs résultats. Quant à My Fitness Pal, Madame Murcier nous a avoué être favorable à son utilisation du fait de son catalogue alimentaire très riche et diversifié permettant aux utilisateurs de pouvoir précisément inscrire ce qu’ils mangent.
 
@@ -25,17 +22,8 @@ Lorsque nous avons cherché des arguments allant à l’encontre de ceux de Mada
 
 In fine, malgré les points positifs et négatifs émis plus haut, les opinions des professionnels de santé restent plutôt mitigées et modérées quant à l’utilisation des applications minceur. Le diététicien-nutritionniste et auteur du livre Healthy Food Charles Brumauld explique qu’il est indispensable pour une personne souhaitant perdre du poids de consulter un professionnel de santé mais qu’il est également possible d’être soutenu par une application minceur. Toutefois, il insiste grandement sur la nécessité du caractère éphémère de l’utilisation d’applications minceur car, selon lui, sur le long terme, celles-ci peuvent « imposer un contrôle mental permanent qui peut générer des pulsions alimentaires incontrôlables » (Brumauld, 2023). Ainsi, les applications minceur telles que My Fitness Pal peuvent être perçues comme un appui intéressant au travail en consultation tant qu’elles ne s’y substituent pas.
 
-  
-
-2.  Avis du public vis-à-vis de ces applications
-    
-
-  
-
-1.  Expériences négatives vécues par les utilisateurs
-    
-
-  
+# <ins>2.  Avis du public vis-à-vis de ces applications
+# A)  Expériences négatives vécues par les utilisateurs
 
 Ensuite, nous nous sommes intéressés aux visions de ces applications que leurs utilisateurs peuvent avoir. Nous avons donc interrogé des utilisateurs de MyFitnessPal et d’autres applications similaires vis-à-vis de leurs expériences de ces services. Si certains utilisateurs ont eu des expériences positives avec ces applications, mentionnant leur utilité pour planifier l’activité physique et encourager une nutrition saine et variée, d’autres ont néanmoins vécu des expériences négatives au cours de leur période d’utilisation.
 
@@ -45,27 +33,16 @@ Une autre personne, ancienne utilisatrice de MyFitnessPal, a commencé à utilis
 
   
 
-2.  Point de vue extérieur à l’utilisation
-    
-
-  
+# 2.  Point de vue extérieur à l’utilisation
+ 
 
 Nous avons également décidé d’interroger des individus n’ayant jamais utilisé ces applications, pour comprendre les visions extérieures liées à ces pratiques, ainsi que les potentielles caractéristiques qui motivent ou non les individus à utiliser ces applications.
 
-  
-
 Les attraits de ces applications évoqués par les personnes interrogées incluent tout d’abord la possibilité de créer des rythmes et des habitudes d’alimentation et de pratique sportive bénéfiques pour la santé, ainsi que de recevoir des informations utiles pour établir ces rythmes. Plusieurs considèrent que ces applications permettent aux individus de s’améliorer par eux-mêmes vis-à-vis de leur santé et augmentent leur autonomie et leur motivation, en formant un cadre autour de leur alimentation et leur exercice physique. Certains ont également soulevé le fait que ces applications permettent de lutter contre la sédentarité en milieu urbain comme rural en donnant des conseils d’exercice accessibles à tous en termes de localisation et d’équipement.
-
-  
 
 Cependant, plusieurs personnes ont mentionné des caractéristiques négatives de ces applications sans les avoir utilisées. Ces personnes mentionnent notamment les effets négatifs que peut avoir le message de la mesure permanente voulue par le “Quantified Self”, qui pourrait causer la mise en place d’objectifs irréalistes et globalement interférer de manière significative avec la vie quotidienne et la mentalité des utilisateurs. Elles considèrent que la mesure permanente des caractéristiques physiques de chacun peut donner lieu à des conséquences psychologiques très néfastes, allant de problèmes graves comme la boulimie à une simple mentalité de comparaison permanente avec les autres vis-à-vis de ces mesures. Certains interrogés ont notamment déploré l’influence inégale que peuvent avoir ces pratiques et ces outils sur les femmes par rapport aux hommes, en expliquant que les critères physiques déjà inégaux dans la société peuvent être exacerbés par les normes physiques présentées dans les programmes de ces applications, et que celles-ci offrent aux femmes la possibilité de tenter d’atteindre ces standards sociaux au détriment de leur santé. D’autres ont considéré que l’utilisation monétisée des données récoltées par ces applications était injuste et déplorable, surtout considérant les nombreuses visions négatives partagées par d’anciens utilisateurs, qui partagent souvent leurs expériences de falsification des données pour respecter les critères de ces applications.
 
-  
-
 Globalement, si de nombreux utilisateurs semblent avoir eu des expériences positives avec ces applications, certains d’entre eux ont rencontré des difficultés personnelles importantes au travers de leur utilisation. Les conséquences psychologiques de la mesure permanente et du cadre invasif du “Quantified Self” dans le domaine de la nutrition sont importantes et souvent connues, à la fois par les utilisateurs ayant vécu de telles expériences, mais également par de nombreux individus extérieurs à ces pratiques. Bien que jugées très utiles et bénéfiques par de nombreux individus pour adopter des pratiques physiques et alimentaires bénéfiques, le risque d’une utilisation malavisée donnant lieu à un renforcement de comportements néfastes pour la santé demeure important et trop peu étudié par les entreprises à l’origine de ces applications.
-
-  
-  
 
 3.  Implications politiques et commerciales
     
@@ -208,5 +185,5 @@ Union Européenne. “Régulation 2017/745”, 2017.
 
 Wolf, Gary. "Gary Wolf: The Quantified Self" TED Talks, 27 Septembre 2010, [https://www.youtube.com/watch?v=OrAo8oBBFIo](https://www.youtube.com/watch?v=OrAo8oBBFIo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDY3NTcwNSwzNTI4Mjg3MjRdfQ==
+eyJoaXN0b3J5IjpbLTI5NjU2NTc3NiwzNTI4Mjg3MjRdfQ==
 -->
