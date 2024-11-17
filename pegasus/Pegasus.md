@@ -232,7 +232,7 @@ Epthinktank. “What Action Has Parliament Taken against Spyware Abuse?,” June
 
 Feldstein, Steven, and Brian Kot. “Why Does the Global Spyware Industry Continue to Thrive? Trends, Explanations, and Responses.” Carnegie Endowment for International Peace, 2023. https://www.jstor.org/stable/resrep48430.
 
-  
+KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 
 Roberts, T. et al. “Mapping the Supply of Surveillance Technologies to Africa: Case Studies from Nigeria, Ghana, Morocco, Malawi, and Zambia.” Institute of Development Studies. Accessed November 11, 2024. https://www.ids.ac.uk/publications/mapping-the-supply-of-surveillance-technologies-to-africa-case-studies-from-nigeria-ghana-morocco-malawi-and-zambia/.
 
@@ -267,8 +267,8 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYyNjU1OTIsLTI2NDEyNjA2Miw4Mj
-M4MjYwMTAsNjUyODM0NjcxLDMwMzg3ODE3MywtNjk3NjI2MzA5
-LC0yNDg3NDU0MTYsNDc1MzYxMDYyLC00MDk1MzE4MjYsNzYxOT
-Q3NTc1XX0=
+eyJoaXN0b3J5IjpbMTIxNzI1Njk2OSwtMTg0NjI2NTU5MiwtMj
+Y0MTI2MDYyLDgyMzgyNjAxMCw2NTI4MzQ2NzEsMzAzODc4MTcz
+LC02OTc2MjYzMDksLTI0ODc0NTQxNiw0NzUzNjEwNjIsLTQwOT
+UzMTgyNiw3NjE5NDc1NzVdfQ==
 -->
