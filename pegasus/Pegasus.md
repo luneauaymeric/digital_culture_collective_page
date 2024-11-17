@@ -41,7 +41,7 @@ Comment le logiciel espion Pegasus, qui menace les droits individuels et la cito
 <p style='text-align:justify;'>Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. </p>
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjPkML7uEto8Pd-5dr4wIpzluz3OjIbcipvF03VBzUDWzSeiOPmFWqB9DlZPKkw1Shx4COYisVoF3wXlBauI_L6ZnQsFvkos9MKaEz1l_ohGccnBk3qWCdao_KEB4R1yTIYqxu?key=vMYSvzPhYwSeUDhOxw3_OBo9)**
-*Le premier ministre libanais Saad Hariri*[^2] 
+*Le premier ministre libanais Saad Hariri*[^1] 
 
 <p style='text-align:justify;'>À l’échelle européenne, les problématiques de souveraineté face à l’enjeu du contrôle du cyberespace sont tout aussi préoccupantes. Après la découverte de l’infection téléphonique du commissaire européen à la justice, Didier Reynders, et de quatre autres fonctionnaires, une question majeure se pose : qui est l’auteur de cette attaque ? Pourtant, la Commission européenne se révéle incapable d’en déterminer l’origine. Elle a indique ne pas avoir de compétence en matière de contrôle sur les services de renseignement, renvoyant cette responsabilité aux États membres, censés mener leurs propres enquêtes. Les citoyens, quant à eux, sont invités à recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
 
@@ -64,7 +64,7 @@ Comment le logiciel espion Pegasus, qui menace les droits individuels et la cito
 <p style='text-align:justify;'> Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Ce droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH). Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée, sauf dans des conditions strictes :</p>
 
   
-> “ Il ne peut y avoir ingérence d’une autorité publique dans l’exercice de ce droit que pour autant que cette ingérence est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui.”[^3]
+> “ Il ne peut y avoir ingérence d’une autorité publique dans l’exercice de ce droit que pour autant que cette ingérence est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui.”
 
 <p style='text-align:justify;'> Cependant, Pegasus viole ces principes fondamentaux. Il collecte des données personnelles en temps réel et de manière clandestine, en s’introduisant secrètement dans les appareils des individus sans leur consentement pour collecter en continu des données personnelles, incluant des appels, messages, photos, vidéos et courriels.</p>
 
@@ -228,7 +228,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 [^2]: Article 8 de la Convention Européenne des Droits de l'Homme
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Njk4ODAyMiw3OTU2ODE1NTgsNjY4Mz
-IwNzE4LDE0MDExODk5NDksODk3ODk0MzMzLDE4ODg2MzQ5NDZd
-fQ==
+eyJoaXN0b3J5IjpbLTE0NzY5NTg2ODQsNzk1NjgxNTU4LDY2OD
+MyMDcxOCwxNDAxMTg5OTQ5LDg5Nzg5NDMzMywxODg4NjM0OTQ2
+XX0=
 -->
