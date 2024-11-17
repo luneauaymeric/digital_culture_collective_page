@@ -133,7 +133,7 @@
 [^9] European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76
 [^10]Roberts et al., *Mapping the Supply of Surveillance Technologies to Africa*, p. 33.
 [^11]Roberts et al., *Mapping the Supply of Surveillance Technologies to Africa*, p. 33.
-[^12]
+[^12]European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 
 ##  <span style='color : darkblue;'> Bibliographie : </span>
 Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
@@ -223,6 +223,6 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTI4MTI2Myw4Nzk2ODgxMDgsNTQzNj
-YzOTY3LC04NjA0NjU5ODRdfQ==
+eyJoaXN0b3J5IjpbLTE5OTc5OTgzODEsODc5Njg4MTA4LDU0Mz
+Y2Mzk2NywtODYwNDY1OTg0XX0=
 -->
