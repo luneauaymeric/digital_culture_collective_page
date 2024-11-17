@@ -4,21 +4,15 @@ En 2010, lors d’une conférence TED, le journaliste américain Gary Wolf, l’
 
 Pour notre projet d’étude, nous avons décidé de nous intéresser au thème du “Quantified Self”. Le “Quantified Self” est un terme inventé aux Etats-Unis qui regroupe les pratiques, technologies et principes qui permettent aux individus de mesurer et analyser par eux-mêmes diverses données personnelles. Cette pratique est particulièrement développée dans le domaine de la santé, permettant à de nombreux utilisateurs de ces technologies de suivre en continu des mesures comme leur rythme cardiaque, l’apport calorique de leurs repas, leur activité physique ou bien l’oxygénation de leur sang. Aujourd’hui, il existe de nombreuses applications dédiées à la remise en forme et à la promotion de la santé physique. Celles-ci se basent sur la mise à disposition volontaire de données personnelles des utilisateurs, récoltées par des appareils connectés.
 
-Parmi elles, l’application My Fitness Pal créée par Mike Lee en 2005, qui a pour objectif de permettre aux utilisateurs de suivre leur apport alimentaire quotidien en comptant le nombre de calories consommées en une journée. L’application a dépassé les 200 millions d’utilisateurs en 2020 et a généré plus de 375 millions de dollars de bénéfices en 2023 (Curry, 2024).
+Parmi elles, il y a l’application My Fitness Pal créée par Mike Lee en 2005, qui a pour objectif de permettre aux utilisateurs de suivre leur apport alimentaire quotidien en comptant le nombre de calories consommées en une journée. L’application a dépassé les 200 millions d’utilisateurs en 2020 et a généré plus de 375 millions de dollars de bénéfices en 2023 (Curry, 2024).
 
 Nous avons choisi de travailler sur ce sujet car nous nous interrogions sur les effets que ce genre d’applications pouvaient avoir, en étudiant notamment les avis des professionnels de santé et des utilisateurs sur celles-ci afin de mieux comprendre les différentes pratiques liées à ces applications et évaluer l’efficacité des régulations existantes.
 
-  
-
-Les pratiques individuelles de “Quantified Self” dans le domaine de la santé sont-elles seulement bénéfiques, ou nécessitent-elles un suivi et une régulation plus stricts ?
-
-  
+Nous nous demandons donc si les pratiques individuelles de “Quantified Self” dans le domaine de la santé via des applications sont seulement bénéfiques, ou si elles nécessitent un suivi et une régulation plus stricts ?
 
 Pour répondre, nous allons d’abord nous intéresser à l’avis des professionnels de santé, pour ensuite évoquer les expériences vécues par les utilisateurs, et enfin étudier les implications politiques et commerciales influençant notre rapport à l’autonomie et au contrôle de notre corps.
 
-  
-
-1.  Avis des professionnels de santé
+# 1.  Avis des professionnels de santé </ins>
     
 
   
@@ -214,5 +208,5 @@ Union Européenne. “Régulation 2017/745”, 2017.
 
 Wolf, Gary. "Gary Wolf: The Quantified Self" TED Talks, 27 Septembre 2010, [https://www.youtube.com/watch?v=OrAo8oBBFIo](https://www.youtube.com/watch?v=OrAo8oBBFIo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTMyNDUxMSwzNTI4Mjg3MjRdfQ==
+eyJoaXN0b3J5IjpbLTQ1MDY3NTcwNSwzNTI4Mjg3MjRdfQ==
 -->
