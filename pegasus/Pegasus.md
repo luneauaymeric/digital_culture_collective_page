@@ -160,7 +160,7 @@ Pour répondre à ces enjeux, il est essentiel de créer des mécanismes interna
 
 
 
-##  <span style='color : darkblue;'> Bibliographie : </span>
+##  <span style='color : darkblue;'> Bibliographie </span>
 Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
 
   
@@ -269,7 +269,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2OTQ5NDE0LC0xOTg3NjUxMzkzLC0xOD
+eyJoaXN0b3J5IjpbMzI2MDU3OTMyLC0xOTg3NjUxMzkzLC0xOD
 Q2MjY1NTkyLC0yNjQxMjYwNjIsODIzODI2MDEwLDY1MjgzNDY3
 MSwzMDM4NzgxNzMsLTY5NzYyNjMwOSwtMjQ4NzQ1NDE2LDQ3NT
 M2MTA2MiwtNDA5NTMxODI2LDc2MTk0NzU3NV19
