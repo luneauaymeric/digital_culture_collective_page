@@ -71,39 +71,36 @@ Les données collectées par les applications de santé sont souvent monétisée
 
 Premièrement, les entreprises exploitent ces données pour cartographier les profils des consommateurs. Par exemple, MyFitnessPal partage les identifiants et emplacements des utilisateurs avec des tiers comme « Flurry », qui génère des statistiques à des fins commerciales (Millington, 2014). Même les plateformes gratuites imposent un coût : la marchandisation des données au profit d’intérêts corporatistes. En bref, ce modèle néolibéral valorise le libre choix des utilisateurs, mais toujours sous l’influence des impératifs de marché, renforçant une gouvernance algorithmique dictée par une logique de rentabilité et de productivité. De surcroît, si certains enquêtés ne perçoivent pas les risques, considérant leur collecte de données inoffensive en comparaison à celle des réseaux sociaux, d’autres expriment des préoccupations. Certains dénoncent l'inaction des entreprises face aux problèmes éthiques liés à ces pratiques. Ainsi, ces applications posent des enjeux complexes, où bien-être individuel et intérêts commerciaux s’entrelacent.
 
-d) Marketing et Pression Sociale
+#### d) Marketing et Pression Sociale
 
 Les techniques marketing des applications de self-tracking influencent fortement notre perception de la performance et de notre relation au corps, en promouvant des idéaux de santé souvent inaccessibles, imposés par les institutions, professionnels et publicités. Les messages normatifs diffusés par les professionnels de santé banalisent certaines pratiques, parfois au détriment du bien-être psychologique. Par exemple, l'obsession des calories, introduite dans les années 1970, repose sur une stricte balance énergétique, avec des régimes faibles en graisses largement soutenus par des institutions comme l’American Heart Association (avertissant des risques cardiovasculaires de trop consommer de graisses) (MacManus, 2015). De même, les podomètres standardisent les pratiques sportives, avec des objectifs comme les 10 000 pas, présentés comme une norme morale et commune (Pharabod, 2019). Ces messages simplifient donc des problématiques complexes et ignorent des facteurs comme la génétique ou les maladies.
 
 Par ailleurs, le ludisme et la praticité de ces outils, amplifiés par des stratégies marketing efficaces, rendent ces dispositifs attrayants tout en masquant leur caractère prescriptif. Par exemple, MyFitnessPal a triplé sa base de données alimentaires en 2004 pour attirer plus d’utilisateurs. Ces techniques facilitent l’acceptation des normes imposées, alimentant une pression sociale constante. Un enquêté note : « Il faut vivre et ne pas vouloir tout contrôler tout le temps, c’est très dur dans une société où l’image de nous-même nous est renvoyée à chaque publicité. » Ainsi, santé et marketing coopèrent, via la diffusion de messages normatifs, pour modeler nos comportements et alimenter des idéaux parfois oppressants.
 
-2.  L’Individu Face à son Corps : Autonomie et Isolement
+## 2.  L’Individu Face à son Corps : Autonomie et Isolement
     
-
-a) Responsabilité et Individualisme
+### a) Responsabilité et Individualisme
 
 Le suivi de soi, aligné avec l'idéal néolibéral du « soi entrepreneurial », valorise l'autonomie et la responsabilité individuelle, plaçant les utilisateurs d'applications de santé comme seuls responsables de leur bien-être et de leur réussite. Cette individualisation des pratiques favorise l’isolement et l’autodiscipline, tout en permettant une "privatisation mobile" grâce à l'accès autonome à des outils de santé, sans dépendance aux professionnels.
 
 Parallèlement, les plateformes encouragent un individualisme en réseau où les utilisateurs partagent leurs progrès pour motiver et surveiller leurs pairs, comme sur MyFitnessPal (Millington, 2014). Cette quête de reconnaissance sociale, via un partage en ligne, pousse à ajuster son comportement pour répondre aux attentes du groupe, renforçant des idéaux méritocratiques de réussite personnelle. Par exemple, des membres félicitent ceux ayant transformé leur corps, insistant sur la "force de volonté", tandis que ceux qui échouent sont culpabilisés. Certains méprisent les excuses liées à la génétique ou à la maladie, perçues comme de la fainéantise (Onno, 2020), créant une division entre les « forts » et les « faibles » et exacerbant la pression sociale. Ce système illustre l’individualisation et la responsabilisation du libéralisme, au cœur du Quantified Self.
 
-b) Autonomie et détachement des Institutions
+### b) Autonomie et détachement des Institutions
 
 Les applications de self-tracking favorisent une autonomie accrue en permettant un certain détachement des institutions médicales traditionnelles. Tout d’abord, elles offrent aux personnes atteintes de maladies, comme les diabétiques, la possibilité de surveiller leur santé en temps réel via des outils pratiques, comme le suivi du glucose (Dagiral, 2019). Plus largement, ces outils permettent même aux individus en bonne santé de choisir leurs méthodes et outils, rejetant parfois les standards traditionnels. Les adeptes du QS se positionnent comme experts de leur propre corps grâce à une appropriation renforcée de leur santé.
 
 Cependant, cette autonomie a ses limites. Certains utilisateurs critiquent les professionnels de santé, affirmant qu'il faut « se prendre en main » pour réussir, tout en appréciant les économies réalisées (Onno, 2020). Pourtant, certains aspects de la santé nécessitent un conseil professionnel. Julien Onno parle d'auto-santé, où des savoirs médicaux sont partagés sur des forums, créant une expertise collective qui floute la frontière entre applications de loisirs et dispositifs médicaux. Une coopération entre applications et institutions médicales pourrait néanmoins offrir une solution, notamment pour les malades chroniques, permettant un suivi quotidien sécurisé et réduisant les déplacements à l’hôpital. Globalement, la quantification de la santé doit évoluer dans un cadre respectant le bien-être individuel et les normes médicales.
 
-c) Maîtrise et Repli sur Soi
+### c) Maîtrise et Repli sur Soi
 
 Les applications de self-tracking offrent un contrôle accru sur le corps, renforçant la confiance en soi, comme décrit par une enquêtée. Mais elles traduisent aussi un transfert de responsabilités de santé des institutions vers les individus, inscrivant cette dynamique dans une culture de l'individualisme et du narcissisme, comme l’analyse Christopher Lasch (1979). Le QS devient donc une extension de ces tendances, où l’individu se concentre sur lui-même, souvent au détriment des liens sociaux. Ces pratiques renforcent l’isolement et peuvent transformer l’auto-surveillance en quête de validation sociale, plus proche du "m’as-tu-vu" que d’un épanouissement personnel réel (Onno, 2020).
 
 Pourtant, le self-tracking promet également une meilleure connaissance de soi. Certains utilisateurs considèrent chaque objectif atteint comme un signe de soin personnel. Une enquête montre que certains usagers intègrent des activités comme le shopping ou les sorties dans leur comptabilisation, cherchant ainsi à renforcer leur estime de soi sans suivre strictement les normes de performance libérales (Pharabod, 2019). Le QS balance entre la promesse de mieux se connaître et le risque de perdre sa liberté, contribuant à la fragmentation sociale, au consumérisme technologique, et à l’éloignement des enjeux collectifs de santé (Onno, 2020).
 
-3.  Régulations, entre limitations claires et insuffisances
+# <ins> 3.  Régulations, entre limitations claires et insuffisances
     
 
-a) Normes existantes en France vis-à-vis du Quantified Self
-
-  
+## 1. Normes existantes en France vis-à-vis du Quantified Self
 
 Aujourd’hui, les pratiques et outils de “Quantified Self” se sont largement développés et démocratisés au sein de la population. Certaines applications sont même directement incluses dans le système des téléphones portables neufs, comme Apple Health ou Samsung Health. Cependant, cette démocratisation importante n’a pas été accompagnée d’une évolution de la législation liée à l’utilisation des données personnelles en France. L’administration publique française est consciente de l’existence de ces technologies, comme le montre le fait que la Commission de l’enrichissement de la langue française, anciennement Commission générale de terminologie et de néologie, qui veille notamment à assurer l’emploi de termes corrects et cohérents dans les publications officielles. Cette Commission a publié au Journal Officiel en 2017 une traduction obligatoire de “Quantified Self” par “automesure connectée” dans les rapports et compte-rendus émis par les administrations et les établissements de l’Etat (Journal Officiel, 2017), prouvant que ce sujet peut être amené à être étudié par des politiques publiques.
 
@@ -111,9 +108,7 @@ Vis-à-vis de la loi, le Quantified Self soulève principalement des débats sur
 
   
 
-b) Insuffisances et normes et “zones de vide” vis-à-vis du “Quantified Self”
-
-  
+## 2. Insuffisances des règlementations vis-à-vis du “Quantified Self”
 
 Cependant, ces normes restent insuffisantes pour réguler efficacement le traitement des données effectué par les applications de santé. L’utilisation d’objets connectés équipés de capteurs permet de contourner la notion de donnée de santé en définissant les mesures récoltées d’une autre manière ou en ne définissant pas leur technologie comme “médicale”. Ceci a partiellement été résolu par la régulation européenne 2017/745 de 2017, qui met en place une procédure dédiée de commercialisation pour les produits capables de mesurer des données de santé et étend cette procédure à des objets connectés “sans but médical prévu” mais jugés capables d’en avoir (Régulation 2017/745, 2017). Un autre élément important est le fait que certaines données comme la localisation ne sont pas considérées comme des données personnelles relevant de l’identité, comme “les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses ou l’appartenance syndicale des personnes” (Loi “Informatique et Libertés”, 1978), ce qui signifie qu’elles peuvent être traitées et collectées sans autre régulation que l’accord préalable des utilisateurs.
 
@@ -132,19 +127,13 @@ De plus, l’article 6 de la loi de 1978 requiert que les données récoltées e
 
 Bibliographie
 
-  
-
 Brumauld, Charles. “Alimentation” [http://www.charlesbrumauld.com/category/alimentation/](http://www.charlesbrumauld.com/category/alimentation/)
-
-  
 
 Curry, David. « MyFitnessPal Revenue and Usage Statistics (2024) ». Business of Apps. Consulté le 17 novembre 2024. [https://www.businessofapps.com/data/myfitnesspal-statistics/](https://www.businessofapps.com/data/myfitnesspal-statistics/).
 
 Dagiral, Éric. “Extension chiffrée du domaine du perfectionnement? La place des technologies de quantification du soi dans les projets d’auto-optimisation des individus”. 2019. Ethnologie Française
 
 Dagiral, Éric, et al. «Le Quantified Self en question(s) : Un état des lieux des travaux de sciences sociales consacrés à l’automesure des individus». Réseaux, 2019/4 n° 216, 2019. p.17-54. Cairn. [shs.cairn.info/revue-reseaux-2019-4-page-17?lang=fr](http://shs.cairn.info/revue-reseaux-2019-4-page-17?lang=fr).
-
-  
 
 Delmotte, Hélène. (2015). La minceur à plein régime. Les Tribunes de la santé, n° 49(4), 55-60. [https://doi-org.scpo.idm.oclc.org/10.3917/seve.049.0055](https://doi-org.scpo.idm.oclc.org/10.3917/seve.049.0055).
 
@@ -154,19 +143,13 @@ France, Assemblée Nationale. “Loi no 78-17 du 6 janvier 1978 relative à l’
 
 France, Assemblée Nationale, Code de la Santé Publique. “Articles L1110 et L1111 du Code de la Santé Publique”, 2021. Consulté le 17 Novembre 2024. [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045212793](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045212793)
 
-  
-
 Journal Officiel de la République Française, Vocabulaire de la santé (liste de termes, expressions et définitions adoptés), 4 mars 2017. Consulté le 17 novembre 2024.
 
 Lasch, Christopher. The Culture of Narcissism. 1979
 
-  
-
 Levinson, Cheri A., Fewell, Laura, & Brosof, Leigh C. (2017). My Fitness Pal calorie tracker usage in the eating disorders. Eating Behaviors, 27, 14–16.
 
 MacManus, Richard. «Diet Wars: Tracking food with MyfitnessPal» (Chapt.3). Health Trackers: How Technology Is Helping Us Monitor and Improve Our Health. 2015. Roman & Littlefield Publishers
-
-  
 
 Murcier, Alexandra. “Nutrition”. [https://www.alexandramurcier.com](https://www.alexandramurcier.com)
 
@@ -184,5 +167,5 @@ Union Européenne. “Régulation 2017/745”, 2017.
 
 Wolf, Gary. "Gary Wolf: The Quantified Self" TED Talks, 27 Septembre 2010, [https://www.youtube.com/watch?v=OrAo8oBBFIo](https://www.youtube.com/watch?v=OrAo8oBBFIo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzc5MjA5NywzNTI4Mjg3MjRdfQ==
+eyJoaXN0b3J5IjpbMTU2MTg3NjY4OCwzNTI4Mjg3MjRdfQ==
 -->
