@@ -222,13 +222,12 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 
-[^1]: The Time of Israël
+[^1]: “ENQUÊTE. Le projet Pegasus.”
 [^2]: The Time of Israël
-Article 8 de la Convention Européenne des Droits de l'Homme
-[^3]: Blabla 
+[^3]:Article 8 de la Convention Européenne des Droits de l'Homme 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDg5ODIwOSwtMTI2NzE1NTY2Niw3OT
+eyJoaXN0b3J5IjpbMTY5Njg0OTc4OCwtMTI2NzE1NTY2Niw3OT
 U2ODE1NTgsNjY4MzIwNzE4LDE0MDExODk5NDksODk3ODk0MzMz
 LDE4ODg2MzQ5NDZdfQ==
 -->
