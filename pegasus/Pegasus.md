@@ -174,15 +174,21 @@ Amnesty France. “Projet Pegasus : au Mexique, des milliers de personnes cibl
 Belga. “Affaire Pegasus: le téléphone de la fille de Paul Rusesabagina a été ciblé par un logiciel espion.” La Libre.be, November 8, 2024. [https://www.lalibre.be/international/afrique/2021/07/20/affaire-pegasus-le-telephone-de-la-fille-de-paul-rusesabagina-a-ete-cible-par-un-logiciel-espion-46PDW4ILDFDQFOU3TWRBF76BOE/](https://www.lalibre.be/international/afrique/2021/07/20/affaire-pegasus-le-telephone-de-la-fille-de-paul-rusesabagina-a-ete-cible-par-un-logiciel-espion-46PDW4ILDFDQFOU3TWRBF76BOE/).
 
   
+Epthinktank. “What Action Has Parliament Taken against Spyware Abuse?,” June 2, 2024. https://epthinktank.eu/2024/06/02/what-action-has-parliament-taken-against-spyware-abuse/.
 
 European Parliament, "L’incidence de Pegasus sur les droits fondamentaux et les processus démocratiques," Département thématique des droits des citoyens et des affaires constitutionnelles Direction générale des politiques internes - PE 740.514 – janvier 2023, 43.
 
-  
+Feldstein, Steven, and Brian Kot. “Why Does the Global Spyware Industry Continue to Thrive? Trends, Explanations, and Responses.” Carnegie Endowment for International Peace, 2023. https://www.jstor.org/stable/resrep48430.
 
 Franceinfo. “ENQUÊTE. Le projet Pegasus : un logiciel espion utilisé par des États pour cibler des politiques, des journalistes, des avocats... y compris des Français,” July 18, 2021. https://www.francetvinfo.fr/monde/proche-orient/disparition-d-un-journaliste-saoudien/enquete-le-projet-pegasus-un-logiciel-espion-utilise-par-des-etats-pour-cibler-des-politiques-des-journalistes-des-avocats-y-compris-des-francais_4707199.html.
 
 Froussard, Alice. « Affaire Pegasus : Israël pris à son propre piège ». Mediapart, 12 février 2022, https://www.mediapart.fr/journal/international/120222/affaire-pegasus-israel-pris-son-propre-piege.
 
+https://www.vie-publique.fr/fiches/269787-la-notion-de-souverainete-dans-les-relations-internationales. Consulté le 9 novembre 2024.
+
+https://www.vie-publique.fr/fiches/269787-la-notion-de-souverainete-dans-les-relations-internationales. Consulté le 9 novembre 2024.
+
+https://www.vie-publique.fr/fiches/271187-quest-ce-que-le-principe-de-la-responsabilite-de-proteger. Consulté le 9 novembre 2024.
 
 
 “La fille d’un opposant rwandais espionnée par Pegasus en Belgique.” July 19, 2021. https://www.lemonde.fr/projet-pegasus/article/2021/07/19/la-fille-d-un-opposant-rwandais-espionnee-par-pegasus-en-belgique_6088774_6088648.html.
@@ -214,23 +220,8 @@ Pegasus : la Catalogne demande des comptes à Madrid sur le possible espionnag
   
 
 webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021, https://forbiddenstories.org/fr/a-propos-du-projet-pegasus/.
-
   
 
-https://www.vie-publique.fr/fiches/269787-la-notion-de-souverainete-dans-les-relations-internationales. Consulté le 9 novembre 2024.
-
-  
-
-https://www.vie-publique.fr/fiches/271187-quest-ce-que-le-principe-de-la-responsabilite-de-proteger. Consulté le 9 novembre 2024.
-
-  
-
-Epthinktank. “What Action Has Parliament Taken against Spyware Abuse?,” June 2, 2024. https://epthinktank.eu/2024/06/02/what-action-has-parliament-taken-against-spyware-abuse/.
-
-Feldstein, Steven, and Brian Kot. “Why Does the Global Spyware Industry Continue to Thrive? Trends, Explanations, and Responses.” Carnegie Endowment for International Peace, 2023. https://www.jstor.org/stable/resrep48430.
-
-KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
-[Pegasus spyware and its implications on human rights](https://rm.coe.int/pegasus-spyware-report-fr/1680a761df)
 
 Roberts, T. et al. “Mapping the Supply of Surveillance Technologies to Africa: Case Studies from Nigeria, Ghana, Morocco, Malawi, and Zambia.” Institute of Development Studies. Accessed November 11, 2024. https://www.ids.ac.uk/publications/mapping-the-supply-of-surveillance-technologies-to-africa-case-studies-from-nigeria-ghana-morocco-malawi-and-zambia/.
 
@@ -265,5 +256,5 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjcwMTE2NiwtOTc4ODY5NzE2XX0=
+eyJoaXN0b3J5IjpbLTE4NzY5ODg4NzEsLTk3ODg2OTcxNl19
 -->
