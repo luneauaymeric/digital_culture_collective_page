@@ -126,7 +126,9 @@
 [^4]   “Projet Pegasus : au Mexique, des milliers de personnes ciblées par le logiciel espion.”, *Amnesty France*
 [^5] “Pegasus : révélations sur un système mondial de surveillance.”, *Amnesty France*
 [^6]“La fille d’un opposant rwandais espionnée par Pegasus en Belgique.”, *Le Monde*
-[^7] LAKANI Les familles des étudiants disparus d’Ayotzinapa suivies de près par Mexico, *Le Monde*
+[^7]  "Les familles des étudiants disparus d’Ayotzinapa suivies de près par Mexico", *Le Monde*
+[^8]“Pegasus : des lois conformes aux droits de l’homme sont nécessaires pour réglementer les logiciels espions | ONU Info”
+
 ##  <span style='color : darkblue;'> Bibliographie : </span>
 Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
 
@@ -215,5 +217,5 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDY4OTEzMCwtODYwNDY1OTg0XX0=
+eyJoaXN0b3J5IjpbNzI4NzM3MzgxLC04NjA0NjU5ODRdfQ==
 -->
