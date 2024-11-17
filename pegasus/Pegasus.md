@@ -33,17 +33,17 @@
 
 ![Le premier ministre libanais Saad Hariri](https://tse2.mm.bing.net/th?id=OIP.HGtIQSwof8s71E7Zq1NZ-gHaEz&pid=Api)
 
-<p style='text-align:justify;'>A l’échelle de l'Europe, les problématiques de souveraineté face à cet enjeu du contrôle du cyberespace est tout aussi présent. A la suite de la découverte de l’infection téléphonique du commissaire européen de la justice, Didier Reynders, et de quatres autres fonctionnaires, une question se pose : Qui est l’auteur de cette attaque ? Mais la commission fut incapable d’en determiner l’origine. L’exécutif européen indique qu’il n’a aucune compétence en matière de contrôle sur les services de renseignement et renvoie vers les Etats membres, censés mener des enquêtes et permettre aux citoyens de recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
+<p style='text-align:justify;'>À l’échelle européenne, les problématiques de souveraineté face à l’enjeu du contrôle du cyberespace sont tout aussi préoccupantes. Après la découverte de l’infection téléphonique du commissaire européen à la justice, Didier Reynders, et de quatre autres fonctionnaires, une question majeure se pose : qui est l’auteur de cette attaque ? Pourtant, la Commission européenne se révéle incapable d’en déterminer l’origine. Elle a indique ne pas avoir de compétence en matière de contrôle sur les services de renseignement, renvoyant cette responsabilité aux États membres, censés mener leurs propres enquêtes. Les citoyens, quant à eux, sont invités à recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
 
   
 
-<p style='text-align:justify;'>Par conséquent, la souveraineté externe des Etats est donc mise en péril par l’usage massif de ce logiciel. Le principe de souveraineté externe repose sur l'idée qu'un État dispose de l'autorité exclusive sur son territoire et sur la population qui y réside, sans qu'aucun autre État ne puisse s'immiscer dans ses affaires internes. L’État n’est ainsi subordonné à aucune autre entité et n’est soumis qu’à sa propre volonté.</p>
+<p style='text-align:justify;'>Cette impuissance institutionnelle met en lumière une faille majeure : la souveraineté externe des États est menacée par l’usage massif de logiciels comme Pegasus. Ce principe repose sur l’idée qu’un État dispose d’une autorité exclusive sur son territoire et sur sa population, sans qu’aucune entité étrangère ne puisse interférer dans ses affaires internes. En théorie, l’État n’est subordonné à aucune autre entité, conformément au principe d’égalité souveraine énoncé à l’article 2, alinéa 1, de la Charte des Nations Unies. Pourtant, cet équilibre est bafoué, et la cybersurveillance montre à quel point ces principes sont fragiles dans un monde interconnecté.</p>
 
 <p style='text-align:justify;'>Mais le principe d’égalité entre les Etats est bafoué alors que la Charte des Nations Unies parle “d’égalité souveraine” à l’article 2 alinéa 1.</p>
 
   
 
-<p style='text-align:justify;'>En outre, au-delà de cet interventionnisme étatique du cyberespace qui traduit les relations de pouvoirs et de rivalités nationales, les individus eux-mêmes sont affectés et sont une cible d'intérêt pour les utilisateurs de PeCes formes d'espionnage se retrouvent également entre le Rwanda et l’Afrique du Sud ou bien entre l’Inde et le Pakistan. Le [Premier ministre du Pakistan](https://fr.wikipedia.org/wiki/Premier_ministre_du_Pakistan)  [Imran Khan](https://fr.wikipedia.org/wiki/Imran_Khan) a ainsi été surveillé par les autorités indiennes à travers Pegasus.</p>
+<p style='text-align:justify;'>Au-delà des relations interétatiques, les individus eux-mêmes deviennent des cibles privilégiées dans ces conflits numériques. Ces formes d’espionnage s’observent notamment entre le Rwanda et l’Afrique du Sud, ou encore entre l’Inde et le Pakistan.Le [Premier ministre du Pakistan](https://fr.wikipedia.org/wiki/Premier_ministre_du_Pakistan)  [Imran Khan](https://fr.wikipedia.org/wiki/Imran_Khan) a ainsi été surveillé par les autorités indiennes à travers Pegasus.</p>
 
   
 
@@ -214,5 +214,5 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzc2NTY2LC04NjA0NjU5ODRdfQ==
+eyJoaXN0b3J5IjpbMTM0NDM4OTUwOCwtODYwNDY1OTg0XX0=
 -->
