@@ -73,7 +73,11 @@ Comment le logiciel espion Pegasus, qui menace les droits individuels et la cito
 
 <p style='text-align:justify;'>Outre les violations directes de la vie privée, l’utilisation de Pegasus restreint également d'autres droits fondamentaux tels que la liberté de réunion et la liberté d’expression. Les intrusions numériques limitent la possibilité pour les individus de s’exprimer librement, car ils craignent que leurs propos ou actions soient surveillés et potentiellement réprimés. Cette atmosphère oppressante évoque l’univers dystopique décrit dans 1984 de George Orwell, où la phrase “Big Brother is watching you” trouve un écho troublant dans l’affaire Pegasus.</p>
 
-<p style='text-align:justify;'> Les répercussions de Pegasus sont particulièrement alarmantes dans des contextes où les libertés fondamentales sont déjà fragiles. Au Mexique, où la liberté d'expression est déjà restreinte, Pegasus a été utilisé pour surveiller de nombreux membres de la société civile dont des journalistes, des militants et des défenseurs des droits humains. Parmi eux, Cecilio Pineda Brito, un journaliste qui dénonçait les liens entre la police et les cartels locaux suite à son enquête sur le narcotrafic dans la région de Tierra Caliente. Le 2 mars 2017, il a été pris pour cible par un commando. Plus tard, on découvrira que son numéro de téléphone figurait parmi les 15 000 contacts surveillés au Mexique. De même, l’affaire Jamal Khashoggi, journaliste ayant critiqué la monarchie saoudienne et assassiné à Istanbul, illustre les dérives extrêmes de ce logiciel. Quatre jours après sa mort, ses échanges et déplacements étaient déjà sous surveillance. Ces cas montrent comment Pegasus peut être utilisé pour cibler des voix critiques et compromettre leur sécurité.</p>
+<p style='text-align:justify;'> Les répercussions de Pegasus sont particulièrement alarmantes dans des contextes où les libertés fondamentales sont déjà fragiles. 
+
+Au Mexique, où la liberté d'expression est déjà restreinte, Pegasus a été utilisé pour surveiller de nombreux membres de la société civile dont des journalistes, des militants et des défenseurs des droits humains. [^5] 
+
+Parmi eux, Cecilio Pineda Brito, un journaliste qui dénonçait les liens entre la police et les cartels locaux suite à son enquête sur le narcotrafic dans la région de Tierra Caliente. Le 2 mars 2017, il a été pris pour cible par un commando. Plus tard, on découvrira que son numéro de téléphone figurait parmi les 15 000 contacts surveillés au Mexique. De même, l’affaire Jamal Khashoggi, journaliste ayant critiqué la monarchie saoudienne et assassiné à Istanbul, illustre les dérives extrêmes de ce logiciel. Quatre jours après sa mort, ses échanges et déplacements étaient déjà sous surveillance. Ces cas montrent comment Pegasus peut être utilisé pour cibler des voix critiques et compromettre leur sécurité.</p>
 
 <p style='text-align:justify;'>Le logiciel est aussi employé pour surveiller des familles et des militants engagés dans des luttes pour la justice.</p>
 <p style='text-align:justify;'>En Belgique, la fille de Paul Rusesabagina, opposant du président Kagame en prison au Rwanda qui s’était battue afin de libérer son père, a vu son téléphone infecté par Pegasus.Ses échanges et actions pour obtenir la libération de son père ont été interceptés, révélant l’ampleur des intrusions transnationales. La jeune femme a dénoncé l’absurdité de cette situation, où un pays comme le Rwanda consacre des millions à la surveillance numérique plutôt qu’au développement de sa population.</p>
@@ -231,6 +235,6 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 [^4]:Article 8 de la Convention Européenne des Droits de l'Homme 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODc0NTQxNiw0NzUzNjEwNjIsLTQwOT
-UzMTgyNiw3NjE5NDc1NzVdfQ==
+eyJoaXN0b3J5IjpbMjA0NTAzNTgyMSwtMjQ4NzQ1NDE2LDQ3NT
+M2MTA2MiwtNDA5NTMxODI2LDc2MTk0NzU3NV19
 -->
