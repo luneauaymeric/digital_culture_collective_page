@@ -113,19 +113,19 @@ Vis-à-vis de la loi, le Quantified Self soulève principalement des débats sur
 Cependant, ces normes restent insuffisantes pour réguler efficacement le traitement des données effectué par les applications de santé. L’utilisation d’objets connectés équipés de capteurs permet de contourner la notion de donnée de santé en définissant les mesures récoltées d’une autre manière ou en ne définissant pas leur technologie comme “médicale”. Ceci a partiellement été résolu par la régulation européenne 2017/745 de 2017, qui met en place une procédure dédiée de commercialisation pour les produits capables de mesurer des données de santé et étend cette procédure à des objets connectés “sans but médical prévu” mais jugés capables d’en avoir (Régulation 2017/745, 2017). Un autre élément important est le fait que certaines données comme la localisation ne sont pas considérées comme des données personnelles relevant de l’identité, comme “les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses ou l’appartenance syndicale des personnes” (Loi “Informatique et Libertés”, 1978), ce qui signifie qu’elles peuvent être traitées et collectées sans autre régulation que l’accord préalable des utilisateurs.
 
 De plus, l’article 6 de la loi de 1978 requiert que les données récoltées et traitées dans le cadre du régime juridique mis en place par cette même loi soient récoltées “pour des finalités déterminées, explicites et légitimes”, de manière “adéquate, pertinente et non excessive”, et qu’elles soient enfin “exactes et complètes” (Loi “Informatique et Libertés”, 1978). Ces principes vont à l’encontre de la notion de “Quantified Self”. En effet, le but général de quantification n’est pas explicite ni fini dans le temps, les mesures sont permanentes et donc non proportionnelles à une finalité déterminée et ne sont pas exactes puisque les objets connectés ne sont pas aussi bien adaptés pour de telles pratiques que des instruments médicaux professionnels.  
+
+# <ins>Conclusion
+En conclusion, nous nous sommes demandés si les pratiques individuelles de “Quantified Self” dans le domaine de la santé via des applications sont seulement bénéfiques, ou si elles nécessitent un suivi et une régulation plus stricts. Nous avons vu que les professionnels de santé restent partagés sur les bienfaits de ces applications, qui peuvent apporter des bénéfices en aidant les individus à adopter des gestes leur permettant d’atteindre leurs objectifs physiques mais doivent néanmoins être utilisées avec précaution pour éviter les conséquences néfastes sur la santé physique et mentale que peut causer une utilisation erronée. De plus, les expériences vécues par les personnes que nous avons interrogées, ainsi que l’avis général du public extérieur à ces applications montrent que si de nombreux utilisateurs vivent des expériences positives de remise en forme et d’activité physique, ces applications comportent néanmoins des risques psychologiques importants, et peuvent véhiculer des messages néfastes. Nous avons également vu que ces messages et les principes dont découlent le “Quantified Self” sont intimement liés à des logiques capitalistes et néolibérales pouvant provoquer un repli sur soi et un individualisme accru chez les utilisateurs, ce qui peut renforcer la gravité des symptômes psychologiques de troubles alimentaires que certains utilisateurs développent en limitant leur capacité à demander de l’aide. Enfin, nous avons vu que si les données de santé et leur traitement sont régulés et encadrés en France, ces normes sont insuffisantes pour pleinement limiter le traitement de données effectué par ces applications et donc protéger la vie privée et la santé des individus.
+
+Globalement, ces applications semblent avoir permis à de nombreux individus d’adopter des habitudes d’alimentation et d’activité physiques saines, ce qui montre leurs bénéfices. Néanmoins, leur utilisation comporte des risques, puisque les principes derrière le mouvement du “Quantified Self” prônent l’individualité, la précision et la mise en place de standards souvent hauts pour l’apparence physique et la santé. Ces principes et le manque de régulation publiques permettant de cadrer les normes sanitaires et sociales mises en avant par les applications de fitness et de minceur créent de nombreux risques psychologiques et physiques liés à une utilisation malsaine de ces services. Ces applications comportent donc de nombreux bénéfices pour les individus les utilisant sainement et de manière cadrée, mais sont des sources de risques psychologiques et sanitaires importants pour les individus les utilisant de manière erronée, ce qui est rendu possible par les faibles réglementations mises en place vis-à-vis de ces applications.
   
 
   
   
 
   
-  
-  
-  
-  
-  
-
-Bibliographie
+ 
+# <ins>Bibliographie
 
 Brumauld, Charles. “Alimentation” [http://www.charlesbrumauld.com/category/alimentation/](http://www.charlesbrumauld.com/category/alimentation/)
 
@@ -167,5 +167,6 @@ Union Européenne. “Régulation 2017/745”, 2017.
 
 Wolf, Gary. "Gary Wolf: The Quantified Self" TED Talks, 27 Septembre 2010, [https://www.youtube.com/watch?v=OrAo8oBBFIo](https://www.youtube.com/watch?v=OrAo8oBBFIo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTg3NjY4OCwzNTI4Mjg3MjRdfQ==
+eyJoaXN0b3J5IjpbLTcyNjY3MTk5MiwxNTYxODc2Njg4LDM1Mj
+gyODcyNF19
 -->
