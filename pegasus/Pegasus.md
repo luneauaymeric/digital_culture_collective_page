@@ -70,11 +70,11 @@
 
 <p style='text-align:justify;'>En ciblant ces populations vulnérables et en violant la vie privée des individus, Pegasus va bien au-delà de son objectif déclaré de lutte contre la criminalité et le terrorisme.Bien que NSO Group défende son produit comme un outil essentiel pour garantir la sécurité des États, les multiples abus rapportés montrent que cette justification ne respecte pas les principes de légalité, de nécessité et de proportionnalité.</p>
 
-<p style='text-align:justify;'>Les rapporteurs spéciaux des Nations Unies rappellent d’ailleurs que la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus:**</p>
+<p style='text-align:justify;'>Les rapporteurs spéciaux des Nations Unies rappellent d’ailleurs que la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus:</p>
 
-> <p style='text-align:justify;'> « leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ». </p>
+> <p style='text-align:justify;'> « leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».[^8] </p>
 
-<p style='text-align:justify;'> Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des instances comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.</p>
+<p style='text-align:justify;'> Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des institutions comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.</p>
 
 
 ## <span style='color : darkblue;'>  Le Projet Pégasus : Révélateur des failles du cadre légal et nécessité d’une régulation internationale plus stricte </span>
@@ -121,7 +121,9 @@
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
 [^1] “ENQUÊTE. Le projet Pegasus.”
-[^2] Article 8 de la Convention des droits de l'homme
+[^2]European Parliament, "L’incidence de Pegasus sur les droits fondamentaux et les processus démocratiques,"
+[^3] Article 8 de la Convention des droits de l'homme
+[^4]
 
 ##  <span style='color : darkblue;'> Bibliographie : </span>
 Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
@@ -211,5 +213,5 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc3ODAzNDIsLTg2MDQ2NTk4NF19
+eyJoaXN0b3J5IjpbNDMxNDgzNDYzLC04NjA0NjU5ODRdfQ==
 -->
