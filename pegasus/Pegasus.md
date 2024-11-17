@@ -190,6 +190,8 @@ https://www.vie-publique.fr/fiches/269787-la-notion-de-souverainete-dans-les-rel
 
 https://www.vie-publique.fr/fiches/271187-quest-ce-que-le-principe-de-la-responsabilite-de-proteger. Consulté le 9 novembre 2024.
 
+KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
+[Pegasus spyware and its implications on human rights](https://rm.coe.int/pegasus-spyware-report-fr/1680a761df)
 
 “La fille d’un opposant rwandais espionnée par Pegasus en Belgique.” July 19, 2021. https://www.lemonde.fr/projet-pegasus/article/2021/07/19/la-fille-d-un-opposant-rwandais-espionnee-par-pegasus-en-belgique_6088774_6088648.html.
 
@@ -217,22 +219,16 @@ Pegasus : la Catalogne demande des comptes à Madrid sur le possible espionnag
 
 « [Projet Pegasus] Révélations choc sur un logiciel espion israélien ». Amnesty France, https://www.amnesty.fr/liberte-d-expression/actualites/surveillance-revelations-sur-le-logiciel-espion-israelien-pegasus-nso-group. Consulté le 9 novembre 2024.
 
-  
-
-webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021, https://forbiddenstories.org/fr/a-propos-du-projet-pegasus/.
-  
-
-
 Roberts, T. et al. “Mapping the Supply of Surveillance Technologies to Africa: Case Studies from Nigeria, Ghana, Morocco, Malawi, and Zambia.” Institute of Development Studies. Accessed November 11, 2024. https://www.ids.ac.uk/publications/mapping-the-supply-of-surveillance-technologies-to-africa-case-studies-from-nigeria-ghana-morocco-malawi-and-zambia/.
-
-  
 
 UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11, 2024. https://www.state.gov/briefings-foreign-press-centers/unga79/commercial-spyware-freedom-online-ministerial/.
 
-  
 
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
+
+webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021, https://forbiddenstories.org/fr/a-propos-du-projet-pegasus/.
+  
 
 [^1]: “ENQUÊTE. Le projet Pegasus.”
 [^2]: The Time of Israël
@@ -256,5 +252,5 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY5ODg4NzEsLTk3ODg2OTcxNl19
+eyJoaXN0b3J5IjpbNjc5MTM2ODUwLC05Nzg4Njk3MTZdfQ==
 -->
