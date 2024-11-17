@@ -43,11 +43,11 @@
 
   
 
-<p style='text-align:justify;'>Au-delà des relations interétatiques, les individus eux-mêmes deviennent des cibles privilégiées dans ces conflits numériques. Ces formes d’espionnage s’observent notamment entre le Rwanda et l’Afrique du Sud, ou encore entre l’Inde et le Pakistan.Le [Premier ministre du Pakistan](https://fr.wikipedia.org/wiki/Premier_ministre_du_Pakistan)  [Imran Khan](https://fr.wikipedia.org/wiki/Imran_Khan) a ainsi été surveillé par les autorités indiennes à travers Pegasus.</p>
+<p style='text-align:justify;'>Au-delà des relations interétatiques, les individus eux-mêmes deviennent des cibles privilégiées dans ces conflits numériques. Ces formes d’espionnage s’observent notamment entre le Rwanda et l’Afrique du Sud, ou encore entre l’Inde et le Pakistan. Par exemple le [Premier ministre du Pakistan](https://fr.wikipedia.org/wiki/Premier_ministre_du_Pakistan)  [Imran Khan](https://fr.wikipedia.org/wiki/Imran_Khan) a été surveillé par les autorités indiennes via Pegasus, dans un contexte de tensions religieuses et géopolitiques entre les deux nations.</p>
 
   
 
-<p style='text-align:justify;'>Le constat des journalistes est alors alarmant. Les Etats semblent faire un usage libre et interventionnistes du logiciel de sorte à nourrir leur renseignements sur l’opposant politique ciblé et ce, sans que l'Etat attaqué soit en mesure de s’en rendre compte. Ce fut entre autres le cas en France . Le président de la République fut espionné à travers son téléphone personnel mais les services de renseignements en furent conscient seulement à la suite des révélations journalistiques . Forbidden stories, qui est un des instigateurs de ce scandale, fut alors enjoint par la gouvernement de communiquer la liste des 50 000 personnes touchées par Pegasus. Cette demande montre donc l'impuissance de la France face à cette problématique qui dépasse le cadre de la souveraineté nationale. </p>
+<p style='text-align:justify;'>Les journalistes tirent un constat alarmant : les États exploitent Pegasus pour surveiller leurs opposants politiques, sans que les pays ciblés puissent s’en apercevoir. En France, par exemple, le président Emmanuel Macron a été espionné via son téléphone personnel. Les services de renseignement français n’en ont pris conscience qu’après les révélations de Forbidden Stories, l’un des instigateurs de ce scandale. Face à la gravité des faits, le gouvernement a demandé à Forbidden Stories de communiquer la liste des 50 000 cibles potentielles identifiées. Cet épisode souligne l’impuissance des États, même les plus puissants, face à des menaces numériques transnationales qui échappent au cadre traditionnel de la souveraineté nationale. Cette impuissance des États face aux intrusions numériques souligne une autre dimension cruciale de l’affaire Pegasus : au-delà des souverainetés nationales, ce sont les droits fondamentaux des individus, et notamment leur droit à la vie privée, qui se retrouvent gravement menacés.</p>
 
 
 ###  <span style='color : darkblue;'> Une stratégie de surveillance de masse menaçant les démocraties </span>
@@ -214,5 +214,5 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDM4OTUwOCwtODYwNDY1OTg0XX0=
+eyJoaXN0b3J5IjpbLTE2NzU2Mjc0MDIsLTg2MDQ2NTk4NF19
 -->
