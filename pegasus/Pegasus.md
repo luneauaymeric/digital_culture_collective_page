@@ -63,7 +63,9 @@ Comment le logiciel espion Pegasus, qui menace les droits individuels et la cito
 
 
 ###  <span style='color : darkblue;'> Une stratégie de surveillance de masse menaçant les démocraties </span>
-<p style='text-align:justify;'> Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Ce droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH). Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée, sauf dans des conditions strictes :</p>
+ Le logiciel espion Pegasus représente une menace directe et grave pour les libertés individuelles et le droit à la vie privée. Ce droit à la vie privée est un droit fondamental inscrit dans les conventions internationales, telles que l’article 17 du Pacte international relatif aux droits civils et politiques ou l’article 8 de la Convention européenne des droits de l’homme (CEDH). [^3] 
+
+<p style='text-align:justify;'>Ces textes garantissent que nul ne peut faire l’objet d’atteintes arbitraires à sa vie privée, sauf dans des conditions strictes :</p>
 
   
 > “ Il ne peut y avoir ingérence d’une autorité publique dans l’exercice de ce droit que pour autant que cette ingérence est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui.”[^3]
@@ -226,8 +228,9 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^1]: “ENQUÊTE. Le projet Pegasus.”
 [^2]: The Time of Israël
+
 [^3]:Article 8 de la Convention Européenne des Droits de l'Homme 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxOTQ3NTc1XX0=
+eyJoaXN0b3J5IjpbLTEwNTU5ODI4MDIsNzYxOTQ3NTc1XX0=
 -->
