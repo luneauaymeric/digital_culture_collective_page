@@ -214,6 +214,6 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 [^1]: "Enquête. Projet Pégasus"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Nzg3MzIwNSwtMTY3NzgxMTUwNSwtMj
-ExNDIzNTMxNV19
+eyJoaXN0b3J5IjpbNTEzMDY1MDQzLC0xNjc3ODExNTA1LC0yMT
+E0MjM1MzE1XX0=
 -->
