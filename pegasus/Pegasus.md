@@ -3,7 +3,7 @@
  
  ![What Is Pegasus Spyware and How Does It Infect Your Phone ](https://beebom.com/wp-content/uploads/2021/07/what-is-pegasus-spyware-and-how-to-stay-safe.jpg)
  
- <p style='text-align:justify;'> Avec l'avènement des technologies numériques et l'explosion des données personnelles stockées en ligne, la cybersurveillance est devenue une réalité omniprésente dans notre société contemporaine. C’est dans ce contexte que ces dernières années ont été marquées par une montée en puissance des technologies de cybersurveillance. Des États aux entreprises privées, nombreux sont ceux qui utilisent des outils sophistiqués pour espionner, collecter et analyser des informations sur des individus sans leur consentement. L'affaire Snowden a ainsi révélé en 2013 l'étendue des programmes de surveillance menés par les agences de renseignement. Ceci a souligné la nécessité de reconsidérer les cadres légaux et éthiques entourant ces pratiques, notamment celles liées à Internet. Le Règlement général de protection des données([Le règlement général sur la protection des données - RGPD | CNIL](https://www.cnil.fr/fr/reglement-europeen-protection-donnees), aussi connu sous les initiales de RGPD a par exemple été établi en 2016 par l'Union Européenne suite à cette affaire afin de mieux définir les données personnelles et d'établir un cadre autour de leur partage. 
+ <p style='text-align:justify;'> Avec l'avènement des technologies numériques et l'explosion des données personnelles stockées en ligne, la cybersurveillance est devenue une réalité omniprésente dans notre société contemporaine. C’est dans ce contexte que ces dernières années ont été marquées par une montée en puissance des technologies de cybersurveillance. Des États aux entreprises privées, nombreux sont ceux qui utilisent des outils sophistiqués pour espionner, collecter et analyser des informations sur des individus sans leur consentement. L'affaire Snowden a ainsi révélé en 2013 l'étendue des programmes de surveillance menés par les agences de renseignement. Ceci a souligné la nécessité de reconsidérer les cadres légaux et éthiques entourant ces pratiques, notamment celles liées à Internet. Le Règlement général de protection des données, aussi connu sous les initiales de RGPD a par exemple été établi en 2016 par l'Union Européenne suite à cette affaire afin de mieux définir les données personnelles et d'établir un cadre autour de leur partage. 
 
 <p style='text-align:justify;'> En 2019, malgré les mesures prises suite à l'affaire Snowden, les inquiétudes vis à vis des technologies de surveillance ressurgissent suite aux révélations d’un consortium de journalistes sur l'utilisation du logiciel cyber espion Pegasus. Développé par la société israélienne NSO Group et commercialisé uniquement aux Etats et aux agences gouvernementales avec l’approbation du gouvernement israélien, ce cyber logiciel se distingue par sa capacité redoutable à infecter les téléphones de manière indétectable </p>
 
@@ -18,7 +18,8 @@
 
 <p style='text-align:justify;'>Pour réaliser nos recherches, nous avons donc dû nous contenter d’articles de journal et de rapports de sources fiables sur le sujet. Le travail d’Amnesty International sur le sujet nous a été particulièrement utile puisque l’ONG a joué un rôle majeur dans la dénonciation des abus d’utilisation de Pegasus en menant des enquêtes approfondies via son laboratoire de recherche appelé “Security Lab”. Nous nous sommes également beaucoup intéressées aux rapports produits par l’Union Européenne qui analysent l’impact des technologies de surveillance sur les droits humains et les évolutions nécessaires des cadres légaux et éthiques.</p>
 
- <p style='text-align:justify;'> En nous appuyant sur ces sources, nous avons donc tenté de répondre à la question suivante : Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ? </p>
+ <p style='text-align:justify;'> En nous appuyant sur ces sources, nous avons donc tenté de répondre à la question suivante : 
+Comment le logiciel espion Pegasus, qui menace les droits individuels et la citoyenneté, souligne-t-il l’importance de faire évoluer le cadre légal et éthique autour des technologies de surveillance ? </p>
 
 
 ## <span style='color : darkblue;'> Pegasus, une menace pour les droits fondamentaux et la démocratie </span>
@@ -223,6 +224,6 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYzNzEzNjAsMTQwMTE4OTk0OSw4OT
-c4OTQzMzMsMTg4ODYzNDk0Nl19
+eyJoaXN0b3J5IjpbNjY4MzIwNzE4LDE0MDExODk5NDksODk3OD
+k0MzMzLDE4ODg2MzQ5NDZdfQ==
 -->
