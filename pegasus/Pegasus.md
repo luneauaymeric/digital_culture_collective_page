@@ -10,6 +10,7 @@
  <p style='text-align:justify;'>Pourtant, alors que NSO Group présente Pegasus comme un outil destiné à aider les services de renseignements dans leur lutte contre les réseaux criminels et le terrorisme, les investigateurs du “Projet Pegasus” révèlent que le logiciel est utilisé pour espionner des populations clefs comme des chefs d’Etat, des journalistes, des militants pour n’en citer que quelques-uns. Pegasus repose en effet sur une technologie qui lui permet de s'infiltrer dans des appareils tels que les smartphones, qu'ils fonctionnent sous le système d'exploitation iOS d'Apple ou Android de Google. Il offre un accès complet et illimité à toutes les informations stockées sur l'appareil, y compris aux contacts, photos, mots de passe, emails, et conversations chiffrées. Il peut également transformer le téléphone en véritable dispositif d’écoute et de surveillance en activant les micros et les caméras de celui-ci. Son utilisation contre des journalistes, des chefs d’Etats, des militants, etc peut donc s’avérer très intéressante pour quiconque souhaiterait garder le contrôle sur sa population ou obtenir des avantages géopolitiques certains. Les pays ayant acquis cet outil sont donc nombreux : quinze au total, le principal étant le Mexique.
   
   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZFiKemZPOQVgVes915YudGHIS0lPdBHhJ4KgZ-IaiZMbfUW1WuHyjAtyt5US_-ZVkbRtffxKirYiRr849q1wdwNYYk8lnv-hJAmHLHJ-018hxsmfXURoyVmIVO01-XxORdk6LOHRM1PSXxvyxa1MlOnsO?key=vMYSvzPhYwSeUDhOxw3_OBo9)
+*Carte représentant les différents clients de NSO Group*
 
 <p style='text-align:justify;'>L’utilisation d’un tel logiciel pose de nombreux problèmes. Elle représente en particulier une réelle menace pour les droits individuels et la citoyenneté puisque Pegasus viole le droit à la vie privée et est utilisé principalement contre des acteurs essentiels de la démocratie tels que les journalistes. Par ailleurs, son utilisation a permis de mettre en valeur les très nombreuses failles du cadre légal et éthique relatif aux technologies de surveillance. C’est pourquoi nous avons décidé de réaliser notre projet exploratoire autour de ces questions.</p>
 
@@ -27,6 +28,9 @@
 
 <p style='text-align:justify;'>Bien que présenté comme un outil sécuritaire, Pegasus s’avère aujourd’hui être un instrument de surveillance massive, comme l’ont démontré journalistes et experts. Si son usage devait se cantonner à des cadres étatiques précis, les faits révèlent des objectifs bien plus divers. Chaque État-acheteur s’approprie ce logiciel pour des usages qui touchent à ses intérêts souverains, qu’ils soient nationaux ou internationaux. </p>
 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcgzl17qZfwF-SsnvrEA1HpZDWaQZ7Ak6sF9wBP-3jGLJE0EzqwN57lTle_jrSiaApV3su8OL1SXNWqwTFDIE7a0BhNliSTtYhUlF7N8OTISIpmmGmGQO8OrfYTr8HEbFRna4YXyw?key=vMYSvzPhYwSeUDhOxw3_OBo9)
+*La page d'accueil du site de NSO Group*
+
 <p style='text-align:justify;'> En Espagne, par exemple, Pegasus a été utilisé dans un contexte de contrôle politique interne. Le 18 avril 2022, Citizen Lab, une organisation canadienne, publie un rapport révélant que les téléphones de plus de 60 indépendantistes catalans auraient été infectés par Pegasus entre 2017 et 2020. Parmi les victimes figurent des figures politiques de premier plan. Le Centre national du renseignement espagnol (CNI) est alors présenté comme l’auteur des faits. Finalement, la directrice des services secrets Paz Esteban admet le 5 mai 2022 que 18 personnes ont bien été visées par ces espionnages. Elle assure toutefois que ces opérations ont menées dans un cadre légal. Ce scandale conduit le gouvernement espagnol à réformer ses services de renseignement. Cet exemple met donc en lumière une contradiction fondamentale : l’usage de Pegasus, censé protéger l’État de droit, semble au contraire remettre en cause les principes mêmes de souveraineté interne.</p>
 
 <p style='text-align:justify;'>Au-delà des affaires internes, l’affaire Pegasus révèle aussi l’utilisation du renseignement numérique comme un levier géopolitique. En effet, les rivalités interétatiques exploitent cet outil pour outrepasser la souveraineté d’autres nations. Le renseignement devient alors un moyen illégal de maintenir sa compétitivité en matière de hard power numérique, où la maîtrise des données et des communications constitue un enjeu central.</p>
@@ -36,6 +40,7 @@
 <p style='text-align:justify;'>Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. </p>
 
 ![Le premier ministre libanais Saad Hariri](https://tse2.mm.bing.net/th?id=OIP.HGtIQSwof8s71E7Zq1NZ-gHaEz&pid=Api)
+*L
 
 <p style='text-align:justify;'>À l’échelle européenne, les problématiques de souveraineté face à l’enjeu du contrôle du cyberespace sont tout aussi préoccupantes. Après la découverte de l’infection téléphonique du commissaire européen à la justice, Didier Reynders, et de quatre autres fonctionnaires, une question majeure se pose : qui est l’auteur de cette attaque ? Pourtant, la Commission européenne se révéle incapable d’en déterminer l’origine. Elle a indique ne pas avoir de compétence en matière de contrôle sur les services de renseignement, renvoyant cette responsabilité aux États membres, censés mener leurs propres enquêtes. Les citoyens, quant à eux, sont invités à recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
 
@@ -216,6 +221,6 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTE4OTk0OSw4OTc4OTQzMzMsMTg4OD
-YzNDk0Nl19
+eyJoaXN0b3J5IjpbLTIxMzgxMDE5NDAsMTQwMTE4OTk0OSw4OT
+c4OTQzMzMsMTg4ODYzNDk0Nl19
 -->
