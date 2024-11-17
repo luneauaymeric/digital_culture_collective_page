@@ -27,7 +27,7 @@
 
 <p style='text-align:justify;'>Au-delà des affaires internes, l’affaire Pegasus révèle aussi l’utilisation du renseignement numérique comme un levier géopolitique. En effet, les rivalités interétatiques exploitent cet outil pour outrepasser la souveraineté d’autres nations. Le renseignement devient alors un moyen illégal de maintenir sa compétitivité en matière de hard power numérique, où la maîtrise des données et des communications constitue un enjeu central.</p>
 
-<p style='text-align:justify;'>Les tensions entre le Liban et l’Arabie saoudite illustrent bien ces enjeux géopolitiques. Les monarchies du Golfe, profondément opposées à l’Iran – premier financeur du Hezbollah actif au Liban –, utilisent Pegasus pour cibler des personnalités proches de cette organisation. Entre 2018 et 2019, les Émirats arabes unis et l’Arabie saoudite auraient ainsi espionné plus de 300 cibles, parmi lesquelles le Premier ministre libanais Saad Hariri, le président Michel Aoun, des journalistes et plusieurs ministres. Ce cas montre comment le cyberespionnage dépasse les frontières nationales pour devenir un outil stratégique au service des ambitions régionales.![Le premier ministre libanais Saad Hariri](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd5me-NBKXtcPNCSo2wcsRqEgYsbW86n1c-HT9mYVFeVphVWdiy9AqcUQKxxnFzrDVw2faBpQTuIzZF-MveEXfPxceiuAYl6l95UhuspSbZ0HfZhun813JHU8AIRVsqOblik9n1Rw?key=vMYSvzPhYwSeUDhOxw3_OBo9)</p>
+<p style='text-align:justify;'>Les tensions entre le Liban et l’Arabie saoudite illustrent bien ces enjeux géopolitiques. Les monarchies du Golfe, profondément opposées à l’Iran – premier financeur du Hezbollah actif au Liban –, utilisent Pegasus pour cibler des personnalités proches de cette organisation. Entre 2018 et 2019, les Émirats arabes unis et l’Arabie saoudite auraient ainsi espionné plus de 300 cibles, parmi lesquelles le Premier ministre libanais Saad Hariri, le président Michel Aoun, des journalistes et plusieurs ministres. Ce cas montre comment le cyberespionnage dépasse les frontières nationales pour devenir un outil stratégique au service des ambitions régionales.</p>
 
 <p style='text-align:justify;'>Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. </p>
 
@@ -123,8 +123,8 @@
 ## <span style='color : darkblue;'> 💡 Pour aller plus loin :  </span>
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
-
-[^1]:Article 8 de la Convention des droits de l'homme
+[^1] “ENQUÊTE. Le projet Pegasus.”
+[^2] Article 8 de la Convention des droits de l'homme
 
 ##  <span style='color : darkblue;'> Bibliographie : </span>
 Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
@@ -214,5 +214,5 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwNzk5NjkzLC04NjA0NjU5ODRdfQ==
+eyJoaXN0b3J5IjpbLTQ0MzQzMjI3NCwtODYwNDY1OTg0XX0=
 -->
