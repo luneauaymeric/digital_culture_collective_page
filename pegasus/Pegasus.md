@@ -123,16 +123,27 @@
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
 [^1] “ENQUÊTE. Le projet Pegasus.”
+
 [^2]European Parliament, "L’incidence de Pegasus sur les droits fondamentaux et les processus démocratiques,"
+
 [^3] Article 8 de la Convention des droits de l'homme
+
 [^4]   “Projet Pegasus : au Mexique, des milliers de personnes ciblées par le logiciel espion.”, *Amnesty France*
+
 [^5] “Pegasus : révélations sur un système mondial de surveillance.”, *Amnesty France*
+
 [^6]“La fille d’un opposant rwandais espionnée par Pegasus en Belgique.”, *Le Monde*
+
 [^7]  "Les familles des étudiants disparus d’Ayotzinapa suivies de près par Mexico", *Le Monde*
+
 [^8]“Pegasus : des lois conformes aux droits de l’homme sont nécessaires pour réglementer les logiciels espions | ONU Info”
+
 [^9] European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76
+
 [^10]Roberts et al., *Mapping the Supply of Surveillance Technologies to Africa*, p. 33.
+
 [^11]Roberts et al., *Mapping the Supply of Surveillance Technologies to Africa*, p. 33.
+
 [^12]European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 
 ##  <span style='color : darkblue;'> Bibliographie : </span>
@@ -223,6 +234,6 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc5OTgzODEsODc5Njg4MTA4LDU0Mz
-Y2Mzk2NywtODYwNDY1OTg0XX0=
+eyJoaXN0b3J5IjpbODg4OTc1OTkzLDg3OTY4ODEwOCw1NDM2Nj
+M5NjcsLTg2MDQ2NTk4NF19
 -->
