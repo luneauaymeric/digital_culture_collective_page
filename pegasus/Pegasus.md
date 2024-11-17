@@ -83,6 +83,7 @@ De même, l’affaire Jamal Khashoggi, journaliste ayant critiqué la monarchie 
 
 Le logiciel est aussi employé pour surveiller des familles et des militants engagés dans des luttes pour la justice.[^6]</p>
 <p style='text-align:justify;'>En Belgique, la fille de Paul Rusesabagina, opposant du président Kagame en prison au Rwanda qui s’était battue afin de libérer son père, a vu son téléphone infecté par Pegasus.Ses échanges et actions pour obtenir la libération de son père ont été interceptés, révélant l’ampleur des intrusions transnationales. La jeune femme a dénoncé l’absurdité de cette situation, où un pays comme le Rwanda consacre des millions à la surveillance numérique plutôt qu’au développement de sa population.</p>
+
  De même, les familles des 43 étudiants disparus d’Ayotzinapa au Mexique en 2014 ont été espionnées alors qu’elles cherchaient à obtenir des réponses sur le sort de leurs proches. Cette affaire illustre un phénomène plus large de harcèlement et d’intimidation à l’encontre des familles de disparus au Mexique, qui se battent pour obtenir justice. [^7]
 
 <p style='text-align:justify;'>En ciblant ces populations vulnérables et en violant la vie privée des individus, Pegasus va bien au-delà de son objectif déclaré de lutte contre la criminalité et le terrorisme.Bien que NSO Group défende son produit comme un outil essentiel pour garantir la sécurité des États, les multiples abus rapportés montrent que cette justification ne respecte pas les principes de légalité, de nécessité et de proportionnalité.</p>
@@ -248,9 +249,25 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 [^2]: The Time of Israël
 [^3]: European Parliament, "L’incidence de Pegasus sur les droits fondamentaux et les processus démocratiques,"
 [^4]:Article 8 de la Convention Européenne des Droits de l'Homme 
+[^5]: “Projet Pegasus : au Mexique, des milliers de personnes ciblées par le logiciel espion.”, *Amnesty France*
+[^6]: “La fille d’un opposant rwandais espionnée par Pegasus en Belgique.”, *Le Monde*
 
+  
+[^7]: "Les familles des étudiants disparus d’Ayotzinapa suivies de près par Mexico", *Le Monde*
+
+
+[^8]: “Pegasus : des lois conformes aux droits de l’homme sont nécessaires pour réglementer les logiciels espions | ONU Info”  
+
+[^9]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76
+
+[^10]: Roberts et al., *Mapping the Supply of Surveillance Technologies to Africa*, p. 33.
+
+[^11]: Roberts et al., *Mapping the Supply of Surveillance Technologies to Africa*, p. 33.
+
+
+[^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTQxOTM3MSw4MjM4MjYwMTAsNjUyOD
+eyJoaXN0b3J5IjpbMTc0MjA5NTczMCw4MjM4MjYwMTAsNjUyOD
 M0NjcxLDMwMzg3ODE3MywtNjk3NjI2MzA5LC0yNDg3NDU0MTYs
 NDc1MzYxMDYyLC00MDk1MzE4MjYsNzYxOTQ3NTc1XX0=
 -->
