@@ -7,7 +7,9 @@
 
 <p style='text-align:justify;'> En 2019, malgré les mesures prises suite à l'affaire Snowden, les inquiétudes vis à vis des technologies de surveillance ressurgissent suite aux révélations d’un consortium de journalistes sur l'utilisation du logiciel cyber espion Pegasus. Développé par la société israélienne NSO Group et commercialisé uniquement aux Etats et aux agences gouvernementales avec l’approbation du gouvernement israélien, ce cyber logiciel se distingue par sa capacité redoutable à infecter les téléphones de manière indétectable </p>
 
- Pourtant, alors que NSO Group présente Pegasus comme un outil destiné à aider les services de renseignements dans leur lutte contre les réseaux criminels et le terrorisme, les investigateurs du “Projet Pegasus” révèlent que le logiciel est utilisé pour espionner des populations clefs comme des chefs d’Etat, des journalistes, des militants pour n’en citer que quelques-uns. Pegasus repose en effet sur une technologie qui lui permet de s'infiltrer dans des appareils tels que les smartphones, qu'ils fonctionnent sous le système d'exploitation iOS d'Apple ou Android de Google. Il offre un accès complet et illimité à toutes les informations stockées sur l'appareil, y compris aux contacts, photos, mots de passe, emails, et conversations chiffrées. Il peut également transformer le téléphone en véritable dispositif d’écoute et de surveillance en activant les micros et les caméras de celui-ci. Son utilisation contre des journalistes, des chefs d’Etats, des militants, etc peut donc s’avérer très intéressante pour quiconque souhaiterait garder le contrôle sur sa population ou obtenir des avantages géopolitiques certains. Les pays ayant acquis cet outil sont donc nombreux : quinze au total, le principal étant le Mexique.[^1]
+<p style='text-align:justify;'> Pourtant, alors que NSO Group présente Pegasus comme un outil destiné à aider les services de renseignements dans leur lutte contre les réseaux criminels et le terrorisme, les investigateurs du “Projet Pegasus” révèlent que le logiciel est utilisé pour espionner des populations clefs comme des chefs d’Etat, des journalistes, des militants pour n’en citer que quelques-uns. Pegasus repose en effet sur une technologie qui lui permet de s'infiltrer dans des appareils tels que les smartphones, qu'ils fonctionnent sous le système d'exploitation iOS d'Apple ou Android de Google. Il offre un accès complet et illimité à toutes les informations stockées sur l'appareil, y compris aux contacts, photos, mots de passe, emails, et conversations chiffrées. Il peut également transformer le téléphone en véritable dispositif d’écoute et de surveillance en activant les micros et les caméras de celui-ci. Son utilisation contre des journalistes, des chefs d’Etats, des militants, etc peut donc s’avérer très intéressante pour quiconque souhaiterait garder le contrôle sur sa population ou obtenir des avantages géopolitiques certains. </p> 
+
+ Les pays ayant acquis cet outil sont donc nombreux : quinze au total, le principal étant le Mexique.[^1] 
   
   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZFiKemZPOQVgVes915YudGHIS0lPdBHhJ4KgZ-IaiZMbfUW1WuHyjAtyt5US_-ZVkbRtffxKirYiRr849q1wdwNYYk8lnv-hJAmHLHJ-018hxsmfXURoyVmIVO01-XxORdk6LOHRM1PSXxvyxa1MlOnsO?key=vMYSvzPhYwSeUDhOxw3_OBo9)
 *Carte représentant les différents clients de NSO Group*
@@ -227,7 +229,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 [^3]:Article 8 de la Convention Européenne des Droits de l'Homme 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Njg0OTc4OCwtMTI2NzE1NTY2Niw3OT
-U2ODE1NTgsNjY4MzIwNzE4LDE0MDExODk5NDksODk3ODk0MzMz
-LDE4ODg2MzQ5NDZdfQ==
+eyJoaXN0b3J5IjpbNzYxOTQ3NTc1LC0xMjY3MTU1NjY2LDc5NT
+Y4MTU1OCw2NjgzMjA3MTgsMTQwMTE4OTk0OSw4OTc4OTQzMzMs
+MTg4ODYzNDk0Nl19
 -->
