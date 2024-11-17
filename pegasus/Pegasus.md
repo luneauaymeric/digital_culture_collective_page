@@ -53,7 +53,7 @@ Comment le logiciel espion Pegasus, qui menace les droits individuels et la cito
 
   
 
-<p style='text-align:justify;'>Au-delà des relations interétatiques, les individus eux-mêmes deviennent des cibles privilégiées dans ces conflits numériques. Ces formes d’espionnage s’observent notamment entre le Rwanda et l’Afrique du Sud, ou encore entre l’Inde et le Pakistan. Par exemple le [Premier ministre du Pakistan](https://fr.wikipedia.org/wiki/Premier_ministre_du_Pakistan)  [Imran Khan](https://fr.wikipedia.org/wiki/Imran_Khan) a été surveillé par les autorités indiennes via Pegasus, dans un contexte de tensions religieuses et géopolitiques entre les deux nations.</p>
+<p style='text-align:justify;'>Au-delà des relations interétatiques, les individus eux-mêmes deviennent des cibles privilégiées dans ces conflits numériques. Ces formes d’espionnage s’observent notamment entre le Rwanda et l’Afrique du Sud, ou encore entre l’Inde et le Pakistan. Par exemple le Premier ministre du Pakistan Imran Khan a été surveillé par les autorités indiennes via Pegasus, dans un contexte de tensions religieuses et géopolitiques entre les deux nations.</p>
 
   
 
@@ -224,6 +224,6 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MzIwNzE4LDE0MDExODk5NDksODk3OD
-k0MzMzLDE4ODg2MzQ5NDZdfQ==
+eyJoaXN0b3J5IjpbLTczMzA2Mjk5Miw2NjgzMjA3MTgsMTQwMT
+E4OTk0OSw4OTc4OTQzMzMsMTg4ODYzNDk0Nl19
 -->
