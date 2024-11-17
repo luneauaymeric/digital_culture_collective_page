@@ -23,7 +23,8 @@ Lorsque nous avons cherché des arguments allant à l’encontre de ceux de Mada
 In fine, malgré les points positifs et négatifs émis plus haut, les opinions des professionnels de santé restent plutôt mitigées et modérées quant à l’utilisation des applications minceur. Le diététicien-nutritionniste et auteur du livre Healthy Food Charles Brumauld explique qu’il est indispensable pour une personne souhaitant perdre du poids de consulter un professionnel de santé mais qu’il est également possible d’être soutenu par une application minceur. Toutefois, il insiste grandement sur la nécessité du caractère éphémère de l’utilisation d’applications minceur car, selon lui, sur le long terme, celles-ci peuvent « imposer un contrôle mental permanent qui peut générer des pulsions alimentaires incontrôlables » (Brumauld, 2023). Ainsi, les applications minceur telles que My Fitness Pal peuvent être perçues comme un appui intéressant au travail en consultation tant qu’elles ne s’y substituent pas.
 
 # <ins>2.  Avis du public vis-à-vis de ces applications
-# A)  Expériences négatives vécues par les utilisateurs
+
+## 1.  Expériences négatives vécues par les utilisateurs
 
 Ensuite, nous nous sommes intéressés aux visions de ces applications que leurs utilisateurs peuvent avoir. Nous avons donc interrogé des utilisateurs de MyFitnessPal et d’autres applications similaires vis-à-vis de leurs expériences de ces services. Si certains utilisateurs ont eu des expériences positives avec ces applications, mentionnant leur utilité pour planifier l’activité physique et encourager une nutrition saine et variée, d’autres ont néanmoins vécu des expériences négatives au cours de leur période d’utilisation.
 
@@ -31,9 +32,7 @@ L’une des personnes que nous avons interrogées nous a expliqué avoir utilis�
 
 Une autre personne, ancienne utilisatrice de MyFitnessPal, a commencé à utiliser l’application après avoir lu des avis en ligne d’utilisateurs disant que le service les avait aidés à perdre du poids. L’utilisation de l’application, qui permet également de mesurer très précisément l’apport calorique de chaque repas, ainsi que les calories brûlées par l’activité physique, l’a également conduite à développer des troubles de l’alimentation. Cette personne a expliqué que le niveau de précision et d’invasivité de la plateforme l’a conduite à ces problèmes en créant un cadre extrêmement précis autour de sa nutrition, lui donnant ainsi l’illusion de contrôler parfaitement ce qu’elle mangeait et la conduisant donc à manger moins pour atteindre son objectif d’amaigrissement. Aujourd’hui, cette personne considère que les standards de l’application mettent en avant une vision très négative du corps, et retient la leçon de devoir être toujours très prudente vis-à-vis des pratiques d’amaigrissement et de contrôle précis de la nutrition.
 
-  
-
-# 2.  Point de vue extérieur à l’utilisation
+## 2.  Point de vue extérieur à l’utilisation
  
 
 Nous avons également décidé d’interroger des individus n’ayant jamais utilisé ces applications, pour comprendre les visions extérieures liées à ces pratiques, ainsi que les potentielles caractéristiques qui motivent ou non les individus à utiliser ces applications.
@@ -44,13 +43,13 @@ Cependant, plusieurs personnes ont mentionné des caractéristiques négatives d
 
 Globalement, si de nombreux utilisateurs semblent avoir eu des expériences positives avec ces applications, certains d’entre eux ont rencontré des difficultés personnelles importantes au travers de leur utilisation. Les conséquences psychologiques de la mesure permanente et du cadre invasif du “Quantified Self” dans le domaine de la nutrition sont importantes et souvent connues, à la fois par les utilisateurs ayant vécu de telles expériences, mais également par de nombreux individus extérieurs à ces pratiques. Bien que jugées très utiles et bénéfiques par de nombreux individus pour adopter des pratiques physiques et alimentaires bénéfiques, le risque d’une utilisation malavisée donnant lieu à un renforcement de comportements néfastes pour la santé demeure important et trop peu étudié par les entreprises à l’origine de ces applications.
 
-3.  Implications politiques et commerciales
+# <ins> 3.  Implications politiques et commerciales
     
 
-1.  Le Corps comme Objet de Contrôle et de Consommation
+## 1.  Le Corps comme Objet de Contrôle et de Consommation
     
 
-a) Performance et Maîtrise Totale du Corps
+### a) Performance et Maîtrise Totale du Corps
 
 Les applications de fitness fonctionnent comme des dispositifs de contrôle, inscrits dans une logique biopolitique (Foucault) où l'utilisateur devient à la fois surveillant et surveillé, cherchant à optimiser son corps (Goffman 1991 ; Elton 2020). Cette dynamique, propre au mouvement Quantified Self (QS), transforme les individus en auto-entrepreneurs de leur santé, souvent inspirés par des impératifs capitalistes, tel que l’efficacité au travail (Dagiral, 2019). Cette quête d'auto-optimisation peut mener à une obsession de la performance et à une compétition avec soi-même, comme l'illustre le témoignage d'une enquêtée hospitalisée pour anorexie, soulignant les effets négatifs de la comparaison et du contrôle excessif : « Ce qu’on fait n’est jamais assez bien ». Les pratiques de QS rapprochent l'individu d’un modèle d'homo oeconomicus, où chaque aspect de la vie est contrôlé dans une recherche constante de productivité, reflet d’un modèle capitaliste (Dagiral, 2019).
 
@@ -58,7 +57,7 @@ Par ailleurs, ces outils imposent également une gestion minutieuse du temps, ex
 
 Enfin, ces pratiques reflètent des modes de pensée capitalistes, similaires à l’éthique protestante décrite par Max Weber, qui valorise la rationalisation et le contrôle de soi. Cet individualisme moral, issu de l’éthique protestante, place l’individu seul face à ses responsabilités, valorisant le travail et l’autodiscipline pour atteindre l’état de grâce. Comme une enquêtée utilisant RunKeeper, les individus appliquent cette discipline pour maximiser leur « capital » santé et émotionnel, pouvant créer une logique aliénante d’auto-perfectionnement. Ces applications oscillent ainsi entre promesse de maîtrise de soi et asservissement à des logiques productivistes, questionnant notre rapport au bien-être et à la santé
 
-b) Données Réduites à des Chiffres
+### b) Données Réduites à des Chiffres
 
 Les applications de fitness transforment le corps en données mesurables, modifiant notre relation avec celui-ci. Bien qu'elles encouragent une gestion proactive de la santé, elles peuvent aussi générer de l'anxiété. Une enquêtée rapporte recevoir jusqu’à six notifications quotidiennes, créant une pression constante. Ces rappels, bien que visant à fixer des limites, engendrent une obsession malsaine, comme la honte de déclarer ses calories réelles ou un plaisir malsain de « consommer moins ». Cette vision chiffrée du bien-être, souvent déconnectée des réalités corporelles et de la santé mentale, peut mener à la frustration et au mal-être.
 
@@ -66,7 +65,7 @@ A contrario, certains perçoivent les données comme une clé de transformation 
 
 Cependant, mesurer son corps peut devenir une fin en soi, éloignant celui-ci du réel. Julien Onno parle de « désaffiliation du corps », le rendant superficiel et inauthentique dans une quête de normalisation. Ce processus génère une fatigue mentale pour certains, stressés par l’exigence d’optimiser leurs données. Un enquêté confie : « On est déjà submergés de données, si en plus on doit produire des données sur nous... Il faut faire attention. » Enfin, la mesure décide de ce qui compte ou peut être ignoré. Or, ces chiffres, ne représentant qu'une fraction de soi, risquent d’être surinterprétés, renforçant une vision réduite et normative du bien-être.
 
-c) Commercialisation et Confidentialité
+### c) Commercialisation et Confidentialité
 
 Les données collectées par les applications de santé sont souvent monétisées par les entreprises, avec un manque de transparence sur leur usage final, ce qui alimente une perception erronée de la protection des données personnelles. Les utilisateurs, parfois trop confiants envers les « règles de confidentialité », sous-estiment les implications de leur partage d’informations.
 
@@ -185,5 +184,5 @@ Union Européenne. “Régulation 2017/745”, 2017.
 
 Wolf, Gary. "Gary Wolf: The Quantified Self" TED Talks, 27 Septembre 2010, [https://www.youtube.com/watch?v=OrAo8oBBFIo](https://www.youtube.com/watch?v=OrAo8oBBFIo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjU2NTc3NiwzNTI4Mjg3MjRdfQ==
+eyJoaXN0b3J5IjpbMTUzMzc5MjA5NywzNTI4Mjg3MjRdfQ==
 -->
