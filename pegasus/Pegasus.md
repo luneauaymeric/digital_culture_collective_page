@@ -81,15 +81,15 @@ De même, l’affaire Jamal Khashoggi, journaliste ayant critiqué la monarchie 
 
 <p style='text-align:justify;'>Ces cas montrent comment Pegasus peut être utilisé pour cibler des voix critiques et compromettre leur sécurité.</p>
 
-<p style='text-align:justify;'>Le logiciel est aussi employé pour surveiller des familles et des militants engagés dans des luttes pour la justice.</p>
+Le logiciel est aussi employé pour surveiller des familles et des militants engagés dans des luttes pour la justice.[^6]</p>
 <p style='text-align:justify;'>En Belgique, la fille de Paul Rusesabagina, opposant du président Kagame en prison au Rwanda qui s’était battue afin de libérer son père, a vu son téléphone infecté par Pegasus.Ses échanges et actions pour obtenir la libération de son père ont été interceptés, révélant l’ampleur des intrusions transnationales. La jeune femme a dénoncé l’absurdité de cette situation, où un pays comme le Rwanda consacre des millions à la surveillance numérique plutôt qu’au développement de sa population.</p>
-<p style='text-align:justify;'> De même, les familles des 43 étudiants disparus d’Ayotzinapa au Mexique en 2014 ont été espionnées alors qu’elles cherchaient à obtenir des réponses sur le sort de leurs proches. Cette affaire illustre un phénomène plus large de harcèlement et d’intimidation à l’encontre des familles de disparus au Mexique, qui se battent pour obtenir justice. </p>
+ De même, les familles des 43 étudiants disparus d’Ayotzinapa au Mexique en 2014 ont été espionnées alors qu’elles cherchaient à obtenir des réponses sur le sort de leurs proches. Cette affaire illustre un phénomène plus large de harcèlement et d’intimidation à l’encontre des familles de disparus au Mexique, qui se battent pour obtenir justice. [^7]
 
 <p style='text-align:justify;'>En ciblant ces populations vulnérables et en violant la vie privée des individus, Pegasus va bien au-delà de son objectif déclaré de lutte contre la criminalité et le terrorisme.Bien que NSO Group défende son produit comme un outil essentiel pour garantir la sécurité des États, les multiples abus rapportés montrent que cette justification ne respecte pas les principes de légalité, de nécessité et de proportionnalité.</p>
 
 <p style='text-align:justify;'>Les rapporteurs spéciaux des Nations Unies rappellent d’ailleurs que la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus:</p>
 
-> <p style='text-align:justify;'> « leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».</p>
+>« leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».</p>
 
 <p style='text-align:justify;'> Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des institutions comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.</p>
 
@@ -237,6 +237,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 [^4]:Article 8 de la Convention Européenne des Droits de l'Homme 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzYyNjMwOSwtMjQ4NzQ1NDE2LDQ3NT
-M2MTA2MiwtNDA5NTMxODI2LDc2MTk0NzU3NV19
+eyJoaXN0b3J5IjpbNDg2OTIyMTM1LC02OTc2MjYzMDksLTI0OD
+c0NTQxNiw0NzUzNjEwNjIsLTQwOTUzMTgyNiw3NjE5NDc1NzVd
+fQ==
 -->
