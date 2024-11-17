@@ -5,7 +5,7 @@
 
 <p style='text-align:justify;'> En 2019, malgré les mesures prises suite à l'affaire Snowden, les inquiétudes vis à vis des technologies de surveillance ressurgissent suite aux révélations d’un consortium de journalistes sur l'utilisation du logiciel cyber espion Pegasus. Développé par la société israélienne NSO Group et commercialisé uniquement aux Etats et aux agences gouvernementales avec l’approbation du gouvernement israélien, ce cyber logiciel se distingue par sa capacité redoutable à infecter les téléphones de manière indétectable </p>
 
- <p style='text-align:justify;'>Pourtant, alors que NSO Group présente Pegasus comme un outil destiné à aider les services de renseignements dans leur lutte contre les réseaux criminels et le terrorisme, les investigateurs du “Projet Pegasus” révèlent que le logiciel est utilisé pour espionner des populations clefs comme des chefs d’Etat, des journalistes, des militants pour n’en citer que quelques-uns. Pegasus repose en effet sur une technologie qui lui permet de s'infiltrer dans des appareils tels que les smartphones, qu'ils fonctionnent sous le système d'exploitation iOS d'Apple ou Android de Google. Il offre un accès complet et illimité à toutes les informations stockées sur l'appareil, y compris aux contacts, photos, mots de passe, emails, et conversations chiffrées. Il peut également transformer le téléphone en véritable dispositif d’écoute et de surveillance en activant les micros et les caméras de celui-ci. Son utilisation contre des journalistes, des chefs d’Etats, des militants, etc peut donc s’avérer très intéressante pour quiconque souhaiterait garder le contrôle sur sa population ou obtenir des avantages géopolitiques certains. Les pays ayant acquis cet outil sont donc nombreux : quinze au total, le principal étant le Mexique.[^1]   </p>
+ <p style='text-align:justify;'>Pourtant, alors que NSO Group présente Pegasus comme un outil destiné à aider les services de renseignements dans leur lutte contre les réseaux criminels et le terrorisme, les investigateurs du “Projet Pegasus” révèlent que le logiciel est utilisé pour espionner des populations clefs comme des chefs d’Etat, des journalistes, des militants pour n’en citer que quelques-uns. Pegasus repose en effet sur une technologie qui lui permet de s'infiltrer dans des appareils tels que les smartphones, qu'ils fonctionnent sous le système d'exploitation iOS d'Apple ou Android de Google. Il offre un accès complet et illimité à toutes les informations stockées sur l'appareil, y compris aux contacts, photos, mots de passe, emails, et conversations chiffrées. Il peut également transformer le téléphone en véritable dispositif d’écoute et de surveillance en activant les micros et les caméras de celui-ci. Son utilisation contre des journalistes, des chefs d’Etats, des militants, etc peut donc s’avérer très intéressante pour quiconque souhaiterait garder le contrôle sur sa population ou obtenir des avantages géopolitiques certains. Les pays ayant acquis cet outil sont donc nombreux : quinze au total, le principal étant le Mexique. [^4]
 
 <p style='text-align:justify;'>L’utilisation d’un tel logiciel pose de nombreux problèmes. Elle représente en particulier une réelle menace pour les droits individuels et la citoyenneté puisque Pegasus viole le droit à la vie privée et est utilisé principalement contre des acteurs essentiels de la démocratie tels que les journalistes. Par ailleurs, son utilisation a permis de mettre en valeur les très nombreuses failles du cadre légal et éthique relatif aux technologies de surveillance. C’est pourquoi nous avons décidé de réaliser notre projet exploratoire autour de ces questions.</p>
 
@@ -211,8 +211,31 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
+[^1]: “ENQUÊTE. Le projet Pegasus.”
+
+[^2]: European Parliament, "L’incidence de Pegasus sur les droits fondamentaux et les processus démocratiques,"
+
+[^3]: Article 8 de la Convention des droits de l'homme
+
+[^4]: “Projet Pegasus : au Mexique, des milliers de personnes ciblées par le logiciel espion.”, *Amnesty France*
+
+[^5]: “Pegasus : révélations sur un système mondial de surveillance.”, *Amnesty France*
+
+[^6]: “La fille d’un opposant rwandais espionnée par Pegasus en Belgique.”, *Le Monde*
+
+[^7]: "Les familles des étudiants disparus d’Ayotzinapa suivies de près par Mexico", *Le Monde*
+
+[^8]: “Pegasus : des lois conformes aux droits de l’homme sont nécessaires pour réglementer les logiciels espions | ONU Info”
+
+[^9]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76
+
+[^10]: Roberts et al., *Mapping the Supply of Surveillance Technologies to Africa*, p. 33.
+
+[^11]: Roberts et al., *Mapping the Supply of Surveillance Technologies to Africa*, p. 33.
+
+[^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkzMjEyNywtMTIzNTY2MDIyNSwxMz
-UwMDQ5NzAxLDg3OTY4ODEwOCw1NDM2NjM5NjcsLTg2MDQ2NTk4
-NF19
+eyJoaXN0b3J5IjpbLTIxMTk3NDkwODksLTEyMzU2NjAyMjUsMT
+M1MDA0OTcwMSw4Nzk2ODgxMDgsNTQzNjYzOTY3LC04NjA0NjU5
+ODRdfQ==
 -->
