@@ -90,7 +90,7 @@ Le logiciel est aussi employé pour surveiller des familles et des militants eng
 
 <p style='text-align:justify;'>Les rapporteurs spéciaux des Nations Unies rappellent d’ailleurs que la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus:</p>
 
->« leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».[^8]
+>« Leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».[^8]
 
 <p style='text-align:justify;'> Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des institutions comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.</p>
 
@@ -267,7 +267,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjA5NTczMCw4MjM4MjYwMTAsNjUyOD
+eyJoaXN0b3J5IjpbLTI2NDEyNjA2Miw4MjM4MjYwMTAsNjUyOD
 M0NjcxLDMwMzg3ODE3MywtNjk3NjI2MzA5LC0yNDg3NDU0MTYs
 NDc1MzYxMDYyLC00MDk1MzE4MjYsNzYxOTQ3NTc1XX0=
 -->
