@@ -144,10 +144,12 @@ Le rapport de 2023, qui dénonçait l’implication des pays européens dans le 
  <p style='text-align:justify;'>Enfin, même la cybersécurité intérieure des États-Unis reste un sujet de préoccupation. Avec la perspective d’un retour possible de Donald Trump à la présidence, l’avenir des efforts américains en matière de régulation des logiciels espions et de cybersurveillance demeure incertain, risquant de remettre en question les progrès réalisés jusqu’à présent.</p>
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfg8Ugya4jSBe_Pz04SOQHEa95Au_1qWFpFPpbPARt4DGobw5JXT0Cevv218quTK2TYEg3lhjwYFyudS8dVjV9dy7ost15NQ25vl26hBWrq68_7ML4YbrUwDU6jwVz7sxW3FapuFA?key=vMYSvzPhYwSeUDhOxw3_OBo9)**
- <p style='text-align:justify;'>Pour conclure sur l’Union européenne, il convient de souligner qu’elle reste l’un des acteurs ayant le plus œuvré pour la protection des droits de l’homme sur Internet et pour combler les lacunes du cadre juridique actuel. Cependant, le rapport PEGA souligne une ironie troublante : il identifie le travail des journalistes et des lanceurs d’alerte comme la protection la plus efficace contre les logiciels espions, alors même qu’ils figurent parmi les principales cibles de ces technologies. 
-Cette réalité souligne l’incapacité persistante des gouvernements mondiaux, ainsi que des grandes institutions comme l’UE et l’ONU, à apporter une réponse adaptée et efficace à la menace croissante du cyberespionnage. En dépit des discours et des initiatives, le décalage entre les ambitions affichées et les actions concrètes demeure alarmant.
+Pour conclure sur l’Union européenne, il convient de souligner qu’elle reste l’un des acteurs ayant le plus œuvré pour la protection des droits de l’homme sur Internet et pour combler les lacunes du cadre juridique actuel. Cependant, le rapport PEGA souligne une ironie troublante : il identifie le travail des journalistes et des lanceurs d’alerte comme la protection la plus efficace contre les logiciels espions, alors même qu’ils figurent parmi les principales cibles de ces technologies. [^12]
+ <p style='text-align:justify;'>Cette réalité souligne l’incapacité persistante des gouvernements mondiaux, ainsi que des grandes institutions comme l’UE et l’ONU, à apporter une réponse adaptée et efficace à la menace croissante du cyberespionnage. En dépit des discours et des initiatives, le décalage entre les ambitions affichées et les actions concrètes demeure alarmant.
 
  <p style='text-align:justify;'> L’impact de Pegasus et d’autres logiciels espions similaires sur les droits de l’homme est considérable, comme cela a été démontré à plusieurs reprises. Toutefois, les rapports détaillés de l’UE, aussi approfondis soient-ils, ne devraient pas laisser entendre que la défense des droits humains repose uniquement sur les épaules des journalistes. Comme de nombreux experts l’ont souligné, un changement global s’impose. Le cadre juridique international doit être repensé et renforcé pour mieux protéger les citoyens non seulement contre Pegasus, mais également contre toutes les technologies menaçant leurs droits fondamentaux.</p>
+
+
 
 ## <span style='color : darkblue;'> 💡 Pour aller plus loin :  </span>
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
@@ -248,7 +250,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 [^4]:Article 8 de la Convention Européenne des Droits de l'Homme 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzODI2MDEwLDY1MjgzNDY3MSwzMDM4Nz
-gxNzMsLTY5NzYyNjMwOSwtMjQ4NzQ1NDE2LDQ3NTM2MTA2Miwt
-NDA5NTMxODI2LDc2MTk0NzU3NV19
+eyJoaXN0b3J5IjpbLTg0NTQxOTM3MSw4MjM4MjYwMTAsNjUyOD
+M0NjcxLDMwMzg3ODE3MywtNjk3NjI2MzA5LC0yNDg3NDU0MTYs
+NDc1MzYxMDYyLC00MDk1MzE4MjYsNzYxOTQ3NTc1XX0=
 -->
