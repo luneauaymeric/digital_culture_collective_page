@@ -7,7 +7,7 @@
 
 <p style='text-align:justify;'> En 2019, malgré les mesures prises suite à l'affaire Snowden, les inquiétudes vis à vis des technologies de surveillance ressurgissent suite aux révélations d’un consortium de journalistes sur l'utilisation du logiciel cyber espion Pegasus. Développé par la société israélienne NSO Group et commercialisé uniquement aux Etats et aux agences gouvernementales avec l’approbation du gouvernement israélien, ce cyber logiciel se distingue par sa capacité redoutable à infecter les téléphones de manière indétectable </p>
 
- <p style='text-align:justify;'>Pourtant, alors que NSO Group présente Pegasus comme un outil destiné à aider les services de renseignements dans leur lutte contre les réseaux criminels et le terrorisme, les investigateurs du “Projet Pegasus” révèlent que le logiciel est utilisé pour espionner des populations clefs comme des chefs d’Etat, des journalistes, des militants pour n’en citer que quelques-uns. Pegasus repose en effet sur une technologie qui lui permet de s'infiltrer dans des appareils tels que les smartphones, qu'ils fonctionnent sous le système d'exploitation iOS d'Apple ou Android de Google. Il offre un accès complet et illimité à toutes les informations stockées sur l'appareil, y compris aux contacts, photos, mots de passe, emails, et conversations chiffrées. Il peut également transformer le téléphone en véritable dispositif d’écoute et de surveillance en activant les micros et les caméras de celui-ci. Son utilisation contre des journalistes, des chefs d’Etats, des militants, etc peut donc s’avérer très intéressante pour quiconque souhaiterait garder le contrôle sur sa population ou obtenir des avantages géopolitiques certains. Les pays ayant acquis cet outil sont donc nombreux : quinze au total, le principal étant le Mexique.[^3]
+ <p style='text-align:justify;'>Pourtant, alors que NSO Group présente Pegasus comme un outil destiné à aider les services de renseignements dans leur lutte contre les réseaux criminels et le terrorisme, les investigateurs du “Projet Pegasus” révèlent que le logiciel est utilisé pour espionner des populations clefs comme des chefs d’Etat, des journalistes, des militants pour n’en citer que quelques-uns. Pegasus repose en effet sur une technologie qui lui permet de s'infiltrer dans des appareils tels que les smartphones, qu'ils fonctionnent sous le système d'exploitation iOS d'Apple ou Android de Google. Il offre un accès complet et illimité à toutes les informations stockées sur l'appareil, y compris aux contacts, photos, mots de passe, emails, et conversations chiffrées. Il peut également transformer le téléphone en véritable dispositif d’écoute et de surveillance en activant les micros et les caméras de celui-ci. Son utilisation contre des journalistes, des chefs d’Etats, des militants, etc peut donc s’avérer très intéressante pour quiconque souhaiterait garder le contrôle sur sa population ou obtenir des avantages géopolitiques certains. Les pays ayant acquis cet outil sont donc nombreux : quinze au total, le principal étant le Mexique.[^1]
   
   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZFiKemZPOQVgVes915YudGHIS0lPdBHhJ4KgZ-IaiZMbfUW1WuHyjAtyt5US_-ZVkbRtffxKirYiRr849q1wdwNYYk8lnv-hJAmHLHJ-018hxsmfXURoyVmIVO01-XxORdk6LOHRM1PSXxvyxa1MlOnsO?key=vMYSvzPhYwSeUDhOxw3_OBo9)
 *Carte représentant les différents clients de NSO Group*
@@ -41,7 +41,7 @@ Comment le logiciel espion Pegasus, qui menace les droits individuels et la cito
 <p style='text-align:justify;'>Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. </p>
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjPkML7uEto8Pd-5dr4wIpzluz3OjIbcipvF03VBzUDWzSeiOPmFWqB9DlZPKkw1Shx4COYisVoF3wXlBauI_L6ZnQsFvkos9MKaEz1l_ohGccnBk3qWCdao_KEB4R1yTIYqxu?key=vMYSvzPhYwSeUDhOxw3_OBo9)**
-*Le premier ministre libanais Saad Hariri*[^1] 
+*Le premier ministre libanais Saad Hariri*[^2] 
 
 <p style='text-align:justify;'>À l’échelle européenne, les problématiques de souveraineté face à l’enjeu du contrôle du cyberespace sont tout aussi préoccupantes. Après la découverte de l’infection téléphonique du commissaire européen à la justice, Didier Reynders, et de quatre autres fonctionnaires, une question majeure se pose : qui est l’auteur de cette attaque ? Pourtant, la Commission européenne se révéle incapable d’en déterminer l’origine. Elle a indique ne pas avoir de compétence en matière de contrôle sur les services de renseignement, renvoyant cette responsabilité aux États membres, censés mener leurs propres enquêtes. Les citoyens, quant à eux, sont invités à recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
 
@@ -223,11 +223,12 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
-[^1]: The Time of Israël
+[^1]: Projet Pégasus
+[^2]: The Time of Israël
 [^3]: Article 8 de la Convention Européenne des Droits de l'Homme
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU3ODgyMDcsNzk1NjgxNTU4LDY2OD
-MyMDcxOCwxNDAxMTg5OTQ5LDg5Nzg5NDMzMywxODg4NjM0OTQ2
-XX0=
+eyJoaXN0b3J5IjpbNDI5MDE4NTYyLDc5NTY4MTU1OCw2NjgzMj
+A3MTgsMTQwMTE4OTk0OSw4OTc4OTQzMzMsMTg4ODYzNDk0Nl19
+
 -->
