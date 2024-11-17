@@ -112,6 +112,8 @@
  <p style='text-align:justify;'>En outre, le Projet Pegasus lui-même souligne les lacunes du système actuel pour protéger les droits individuels et la citoyenneté. C’est uniquement grâce au travail d’un consortium de journalistes de Forbidden Stories et à l’expertise informatique du Citizen Lab d’Amnesty International que l’ampleur de l’utilisation de Pegasus a été révélée, permettant à la justice de se saisir de l’affaire. Ceci montre que pour garantir un cadre juridique réellement protecteur, il est essentiel non seulement de réformer les lois relatives au cyber-espionnage mais aussi de renforcer la protection des journalistes et des laboratoires indépendants. Leur travail compense, en partie, les défaillances étatiques et garantit la transparence nécessaire à la défense des droits fondamentaux.
 </p>
 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcejWrZ2a68TWoxekzqhV6UmG9Wzd3EDG-jLTbtfu3aWnzwsPwMu0MEEFsEi-gjAfuTHbcM7EvOdG3jbtggBCxk0nEFI_3yyd6cWqQufDR3xl3misvI8cEOdjnh8gEZGCC7fHjGiQ?key=vMYSvzPhYwSeUDhOxw3_OBo9)*Page d'accueil du Cyber-Security Lab d'Amnesty International, un des instigateurs du projet Pegasus*
+
 ### <span style='color : darkblue;'> Vers un renforcement du droit international : encadrement juridique et protection des droits humains à l’ère numérique  </span>
  <p style='text-align:justify;'>Le scandale Pegasus, bien que lourd de conséquences pour ces 50 000 victimes potentielles, a eu des répercussions notables, notamment grâce au Projet Pegasus publié par Amnesty International en 2021. À la suite de ces révélations, le gouvernement américain a inscrit NSO Group sur liste noire, affaiblissant l’entreprise sans toutefois la faire disparaître. Cependant, si l’on observe les tendances globales de l’industrie des logiciels espions, cet événement n’a pas eu l’effet catalyseur espéré pour inciter les gouvernements à une régulation efficace. </p>
 
@@ -221,6 +223,6 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MDM2MjE1LDE0MDExODk5NDksODk3OD
-k0MzMzLDE4ODg2MzQ5NDZdfQ==
+eyJoaXN0b3J5IjpbMjA1ODYxODM5NiwxNDAxMTg5OTQ5LDg5Nz
+g5NDMzMywxODg4NjM0OTQ2XX0=
 -->
