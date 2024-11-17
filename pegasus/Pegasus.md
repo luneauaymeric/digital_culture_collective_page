@@ -89,7 +89,7 @@ Le logiciel est aussi employé pour surveiller des familles et des militants eng
 
 <p style='text-align:justify;'>Les rapporteurs spéciaux des Nations Unies rappellent d’ailleurs que la surveillance des communications, même pour des raisons de sécurité nationale, ne devrait être autorisée que dans des circonstances exceptionnelles et avec des garanties juridiques strictes pour éviter les abus:</p>
 
->« leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».</p>
+>« leur utilisation ne peut être justifiée que dans dans le cadre d'enquêtes sur des crimes graves et des menaces graves pour la sécurité ».[^8]
 
 <p style='text-align:justify;'> Il est urgent de mettre en place un cadre juridique et éthique pour réguler ces technologies de surveillance et protéger les droits individuels. Des institutions comme le Conseil des droits de l’homme des Nations Unies et des organisations telles qu’Amnesty International plaident pour des restrictions strictes et un contrôle transparent de ces outils. Ce cadre devrait inclure des mécanismes de transparence, de proportionnalité et de recours judiciaire pour les victimes de surveillance, afin de garantir que des outils comme Pegasus ne soient utilisés que dans des contextes véritablement justifiés et sous le contrôle d’une autorité indépendante.</p>
 
@@ -127,7 +127,9 @@ Le logiciel est aussi employé pour surveiller des familles et des militants eng
 
  <p style='text-align:justify;'>Certains gouvernements ont pris des mesures importantes pour examiner la problématique du cyberespionnage. Comme mentionné,, le gouvernement américain a placé NSO Group sur liste noire. De son côté, le Parlement européen est allé encore plus loin en créant la PEGA (commission d'enquête sur l'utilisation de Pegasus et de logiciels espions de surveillance équivalents). Cette commission, qui s'est dissoute en 2023 avec un rapport final de 145 pages sur ce qu’elle a trouvé et ses recommandations, a enquêté sur les abus gouvernementaux spécifiques de Pegasus, et d’autres logiciels équivalents, dans les pays de l'UE et au-delà. À la suite de ces investigations, PEGA a dressé une liste de recommandations à l'intention de l'UE.</p>
 
- <p style='text-align:justify;'>Bien qu'il existe déjà des lois visant à protéger les citoyens, notamment celles régissant l’utilisation proportionnée des logiciels espions, PEGA a constaté qu'elles n'étaient manifestement pas suffisantes. Ainsi, l'une des recommandations adoptées par l'UE a été de demander aux États membres qui autorisent encore l'usage des logiciels de cybersurveillance de mettre en place et d'appliquer rigoureusement « des lois claires et efficaces pour les encadrer en détail ». L'un des principaux problèmes mis en évidence par le rapport PEGA est la vitesse à laquelle les progrès technologiques en matière de logiciels espions ont été réalisés, laissant le vaste système bureaucratique loin derrière et permettant aux gouvernements et entreprises d'abuser des technologies les plus récentes en toute impunité.</p>
+Bien qu'il existe déjà des lois visant à protéger les citoyens, notamment celles régissant l’utilisation proportionnée des logiciels espions, PEGA a constaté qu'elles n'étaient manifestement pas suffisantes. Ainsi, l'une des recommandations adoptées par l'UE a été de demander aux États membres qui autorisent encore l'usage des logiciels de cybersurveillance de mettre en place et d'appliquer rigoureusement « des lois claires et efficaces pour les encadrer en détail ». [^9]
+
+ <p style='text-align:justify;'>L'un des principaux problèmes mis en évidence par le rapport PEGA est la vitesse à laquelle les progrès technologiques en matière de logiciels espions ont été réalisés, laissant le vaste système bureaucratique loin derrière et permettant aux gouvernements et entreprises d'abuser des technologies les plus récentes en toute impunité.</p>
 
  <p style='text-align:justify;'>Le projet Pegasus a mis en évidence le besoin de transparence gouvernementale et l'inefficacité du cadre juridique actuel pour contrôler les violations des droits de l'homme en matière de la surveillance de masse par ces logiciels. Le rapport PEGA 2023 a recommandé la création d'un organisme indépendant chargé de surveiller l'utilisation de ces technologies. Cependant, un an après cette recommandation, peu de mesures significatives ont été prises pour mettre en place un tel organisme. L'inefficacité persistante de l'UE face à ces technologies est illustrée par le fait que, quelques mois seulement après l'adoption d'un grand nombre des recommandations proposés par la PEGA, il a été révélé que de nombreux logiciels basés dans l'UE étaient fréquemment utilisés en Afrique pour espionner des citoyens. Le rapport qui a révélé cela a montré que certaines agences de l'UE elles-mêmes finançaient des projets de surveillance des frontières et d'identification biométrique, d'une valeur de plusieurs milliards de dollars, sur le continent africain, le tout sans procéder à des évaluations appropriées des risques en matière de droits de l'homme. Malheureusement, il semble que le Projet Pegasus n'ait pas été un avertissement suffisant pour que l'Union Européenne s'attaque sérieusement aux problèmes de cybersurveillance.  </p>
 
@@ -237,7 +239,7 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 [^4]:Article 8 de la Convention Européenne des Droits de l'Homme 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2OTIyMTM1LC02OTc2MjYzMDksLTI0OD
-c0NTQxNiw0NzUzNjEwNjIsLTQwOTUzMTgyNiw3NjE5NDc1NzVd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNjI2NDM4NjMsLTY5NzYyNjMwOSwtMj
+Q4NzQ1NDE2LDQ3NTM2MTA2MiwtNDA5NTMxODI2LDc2MTk0NzU3
+NV19
 -->
