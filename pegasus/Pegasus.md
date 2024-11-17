@@ -252,5 +252,5 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5MTM2ODUwLC05Nzg4Njk3MTZdfQ==
+eyJoaXN0b3J5IjpbNjc5MTM2ODUwXX0=
 -->
