@@ -223,9 +223,8 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
-[^2]: Article 8 de la Convention Européenne des Droits de l'Homme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEwMjI2OTQsNzk1NjgxNTU4LDY2OD
-MyMDcxOCwxNDAxMTg5OTQ5LDg5Nzg5NDMzMywxODg4NjM0OTQ2
-XX0=
+eyJoaXN0b3J5IjpbLTQwNjYxNjA3MCw3OTU2ODE1NTgsNjY4Mz
+IwNzE4LDE0MDExODk5NDksODk3ODk0MzMzLDE4ODg2MzQ5NDZd
+fQ==
 -->
