@@ -269,9 +269,5 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODg2OTcxNiwzMjYwNTc5MzIsLTE5OD
-c2NTEzOTMsLTE4NDYyNjU1OTIsLTI2NDEyNjA2Miw4MjM4MjYw
-MTAsNjUyODM0NjcxLDMwMzg3ODE3MywtNjk3NjI2MzA5LC0yND
-g3NDU0MTYsNDc1MzYxMDYyLC00MDk1MzE4MjYsNzYxOTQ3NTc1
-XX0=
+eyJoaXN0b3J5IjpbLTk3ODg2OTcxNl19
 -->
