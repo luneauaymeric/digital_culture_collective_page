@@ -150,9 +150,12 @@ Pour conclure sur l’Union européenne, il convient de souligner qu’elle rest
 
  <p style='text-align:justify;'> L’impact de Pegasus et d’autres logiciels espions similaires sur les droits de l’homme est considérable, comme cela a été démontré à plusieurs reprises. Toutefois, les rapports détaillés de l’UE, aussi approfondis soient-ils, ne devraient pas laisser entendre que la défense des droits humains repose uniquement sur les épaules des journalistes. Comme de nombreux experts l’ont souligné, un changement global s’impose. Le cadre juridique international doit être repensé et renforcé pour mieux protéger les citoyens non seulement contre Pegasus, mais également contre toutes les technologies menaçant leurs droits fondamentaux.</p>
 
+## <span style='color : darkblue;'> Conclusion</span>
+L’affaire Pegasus illustre avec force comment les logiciels espions menacent les droits fondamentaux et la citoyenneté, tout en mettant en lumière les lacunes des cadres légaux et éthiques existants. En permettant des intrusions massives dans la vie privée, ces technologies révèlent l’urgence de repenser les régulations pour garantir un usage strictement encadré et proportionné. Le décalage entre la rapidité des avancées technologiques et la lenteur des institutions à réagir expose les individus, notamment les journalistes et militants, à des abus graves.
 
+Pour répondre à ces enjeux, il est essentiel de créer des mécanismes internationaux transparents et indépendants, capables de prévenir les dérives et de protéger les droits humains. À travers Pegasus, ce n’est pas seulement la cybersécurité qui est en question, mais la capacité des démocraties à adapter leur cadre juridique face aux défis numériques du XXIème siècle.
 
-## <span style='color : darkblue;'> 💡 Pour aller plus loin :  </span>
+## <span style='color : darkblue;'> 💡 Pour aller plus loin   </span>
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
 
@@ -266,8 +269,8 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc2NTEzOTMsLTE4NDYyNjU1OTIsLT
-I2NDEyNjA2Miw4MjM4MjYwMTAsNjUyODM0NjcxLDMwMzg3ODE3
-MywtNjk3NjI2MzA5LC0yNDg3NDU0MTYsNDc1MzYxMDYyLC00MD
-k1MzE4MjYsNzYxOTQ3NTc1XX0=
+eyJoaXN0b3J5IjpbNTA2OTQ5NDE0LC0xOTg3NjUxMzkzLC0xOD
+Q2MjY1NTkyLC0yNjQxMjYwNjIsODIzODI2MDEwLDY1MjgzNDY3
+MSwzMDM4NzgxNzMsLTY5NzYyNjMwOSwtMjQ4NzQ1NDE2LDQ3NT
+M2MTA2MiwtNDA5NTMxODI2LDc2MTk0NzU3NV19
 -->
