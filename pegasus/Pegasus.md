@@ -42,8 +42,7 @@ Comment le logiciel espion Pegasus, qui menace les droits individuels et la cito
 
 <p style='text-align:justify;'>Les tensions opposant le Liban et l’Arabie saoudite sont en ce sens révélatrices des enjeux de pouvoirs sous-jacents à cette surveillance de masse. Effectivement, les monarchies du golf sont profondément opposées à l’Iran qui est l’un des premiers financeurs du Hezbollah présent au Liban. Ainsi, les Emirats Arabes Unis et l’Arabie saoudite ont ciblé plus de 300 noms proches de cette organisation militaire entre 2018 et 2019. On compte notamment dans cette liste, le premier ministre du Liban Saad Hariri, le président Michel Aoun, des journalistes et beaucoup de ministres. </p>
 
-
-![PM Hariri says Iran should stay out of Lebanon's affairs | The Times of ...](https://th.bing.com/th/id/OIP.HGtIQSwof8s71E7Zq1NZ-gHaEz?rs=1&pid=ImgDetMain)
+![Résultat d’images pour Saad Hariri](https://th.bing.com/th/id/OIP.Hj78aOSCmow7h4GUM3um2gHaEd?w=311&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 *Le premier ministre libanais Saad Hariri*[^2] 
 
 <p style='text-align:justify;'>À l’échelle européenne, les problématiques de souveraineté face à l’enjeu du contrôle du cyberespace sont tout aussi préoccupantes. Après la découverte de l’infection téléphonique du commissaire européen à la justice, Didier Reynders, et de quatre autres fonctionnaires, une question majeure se pose : qui est l’auteur de cette attaque ? Pourtant, la Commission européenne se révéle incapable d’en déterminer l’origine. Elle a indique ne pas avoir de compétence en matière de contrôle sur les services de renseignement, renvoyant cette responsabilité aux États membres, censés mener leurs propres enquêtes. Les citoyens, quant à eux, sont invités à recourir à une justice indépendante du pouvoir pour défendre leurs droits.</p>
@@ -253,5 +252,5 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE1Mzg0NDFdfQ==
+eyJoaXN0b3J5IjpbNTQ5ODAzNzUsLTEzMjE1Mzg0NDFdfQ==
 -->
