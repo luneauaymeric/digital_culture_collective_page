@@ -161,6 +161,8 @@ Pour conclure sur l’Union européenne, il convient de souligner qu’elle rest
 
 
 ##  <span style='color : darkblue;'> Bibliographie </span>
+« Affaire Pegasus : quelles avancées depuis le scandale des révélations ? » Amnesty France, https://www.amnesty.fr/liberte-d-expression/actualites/pegasus-quelles-avancees-depuis-les-revelations-surveillance-logiciel-espion. Consulté le 9 novembre 2024.
+
 Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
 
   
@@ -179,22 +181,16 @@ European Parliament, "L’incidence de Pegasus sur les droits fondamentaux et le
 
 Franceinfo. “ENQUÊTE. Le projet Pegasus : un logiciel espion utilisé par des États pour cibler des politiques, des journalistes, des avocats... y compris des Français,” July 18, 2021. https://www.francetvinfo.fr/monde/proche-orient/disparition-d-un-journaliste-saoudien/enquete-le-projet-pegasus-un-logiciel-espion-utilise-par-des-etats-pour-cibler-des-politiques-des-journalistes-des-avocats-y-compris-des-francais_4707199.html.
 
-“La fille d’un opposant rwandais espionnée par Pegasus en Belgique.” July 19, 2021. https://www.lemonde.fr/projet-pegasus/article/2021/07/19/la-fille-d-un-opposant-rwandais-espionnee-par-pegasus-en-belgique_6088774_6088648.html.
-
-  
-
-“Pegasus : des lois conformes aux droits de l’homme sont nécessaires pour réglementer les logiciels espions | ONU Info,” July 20, 2021. [https://news.un.org/fr/story/2021/07/1100402](https://news.un.org/fr/story/2021/07/1100402).
-
-« Affaire Pegasus : quelles avancées depuis le scandale des révélations ? » Amnesty France, https://www.amnesty.fr/liberte-d-expression/actualites/pegasus-quelles-avancees-depuis-les-revelations-surveillance-logiciel-espion. Consulté le 9 novembre 2024.
-
-  
-
 Froussard, Alice. « Affaire Pegasus : Israël pris à son propre piège ». Mediapart, 12 février 2022, https://www.mediapart.fr/journal/international/120222/affaire-pegasus-israel-pris-son-propre-piege.
 
-  
+
+
+“La fille d’un opposant rwandais espionnée par Pegasus en Belgique.” July 19, 2021. https://www.lemonde.fr/projet-pegasus/article/2021/07/19/la-fille-d-un-opposant-rwandais-espionnee-par-pegasus-en-belgique_6088774_6088648.html.
 
 Lamant, Ludovic. « Pegasus : vers un nouveau front judiciaire pour les indépendantistes catalans ». Mediapart, 25 avril 2022, https://www.mediapart.fr/journal/international/250422/pegasus-vers-un-nouveau-front-judiciaire-pour-les-independantistes-catalans.
 
+
+“Pegasus : des lois conformes aux droits de l’homme sont nécessaires pour réglementer les logiciels espions | ONU Info,” July 20, 2021. [https://news.un.org/fr/story/2021/07/1100402](https://news.un.org/fr/story/2021/07/1100402).
   
 
 Pegasus : la Catalogne demande des comptes à Madrid sur le possible espionnage de certains de ses élus. 20 avril 2022. Le Monde, https://www.lemonde.fr/projet-pegasus/article/2022/04/20/projet-pegasus-des-deputes-europeens-et-des-independantistes-catalans-cibles-par-le-logiciel-espion_6122902_6088648.html.
@@ -269,5 +265,5 @@ United States Department of State. “Joint Statement on Efforts to Counter the 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODg2OTcxNl19
+eyJoaXN0b3J5IjpbMTIyMjcwMTE2NiwtOTc4ODY5NzE2XX0=
 -->
