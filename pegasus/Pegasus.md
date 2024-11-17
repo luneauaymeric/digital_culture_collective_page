@@ -1,7 +1,7 @@
 
 # <span style='color : darkblue;'> Pegasus (logiciel espion)</span>
  ![enter image description here](https://cybersecuritymag.africa/sites/default/files/styles/og_image/public/2021-07/pegasus-nso.jpg?h=8368c627&itok=IrNjb_4Y)
- <p style='text-align:justify;'> Avec l'avènement des technologies numériques et l'explosion des données personnelles stockées en ligne, la cybersurveillance est devenue une réalité omniprésente dans notre société contemporaine. C’est dans ce contexte que ces dernières années ont été marquées par une montée en puissance des technologies de cybersurveillance. Des États aux entreprises privées, nombreux sont ceux qui utilisent des outils sophistiqués pour espionner, collecter et analyser des informations sur des individus sans leur consentement. L'affaire Snowden a ainsi révélé en 2013 l'étendue des programmes de surveillance menés par les agences de renseignement. Ceci a souligné la nécessité de reconsidérer les cadres légaux et éthiques entourant ces pratiques, notamment celles liées à Internet. Le Réglement général de protection des données, aussi connu sous les initiales de RGPD a par exemple été établi en 2016 par l'Union Européenne suite à cette affaire afin de mieux définir les données personnelles et d'établir un cadre autour de leur partage. 
+ <p style='text-align:justify;'> Avec l'avènement des technologies numériques et l'explosion des données personnelles stockées en ligne, la cybersurveillance est devenue une réalité omniprésente dans notre société contemporaine. C’est dans ce contexte que ces dernières années ont été marquées par une montée en puissance des technologies de cybersurveillance. Des États aux entreprises privées, nombreux sont ceux qui utilisent des outils sophistiqués pour espionner, collecter et analyser des informations sur des individus sans leur consentement. L'affaire Snowden a ainsi révélé en 2013 l'étendue des programmes de surveillance menés par les agences de renseignement. Ceci a souligné la nécessité de reconsidérer les cadres légaux et éthiques entourant ces pratiques, notamment celles liées à Internet. Le [Règlement général de protection des données, aussi connu sous les initiales de RGPD a par exemple été établi en 2016 par l'Union Européenne suite à cette affaire afin de mieux définir les données personnelles et d'établir un cadre autour de leur partage. 
 
 <p style='text-align:justify;'> En 2019, malgré les mesures prises suite à l'affaire Snowden, les inquiétudes vis à vis des technologies de surveillance ressurgissent suite aux révélations d’un consortium de journalistes sur l'utilisation du logiciel cyber espion Pegasus. Développé par la société israélienne NSO Group et commercialisé uniquement aux Etats et aux agences gouvernementales avec l’approbation du gouvernement israélien, ce cyber logiciel se distingue par sa capacité redoutable à infecter les téléphones de manière indétectable </p>
 
@@ -213,6 +213,6 @@ UNGA79: Commercial Spyware and Freedom Online Ministerial. Accessed November 11,
 United States Department of State. “Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial Spyware.” Accessed November 11, 2024. https://www.state.gov/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY5Mjc4MzEsNDExMzg1ODIzLC04MT
-gyOTU5NzksLTE2Nzc4MTE1MDUsLTIxMTQyMzUzMTVdfQ==
+eyJoaXN0b3J5IjpbLTYwNjU4OTYzMyw0MTEzODU4MjMsLTgxOD
+I5NTk3OSwtMTY3NzgxMTUwNSwtMjExNDIzNTMxNV19
 -->
