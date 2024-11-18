@@ -153,7 +153,8 @@ Pour conclure sur l’Union européenne, il convient de souligner qu’elle rest
 <p style='text-align:justify;'> L’affaire Pegasus illustre avec force comment les logiciels espions menacent les droits fondamentaux et la citoyenneté, tout en mettant en lumière les lacunes des cadres légaux et éthiques existants. En permettant des intrusions massives dans la vie privée, ces technologies révèlent l’urgence de repenser les régulations pour garantir un usage strictement encadré et proportionné. Le décalage entre la rapidité des avancées technologiques et la lenteur des institutions à réagir expose les individus, notamment les journalistes et militants, à des abus graves.</p>
 
 <p style='text-align:justify;'> Pour répondre à ces enjeux, il est essentiel de créer des mécanismes internationaux transparents et indépendants, capables de prévenir les dérives et de protéger les droits humains. À travers Pegasus, ce n’est pas seulement la cybersécurité qui est en question, mais la capacité des démocraties à adapter leur cadre juridique face aux défis numériques du XXIème siècle.</p>
-*By Lana-sydney FERREIRA FERNANDES, 
+
+<p style='text-align:right;'>Lana-sydney FERREIRA FERNANDES, Perrine GUEDON, Isabelle JACKSON-CAMERON & Ani SARUKHANYAN</p>
 
 ## <span style='color : darkblue;'> 💡 Pour aller plus loin   </span>
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
@@ -254,7 +255,7 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODQyMjEyOCwxNzI1NjU2MjgwLDE4MT
+eyJoaXN0b3J5IjpbLTU4MTY1MDM5MCwxNzI1NjU2MjgwLDE4MT
 A5ODkxMzUsMTcyNTY1NjI4MCwtMTE0Mjg0MTY3Nyw1NDgwNjk4
 NjUsLTEzMjE1Mzg0NDFdfQ==
 -->
