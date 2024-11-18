@@ -160,7 +160,7 @@ Pour conclure sur l’Union européenne, il convient de souligner qu’elle rest
 
 
 
-##  <span style='color : darkblue;'> Bibliographie </span>
+<h2 style='color : darkblue;'>Bibliographie </h2>
 « Affaire Pegasus : quelles avancées depuis le scandale des révélations ? » Amnesty France, https://www.amnesty.fr/liberte-d-expression/actualites/pegasus-quelles-avancees-depuis-les-revelations-surveillance-logiciel-espion. Consulté le 9 novembre 2024.
 
 Amnesty France. “Pegasus : révélations sur un système mondial de surveillance.” Accessed November 8, 2024. https://www.amnesty.fr/actualites/projet-pegasus-revelations-sur-un-systeme-mondial-de-surveillance.
@@ -254,7 +254,7 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjc0NjczMCwtNjA5MzU3MDg2LDE5Mj
+eyJoaXN0b3J5IjpbMTIyNDc4NDc2NCwtNjA5MzU3MDg2LDE5Mj
 kyNzEzNDIsLTU4MTY1MDM5MCwxNzI1NjU2MjgwLDE4MTA5ODkx
 MzUsMTcyNTY1NjI4MCwtMTE0Mjg0MTY3Nyw1NDgwNjk4NjUsLT
 EzMjE1Mzg0NDFdfQ==
