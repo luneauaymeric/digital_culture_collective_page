@@ -1,7 +1,6 @@
 
 # <span style='color : darkblue;'> Pegasus : quand la cybersécurité devient un enjeu légal</span>
- 
-<span style='color : grey;'> Lana-sydney FERREIRA FERNANDES, Perrine GUEDON, Isabelle JACKSON-CAMERON & Ani SARUKHANYAN</span>
+
 
 ![What Is Pegasus Spyware and How Does It Infect Your Phone ](https://beebom.com/wp-content/uploads/2021/07/what-is-pegasus-spyware-and-how-to-stay-safe.jpg)
  
@@ -256,8 +255,8 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg1MDU2NTUsMTkyOTI3MTM0MiwtNT
-gxNjUwMzkwLDE3MjU2NTYyODAsMTgxMDk4OTEzNSwxNzI1NjU2
-MjgwLC0xMTQyODQxNjc3LDU0ODA2OTg2NSwtMTMyMTUzODQ0MV
-19
+eyJoaXN0b3J5IjpbLTYwOTM1NzA4NiwxOTI5MjcxMzQyLC01OD
+E2NTAzOTAsMTcyNTY1NjI4MCwxODEwOTg5MTM1LDE3MjU2NTYy
+ODAsLTExNDI4NDE2NzcsNTQ4MDY5ODY1LC0xMzIxNTM4NDQxXX
+0=
 -->
