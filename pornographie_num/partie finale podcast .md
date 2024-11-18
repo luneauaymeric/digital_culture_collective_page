@@ -15,27 +15,28 @@ Ainsi, tous ces enjeux nous mènent à nous interroger sur cette question :
 
 **Comment la plateforme Onlyfans, permettant la monétisation de contenus sexuels remet- t- elle en question les normes sociales traditionnelles entourant la sexualité et l’intimité ?** 
 
-I. Le phénomène d’only fan  : une évolution marquée par l'ère numérique 
+##I. Le phénomène d’only fan  : une évolution marquée par l'ère numérique## 
 
-1.  Émergence d'un nouveau modèle économique  
-2. l'interview d’Hugo Bournat, créateur de contenu sur OnlyFans 
+#1.  Émergence d'un nouveau modèle économique# 
+#2. l'interview d’Hugo Bournat, créateur de contenu sur OnlyFans#
+ 
 
        
-II. Redéfinition des normes sociales autour de la sexualité  
-   A. Normalisation de la sexualité en ligne      
-   B. Influence marquante sur les comportements des consommateurs   
+##II. Redéfinition des normes sociales autour de la sexualité##  
+  #A. Normalisation de la sexualité en ligne#     
+   #B. Influence marquante sur les comportements des consommateurs#  
         
-III) Une transformation beaucoup trop “rapide” et dangereuse pour la société ? Focus sur les enjeux éthiques et juridiques 
+##III) Une transformation beaucoup trop “rapide” et dangereuse pour la société ? Focus sur les enjeux éthiques et juridiques## 
 
-1. Changement des moeurs :facile d'accès, stigmatisation des créateurs de contenus  
-2. La régulation autour de la prostitution 
+#1. Changement des moeurs :facile d'accès, stigmatisation des créateurs de contenus#  
+#2. La régulation autour de la prostitution#
 
    
  Lien de notre podcast: 
 
           
 
-**BIBLIOGRAPHIE**: 
+##**BIBLIOGRAPHIE**##: 
 
 BERGSTROM, Marie, “Ce que le numérique fait à l’économie du sexe”, *Revue Française de Socio-Économie*, n° 25, pages 155 à 160, Éditions La Découverte.
 
