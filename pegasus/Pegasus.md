@@ -100,8 +100,7 @@ Le logiciel est aussi employé pour surveiller des familles et des militants eng
    
  <p style='text-align:justify;'> En révélant les multiples atteintes au droit individuel et à la citoyenneté causées par le logiciel de cyber-espionnage Pegasus, les journalistes et laboratoires soulignent les nombreuses lacunes juridiques face aux technologies de surveillance. En effet, les outils juridiques en place jusqu’en 2021 n’ont pas permis de protéger les propriétaires des 50 000 téléphones potentiellement infectés par le logiciel. Le scandale lié à Pegasus révèle en particulier trois failles du cadre juridique.
 
-
- <p style='text-align:justify;'> Tout d’abord, Pegasus a permis de révéler l’absence de cadre juridique relatif au cyber-espionnage dans de nombreux pays, laissant les États libres d’espionner leurs citoyens sans risque d’être poursuivis. </p>
+ Tout d’abord, Pegasus a permis de révéler l’absence de cadre juridique relatif au cyber-espionnage dans de nombreux pays, laissant les États libres d’espionner leurs citoyens sans risque d’être poursuivis.[^13] 
 
  <p style='text-align:justify;'>C’est le cas, par exemple, au Maroc, où le cadre juridique relatif au cyber-espionnage est inexistant. Le régime en place a ainsi pu espionner de nombreux journalistes, opposants politiques et activistes sans contrainte légale. Nombre de citoyens marocains visés par ce logiciel de cyber-espionnage ont ensuite été arrêtés, diffamés, ou ciblés par les services de renseignement de manière à les intimider ou à les réduire au silence. Certains d’entre eux, comme le rédacteur en chef Soulaiman Raissouni, sont toujours en prison. L’absence de cadre juridique national relatif au cyber-espionnage représente ainsi un danger majeur pour les personnes soupçonnées de menacer le régime marocain, qui peuvent être surveillées et persécutées sans recours possible.</p>
 
@@ -251,7 +250,9 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 
 [^12]: European Parliament, The Use of Pegasus and Equivalent Surveillance Spyware: The Existing Legal Framework in EU Member States for the Acquisition and Use of Pegasus and Equivalent Surveillance Spyware, p. 76.
+
+[^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODg5ODUyMiwtMTE0Mjg0MTY3Nyw1ND
+eyJoaXN0b3J5IjpbMTcyNTY1NjI4MCwtMTE0Mjg0MTY3Nyw1ND
 gwNjk4NjUsLTEzMjE1Mzg0NDFdfQ==
 -->
