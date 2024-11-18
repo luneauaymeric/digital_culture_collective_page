@@ -1,4 +1,4 @@
-_accroche: extrait  vidéo qui prouve que Onlyfans est une plateforme virale_ 
+ _accroche: extrait  vidéo qui prouve que Onlyfans est une plateforme virale_ 
 
 Mais qui ne connaît pas OnlyFans ? Ce sujet est devenu viral, avec de nombreux créateurs de contenu faisant la promotion de cette plateforme. Personnellement, j'ai souvent entendu des blagues à son sujet, notamment pour relativiser un échec (comme une mauvaise note) ou pour se rassurer en disant que si l'on ne réussissait pas le bac, on pourrait toujours se lancer sur OnlyFans. Ainsi, lorsque j'ai déménagé à Reims, j'ai remarqué que de nombreux camarades de lycée avaient créé un profil sur OnlyFans promouvant leur contenu sur instagram ou sur X.  Cela m'a littéralement frappé et m'a permis de prendre conscience de l'impact de cette plateforme. C'est donc tout naturellement que l'idée de parler d'OnlyFans et de ses dérives m'est venue à l'esprit lorsque la question d'un sujet d'exploration nous a été posée.  
 
@@ -47,7 +47,7 @@ Ainsi, tous ces enjeux nous mènent à nous interroger sur cette question :
 
           
 
-# **BIBLIOGRAPHIE** : 
+[u] # **BIBLIOGRAPHIE** [u] : 
 
 BERGSTROM, Marie, “Ce que le numérique fait à l’économie du sexe”, *Revue Française de Socio-Économie*, n° 25, pages 155 à 160, Éditions La Découverte.
 
