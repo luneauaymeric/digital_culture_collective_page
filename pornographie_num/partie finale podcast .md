@@ -1,6 +1,9 @@
-accroche: extrait  vidéo qui prouve que Onlyfans est une plateforme virale 
+_accroche: extrait  vidéo qui prouve que Onlyfans est une plateforme virale_ 
 
 Mais qui ne connaît pas OnlyFans ? Ce sujet est devenu viral, avec de nombreux créateurs de contenu faisant la promotion de cette plateforme. Personnellement, j'ai souvent entendu des blagues à son sujet, notamment pour relativiser un échec (comme une mauvaise note) ou pour se rassurer en disant que si l'on ne réussissait pas le bac, on pourrait toujours se lancer sur OnlyFans. Ainsi, lorsque j'ai déménagé à Reims, j'ai remarqué que de nombreux camarades de lycée avaient créé un profil sur OnlyFans promouvant leur contenu sur instagram ou sur X.  Cela m'a littéralement frappé et m'a permis de prendre conscience de l'impact de cette plateforme. C'est donc tout naturellement que l'idée de parler d'OnlyFans et de ses dérives m'est venue à l'esprit lorsque la question d'un sujet d'exploration nous a été posée.  
+
+
+
 Pour mener à bien notre enquête, j'ai eu l'opportunité de recueillir plusieurs témoignages concernant la plateforme OnlyFans. Cependant, dans le cadre de ce podcast, nous nous concentrerons principalement sur le témoignage de Hugo, qui offre une perspective intéressante et pertinente sur le sujet.  
 De plus, de nombreux médias ont réalisé des enquêtes approfondies sur cette plateforme, ce qui nous a considérablement aidés dans notre analyse. Ces recherches ont permis d'éclairer divers aspects d'OnlyFans, notamment son impact sur les créateurs de contenu, les dynamiques économiques en jeu, ainsi que les enjeux sociaux et éthiques qui l'entourent. Grâce à ces ressources, nous avons pu enrichir notre compréhension du phénomène et aborder le sujet de manière plus nuancée.  
    
