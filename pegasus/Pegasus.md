@@ -1,5 +1,5 @@
 
-# <p style='text-align:center;'><span style='color : darkblue;'> Pegasus : quand la cybersécurité devient un enjeu légal</span>
+# <span style='color : darkblue;'> Pegasus : quand la cybersécurité devient un enjeu légal</span>
  ![What Is Pegasus Spyware and How Does It Infect Your Phone ](https://beebom.com/wp-content/uploads/2021/07/what-is-pegasus-spyware-and-how-to-stay-safe.jpg)
  
  <p style='text-align:justify;'> Avec l'avènement des technologies numériques et l'explosion des données personnelles stockées en ligne, la cybersurveillance est devenue une réalité omniprésente dans notre société contemporaine. C’est dans ce contexte que ces dernières années ont été marquées par une montée en puissance des technologies de cybersurveillance. Des États aux entreprises privées, nombreux sont ceux qui utilisent des outils sophistiqués pour espionner, collecter et analyser des informations sur des individus sans leur consentement. L'affaire Snowden a ainsi révélé en 2013 l'étendue des programmes de surveillance menés par les agences de renseignement. Ceci a souligné la nécessité de reconsidérer les cadres légaux et éthiques entourant ces pratiques, notamment celles liées à Internet. Le Règlement général de protection des données, aussi connu sous les initiales de RGPD a par exemple été établi en 2016 par l'Union Européenne suite à cette affaire afin de mieux définir les données personnelles et d'établir un cadre autour de leur partage. 
@@ -253,6 +253,7 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDk4OTEzNSwxNzI1NjU2MjgwLC0xMT
-QyODQxNjc3LDU0ODA2OTg2NSwtMTMyMTUzODQ0MV19
+eyJoaXN0b3J5IjpbMTcyNTY1NjI4MCwxODEwOTg5MTM1LDE3Mj
+U2NTYyODAsLTExNDI4NDE2NzcsNTQ4MDY5ODY1LC0xMzIxNTM4
+NDQxXX0=
 -->
