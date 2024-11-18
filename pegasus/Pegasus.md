@@ -1,7 +1,7 @@
 
 # <span style='color : darkblue;'> Pegasus : quand la cybersécurité devient un enjeu légal</span>
  
- <p style='text-align:right;'>Lana-sydney FERREIRA FERNANDES, Perrine GUEDON, Isabelle JACKSON-CAMERON & Ani SARUKHANYAN</p>
+<span style='color : grey;'> Lana-sydney FERREIRA FERNANDES, Perrine GUEDON, Isabelle JACKSON-CAMERON & Ani SARUKHANYAN</span>
 ![What Is Pegasus Spyware and How Does It Infect Your Phone ](https://beebom.com/wp-content/uploads/2021/07/what-is-pegasus-spyware-and-how-to-stay-safe.jpg)
  
  <p style='text-align:justify;'> Avec l'avènement des technologies numériques et l'explosion des données personnelles stockées en ligne, la cybersurveillance est devenue une réalité omniprésente dans notre société contemporaine. C’est dans ce contexte que ces dernières années ont été marquées par une montée en puissance des technologies de cybersurveillance. Des États aux entreprises privées, nombreux sont ceux qui utilisent des outils sophistiqués pour espionner, collecter et analyser des informations sur des individus sans leur consentement. L'affaire Snowden a ainsi révélé en 2013 l'étendue des programmes de surveillance menés par les agences de renseignement. Ceci a souligné la nécessité de reconsidérer les cadres légaux et éthiques entourant ces pratiques, notamment celles liées à Internet. Le Règlement général de protection des données, aussi connu sous les initiales de RGPD a par exemple été établi en 2016 par l'Union Européenne suite à cette affaire afin de mieux définir les données personnelles et d'établir un cadre autour de leur partage. 
@@ -255,7 +255,8 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTI3MTM0MiwtNTgxNjUwMzkwLDE3Mj
-U2NTYyODAsMTgxMDk4OTEzNSwxNzI1NjU2MjgwLC0xMTQyODQx
-Njc3LDU0ODA2OTg2NSwtMTMyMTUzODQ0MV19
+eyJoaXN0b3J5IjpbLTE1MTA3OTc1MywxOTI5MjcxMzQyLC01OD
+E2NTAzOTAsMTcyNTY1NjI4MCwxODEwOTg5MTM1LDE3MjU2NTYy
+ODAsLTExNDI4NDE2NzcsNTQ4MDY5ODY1LC0xMzIxNTM4NDQxXX
+0=
 -->
