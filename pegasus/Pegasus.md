@@ -1,5 +1,5 @@
 
-# Pegasus : quand la cybersécurité devient un enjeu légal
+# <span style="color : darkblue ;"> "Pegasus : quand la cybersécurité devient un enjeu légal </span>
 
 
 ![What Is Pegasus Spyware and How Does It Infect Your Phone ](https://beebom.com/wp-content/uploads/2021/07/what-is-pegasus-spyware-and-how-to-stay-safe.jpg)
@@ -255,8 +255,9 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNDQxMDgsLTc4Nzc5MzA2LDEyMjQ3OD
-Q3NjQsLTYwOTM1NzA4NiwxOTI5MjcxMzQyLC01ODE2NTAzOTAs
-MTcyNTY1NjI4MCwxODEwOTg5MTM1LDE3MjU2NTYyODAsLTExND
-I4NDE2NzcsNTQ4MDY5ODY1LC0xMzIxNTM4NDQxXX0=
+eyJoaXN0b3J5IjpbLTc2NzEyNTc4Nyw1NjI0NDEwOCwtNzg3Nz
+kzMDYsMTIyNDc4NDc2NCwtNjA5MzU3MDg2LDE5MjkyNzEzNDIs
+LTU4MTY1MDM5MCwxNzI1NjU2MjgwLDE4MTA5ODkxMzUsMTcyNT
+Y1NjI4MCwtMTE0Mjg0MTY3Nyw1NDgwNjk4NjUsLTEzMjE1Mzg0
+NDFdfQ==
 -->
