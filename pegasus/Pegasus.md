@@ -254,7 +254,7 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTM1NzA4NiwtNjA5MzU3MDg2LDE5Mj
+eyJoaXN0b3J5IjpbMjA0NTEwOTE5MCwtNjA5MzU3MDg2LDE5Mj
 kyNzEzNDIsLTU4MTY1MDM5MCwxNzI1NjU2MjgwLDE4MTA5ODkx
 MzUsMTcyNTY1NjI4MCwtMTE0Mjg0MTY3Nyw1NDgwNjk4NjUsLT
 EzMjE1Mzg0NDFdfQ==
