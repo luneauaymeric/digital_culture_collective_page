@@ -5,18 +5,23 @@ Mais qui ne connaît pas OnlyFans ? Ce sujet est devenu viral, avec de nombreux 
 
 
 Pour mener à bien notre enquête, j'ai eu l'opportunité de recueillir plusieurs témoignages concernant la plateforme OnlyFans. Cependant, dans le cadre de ce podcast, nous nous concentrerons principalement sur le témoignage de Hugo, qui offre une perspective intéressante et pertinente sur le sujet.  
+
+
 De plus, de nombreux médias ont réalisé des enquêtes approfondies sur cette plateforme, ce qui nous a considérablement aidés dans notre analyse. Ces recherches ont permis d'éclairer divers aspects d'OnlyFans, notamment son impact sur les créateurs de contenu, les dynamiques économiques en jeu, ainsi que les enjeux sociaux et éthiques qui l'entourent. Grâce à ces ressources, nous avons pu enrichir notre compréhension du phénomène et aborder le sujet de manière plus nuancée.  
    
 Souvent surnommée « L’Instagram du porno », cette application fait beaucoup parler d’elle.  En effet, fondée en 2016, cette dernière permet la monétisation de contenus sexuels soulevant des questions cruciales sur la redéfinition des normes sociales traditionnelles entourant la sexualité et l’intimité.   
+
 Ainsi, Onlyfans illustre l’évolution des perceptions de la sexualité cela pourrait contribuer à une normalisation de la sexualité dans une société où les tabous tendent à s’effriter. En monétisant des contenus souvent intimes en ligne, cela remet en question des valeurs dites « traditionnelles » et soulève des débats autour de la marchandisation des corps. Par marchandisation des corps, on entend le processus par lequel le corps humain est traité comme une marchandise, c'est-à-dire un bien pouvant être acheté ou vendu. Par cette définition, on peut désigner les travailleuses du sexe en ligne (les camgirls, camboys ect), ou les individus échangent des services sexuels  contre une rémunération.   
 Si ces plateformes permettent une certaine indépendance (sans passer par des proxénètes, ils sont totalement maîtres de leurs actions)  offrant aux créateurs une possibilité de monétiser leurs contenus sans intermédiaires.On peut noter que certains  basculent toutes les structures traditionnelles de l’industrie pornographique.   
    
-Ce secteur est marqué par une forte évolution : on passe de supports photographiques aux plateformes numériques dans lesquelles chaque avancée façonne les modalités de consommation mais également la construction des identités sexuelles et des rapports de genre. L’essor d’Onlyfans est donc perçu comme une continuité de cette dynamique ou la sexualité est non seulement représentée mais aussi monétisée et personnalisée.   
+Ce secteur est marqué par une forte évolution : on passe de supports photographiques aux plateformes numériques dans lesquelles chaque avancée façonne les modalités de consommation mais également la construction des identités sexuelles et des rapports de genre. L’essor d’Onlyfans est donc perçu comme une continuité de cette dynamique ou la sexualité est non seulement représentée mais aussi monétisée et personnalisée. 
+
+
 Cependant, cela peut mener à une banalisation de la prostitution. En effet, si l’on considère Onlyfans comme une plateforme promouvant cette pratique. Le terme « prostitution » est difficile à appliquer dans ce contexte, en raison de l’aspect « virtuel » qu’elle revêt. En effet, étant donné que ces interactions se déroulent en ligne, il en devient difficile de saisir la notion de consentement, les conséquences potentielles d’afficher son corps sur les réseaux sociaux, la sécurité … Ainsi, cela nous invite à nous pencher sur la régulation des droits des travailleurs de sexe mais également la régulation des contenus sexuels en ligne. En effet, les lois peinent à s’adapter aux nouvelles réalités de notre société, laissant un flou juridique ce qui peut nuire aux droits mais aussi à la sécurité des créateurs. (Les proxénètes, la protection des mineurs, les abus). Il convient de noter cependant, que cette plateforme comme un outil d’émancipation permettant aux femmes d’afficher leur corps librement symbolisant ainsi un défi à la société patriarcale. D’autres, s’élèvent pour dénoncer une forme d’exploitation de leur corps.  En effet, certaines personnes se retrouvent soumises à des pressions financières ce qui les poussent à céder à des demandes de clients qui ne correspondent pas à leurs valeurs personnelles.   
    
 Ainsi, tous ces enjeux nous mènent à nous interroger sur cette question : 
 
-## **Comment la plateforme Onlyfans, permettant la monétisation de contenus sexuels remet- t- elle en question les normes sociales traditionnelles entourant la sexualité et l’intimité ?** ## 
+#  **Comment la plateforme Onlyfans, permettant la monétisation de contenus sexuels remet- t- elle en question les normes sociales traditionnelles entourant la sexualité et l’intimité ?** # 
 
 
 # I. Le phénomène d’only fan  : une évolution marquée par l'ère numérique ## 
