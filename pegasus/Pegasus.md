@@ -150,7 +150,7 @@ Pour conclure sur l’Union européenne, il convient de souligner qu’elle rest
 
  <p style='text-align:justify;'> L’impact de Pegasus et d’autres logiciels espions similaires sur les droits de l’homme est considérable, comme cela a été démontré à plusieurs reprises. Toutefois, les rapports détaillés de l’UE, aussi approfondis soient-ils, ne devraient pas laisser entendre que la défense des droits humains repose uniquement sur les épaules des journalistes. Comme de nombreux experts l’ont souligné, un changement global s’impose. Le cadre juridique international doit être repensé et renforcé pour mieux protéger les citoyens non seulement contre Pegasus, mais également contre toutes les technologies menaçant leurs droits fondamentaux.</p>
 
-## <span style='color : darkblue;'> Conclusion</span>
+<h2 style='color : darkblue;'>Conclusion</h2>
 <p style='text-align:justify;'> L’affaire Pegasus illustre avec force comment les logiciels espions menacent les droits fondamentaux et la citoyenneté, tout en mettant en lumière les lacunes des cadres légaux et éthiques existants. En permettant des intrusions massives dans la vie privée, ces technologies révèlent l’urgence de repenser les régulations pour garantir un usage strictement encadré et proportionné. Le décalage entre la rapidité des avancées technologiques et la lenteur des institutions à réagir expose les individus, notamment les journalistes et militants, à des abus graves.</p>
 
 <p style='text-align:justify;'> Pour répondre à ces enjeux, il est essentiel de créer des mécanismes internationaux transparents et indépendants, capables de prévenir les dérives et de protéger les droits humains. À travers Pegasus, ce n’est pas seulement la cybersécurité qui est en question, mais la capacité des démocraties à adapter leur cadre juridique face aux défis numériques du XXIème siècle.</p>
@@ -254,7 +254,7 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTEwOTE5MCwtNjA5MzU3MDg2LDE5Mj
+eyJoaXN0b3J5IjpbMjAxNjc0NjczMCwtNjA5MzU3MDg2LDE5Mj
 kyNzEzNDIsLTU4MTY1MDM5MCwxNzI1NjU2MjgwLDE4MTA5ODkx
 MzUsMTcyNTY1NjI4MCwtMTE0Mjg0MTY3Nyw1NDgwNjk4NjUsLT
 EzMjE1Mzg0NDFdfQ==
