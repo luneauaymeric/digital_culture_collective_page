@@ -34,7 +34,7 @@ Ainsi, tous ces enjeux nous mènent à nous interroger sur cette question :
 # I. Le phénomène d’Onlyfans  : une évolution marquée par l'ère numérique ## 
 
 ## 1.  Émergence d'un nouveau modèle économique ##
-## 2. l'interview d’Hugo Bournat, créateur de contenu sur OnlyFans ## 
+## 2. l'interview d’Hugo, créateur de contenu sur OnlyFans ## 
  
 
        
