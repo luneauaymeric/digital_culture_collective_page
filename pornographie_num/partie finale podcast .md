@@ -24,6 +24,12 @@ Ainsi, tous ces enjeux nous mènent à nous interroger sur cette question :
 #  **Comment la plateforme Onlyfans, permettant la monétisation de contenus sexuels remet- t- elle en question les normes sociales traditionnelles entourant la sexualité et l’intimité ?** # 
 
 
+
+
+
+
+
+
 # I. Le phénomène d’only fan  : une évolution marquée par l'ère numérique ## 
 
 ## 1.  Émergence d'un nouveau modèle économique ##
