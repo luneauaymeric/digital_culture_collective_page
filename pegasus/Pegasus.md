@@ -155,7 +155,7 @@ Pour conclure sur l’Union européenne, il convient de souligner qu’elle rest
 
 <p style='text-align:justify;'> Pour répondre à ces enjeux, il est essentiel de créer des mécanismes internationaux transparents et indépendants, capables de prévenir les dérives et de protéger les droits humains. À travers Pegasus, ce n’est pas seulement la cybersécurité qui est en question, mais la capacité des démocraties à adapter leur cadre juridique face aux défis numériques du XXIème siècle.</p>
 
-## <span style='color : darkblue;'> 💡 Pour aller plus loin   </span>
+<h2 style='color : darkblue;'> 💡 Pour aller plus loin   </h2>
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
 
@@ -254,8 +254,8 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDc4NDc2NCwtNjA5MzU3MDg2LDE5Mj
-kyNzEzNDIsLTU4MTY1MDM5MCwxNzI1NjU2MjgwLDE4MTA5ODkx
-MzUsMTcyNTY1NjI4MCwtMTE0Mjg0MTY3Nyw1NDgwNjk4NjUsLT
-EzMjE1Mzg0NDFdfQ==
+eyJoaXN0b3J5IjpbLTQxNjYxODg3NiwxMjI0Nzg0NzY0LC02MD
+kzNTcwODYsMTkyOTI3MTM0MiwtNTgxNjUwMzkwLDE3MjU2NTYy
+ODAsMTgxMDk4OTEzNSwxNzI1NjU2MjgwLC0xMTQyODQxNjc3LD
+U0ODA2OTg2NSwtMTMyMTUzODQ0MV19
 -->
