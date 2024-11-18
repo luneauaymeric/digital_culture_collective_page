@@ -39,7 +39,7 @@ Ainsi, tous ces enjeux nous mènent à nous interroger sur cette question :
 
           
 
-# **BIBLIOGRAPHIE** #: 
+# **BIBLIOGRAPHIE** : 
 
 BERGSTROM, Marie, “Ce que le numérique fait à l’économie du sexe”, *Revue Française de Socio-Économie*, n° 25, pages 155 à 160, Éditions La Découverte.
 
