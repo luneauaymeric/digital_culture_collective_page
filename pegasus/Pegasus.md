@@ -1,6 +1,8 @@
 
 # <span style='color : darkblue;'> Pegasus : quand la cybersécurité devient un enjeu légal</span>
- ![What Is Pegasus Spyware and How Does It Infect Your Phone ](https://beebom.com/wp-content/uploads/2021/07/what-is-pegasus-spyware-and-how-to-stay-safe.jpg)
+ 
+ <p style='text-align:right;'>Lana-sydney FERREIRA FERNANDES, Perrine GUEDON, Isabelle JACKSON-CAMERON & Ani SARUKHANYAN</p>
+![What Is Pegasus Spyware and How Does It Infect Your Phone ](https://beebom.com/wp-content/uploads/2021/07/what-is-pegasus-spyware-and-how-to-stay-safe.jpg)
  
  <p style='text-align:justify;'> Avec l'avènement des technologies numériques et l'explosion des données personnelles stockées en ligne, la cybersurveillance est devenue une réalité omniprésente dans notre société contemporaine. C’est dans ce contexte que ces dernières années ont été marquées par une montée en puissance des technologies de cybersurveillance. Des États aux entreprises privées, nombreux sont ceux qui utilisent des outils sophistiqués pour espionner, collecter et analyser des informations sur des individus sans leur consentement. L'affaire Snowden a ainsi révélé en 2013 l'étendue des programmes de surveillance menés par les agences de renseignement. Ceci a souligné la nécessité de reconsidérer les cadres légaux et éthiques entourant ces pratiques, notamment celles liées à Internet. Le Règlement général de protection des données, aussi connu sous les initiales de RGPD a par exemple été établi en 2016 par l'Union Européenne suite à cette affaire afin de mieux définir les données personnelles et d'établir un cadre autour de leur partage. 
 
@@ -154,8 +156,6 @@ Pour conclure sur l’Union européenne, il convient de souligner qu’elle rest
 
 <p style='text-align:justify;'> Pour répondre à ces enjeux, il est essentiel de créer des mécanismes internationaux transparents et indépendants, capables de prévenir les dérives et de protéger les droits humains. À travers Pegasus, ce n’est pas seulement la cybersécurité qui est en question, mais la capacité des démocraties à adapter leur cadre juridique face aux défis numériques du XXIème siècle.</p>
 
-<p style='text-align:right;'>Lana-sydney FERREIRA FERNANDES, Perrine GUEDON, Isabelle JACKSON-CAMERON & Ani SARUKHANYAN</p>
-
 ## <span style='color : darkblue;'> 💡 Pour aller plus loin   </span>
 [![Arte : Pegasus un espion dans votre poche](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhqlQcwmT1IA)](https://www.youtube.com/watch?v=hqlQcwmT1IA)
 
@@ -255,7 +255,7 @@ webmaster. « À propos du projet Pegasus ». Forbidden Stories, 18 juillet 2021
 
 [^13]: KALDANI Tamar, PROKOPETS Zeev, Pegasus et ses répercussions sur les droits de l’homme, Conseil de l’Europe, 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTY1MDM5MCwxNzI1NjU2MjgwLDE4MT
-A5ODkxMzUsMTcyNTY1NjI4MCwtMTE0Mjg0MTY3Nyw1NDgwNjk4
-NjUsLTEzMjE1Mzg0NDFdfQ==
+eyJoaXN0b3J5IjpbMTkyOTI3MTM0MiwtNTgxNjUwMzkwLDE3Mj
+U2NTYyODAsMTgxMDk4OTEzNSwxNzI1NjU2MjgwLC0xMTQyODQx
+Njc3LDU0ODA2OTg2NSwtMTMyMTUzODQ0MV19
 -->
