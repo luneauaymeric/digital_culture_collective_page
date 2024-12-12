@@ -6,7 +6,7 @@ root: intro.md
 chapters:
 - file: exemple.md
 - file: pegasus/Pegasus.md
-- file: computed_image/Exercice_md.md
+- file: computed_image/computed_image.md
 - file: agri_num/agri_num.md
 - file: medecine_num/medecine_num.md
 - file: surveillance_num/surveillance_num.md
