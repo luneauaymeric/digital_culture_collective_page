@@ -4,12 +4,14 @@
 format: jb-book
 root: intro.md
 chapters:
-- file: exemple.md
+#- file: exemple.md
+- file: data_sport/data_sport.md
 - file: pegasus/Pegasus.md
 - file: computed_image/computed_image.md
 - file: agri_num/agri_num.md
 - file: medecine_num/medecine_num.md
 - file: surveillance_num/surveillance_num.md
 - file: appli_sante/appli_sante.md
+#- file: pornographie_num/
 - file: biblio.md
 
