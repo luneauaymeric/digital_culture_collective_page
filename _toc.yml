@@ -10,5 +10,6 @@ chapters:
 - file: agri_num/agri_num.md
 - file: medecine_num/medecine_num.md
 - file: surveillance_num/surveillance_num.md
+- file: appli_sante/appli_sante.md
 - file: biblio.md
 
