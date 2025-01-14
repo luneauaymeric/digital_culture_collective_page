@@ -12,7 +12,7 @@ Nous nous demandons donc si les pratiques individuelles de “Quantified Self”
 
 Pour répondre, nous allons d’abord nous intéresser à l’avis des professionnels de santé, pour ensuite évoquer les expériences vécues par les utilisateurs, et enfin étudier les implications politiques et commerciales influençant notre rapport à l’autonomie et au contrôle de notre corps.
 
-# <ins> 1.  Avis des professionnels de santé
+## <ins> 1.  Avis des professionnels de santé
     
 En premier lieu, nous nous sommes intéressés à l’avis des professionnels de santé en comparant le témoignage d’une diététicienne-nutritionniste interrogée via une visioconférence Zoom et celui d’un médecin généraliste, recueilli de manière indirecte dans un article du site internet Cairn.
 
@@ -22,9 +22,9 @@ Lorsque nous avons cherché des arguments allant à l’encontre de ceux de Mada
 
 In fine, malgré les points positifs et négatifs émis plus haut, les opinions des professionnels de santé restent plutôt mitigées et modérées quant à l’utilisation des applications minceur. Le diététicien-nutritionniste et auteur du livre Healthy Food Charles Brumauld explique qu’il est indispensable pour une personne souhaitant perdre du poids de consulter un professionnel de santé mais qu’il est également possible d’être soutenu par une application minceur. Toutefois, il insiste grandement sur la nécessité du caractère éphémère de l’utilisation d’applications minceur car, selon lui, sur le long terme, celles-ci peuvent « imposer un contrôle mental permanent qui peut générer des pulsions alimentaires incontrôlables » (Brumauld, 2023). Ainsi, les applications minceur telles que My Fitness Pal peuvent être perçues comme un appui intéressant au travail en consultation tant qu’elles ne s’y substituent pas.
 
-# <ins>2.  Avis du public vis-à-vis de ces applications
+## <ins>2.  Avis du public vis-à-vis de ces applications
 
-## 1.  Expériences négatives vécues par les utilisateurs
+### 1.  Expériences négatives vécues par les utilisateurs
 
 Ensuite, nous nous sommes intéressés aux visions de ces applications que leurs utilisateurs peuvent avoir. Nous avons donc interrogé des utilisateurs de MyFitnessPal et d’autres applications similaires vis-à-vis de leurs expériences de ces services. Si certains utilisateurs ont eu des expériences positives avec ces applications, mentionnant leur utilité pour planifier l’activité physique et encourager une nutrition saine et variée, d’autres ont néanmoins vécu des expériences négatives au cours de leur période d’utilisation.
 
@@ -32,7 +32,7 @@ L’une des personnes que nous avons interrogées nous a expliqué avoir utilis�
 
 Une autre personne, ancienne utilisatrice de MyFitnessPal, a commencé à utiliser l’application après avoir lu des avis en ligne d’utilisateurs disant que le service les avait aidés à perdre du poids. L’utilisation de l’application, qui permet également de mesurer très précisément l’apport calorique de chaque repas, ainsi que les calories brûlées par l’activité physique, l’a également conduite à développer des troubles de l’alimentation. Cette personne a expliqué que le niveau de précision et d’invasivité de la plateforme l’a conduite à ces problèmes en créant un cadre extrêmement précis autour de sa nutrition, lui donnant ainsi l’illusion de contrôler parfaitement ce qu’elle mangeait et la conduisant donc à manger moins pour atteindre son objectif d’amaigrissement. Aujourd’hui, cette personne considère que les standards de l’application mettent en avant une vision très négative du corps, et retient la leçon de devoir être toujours très prudente vis-à-vis des pratiques d’amaigrissement et de contrôle précis de la nutrition.
 
-## 2.  Point de vue extérieur à l’utilisation
+### 2.  Point de vue extérieur à l’utilisation
  
 
 Nous avons également décidé d’interroger des individus n’ayant jamais utilisé ces applications, pour comprendre les visions extérieures liées à ces pratiques, ainsi que les potentielles caractéristiques qui motivent ou non les individus à utiliser ces applications.
@@ -43,13 +43,13 @@ Cependant, plusieurs personnes ont mentionné des caractéristiques négatives d
 
 Globalement, si de nombreux utilisateurs semblent avoir eu des expériences positives avec ces applications, certains d’entre eux ont rencontré des difficultés personnelles importantes au travers de leur utilisation. Les conséquences psychologiques de la mesure permanente et du cadre invasif du “Quantified Self” dans le domaine de la nutrition sont importantes et souvent connues, à la fois par les utilisateurs ayant vécu de telles expériences, mais également par de nombreux individus extérieurs à ces pratiques. Bien que jugées très utiles et bénéfiques par de nombreux individus pour adopter des pratiques physiques et alimentaires bénéfiques, le risque d’une utilisation malavisée donnant lieu à un renforcement de comportements néfastes pour la santé demeure important et trop peu étudié par les entreprises à l’origine de ces applications.
 
-# <ins> 3.  Implications politiques et commerciales
+## <ins> 3.  Implications politiques et commerciales
     
 
-## 1.  Le Corps comme Objet de Contrôle et de Consommation
+### 1.  Le Corps comme Objet de Contrôle et de Consommation
     
 
-### a) Performance et Maîtrise Totale du Corps
+#### a) Performance et Maîtrise Totale du Corps
 
 Les applications de fitness fonctionnent comme des dispositifs de contrôle, inscrits dans une logique biopolitique (Foucault) où l'utilisateur devient à la fois surveillant et surveillé, cherchant à optimiser son corps (Goffman 1991 ; Elton 2020). Cette dynamique, propre au mouvement Quantified Self (QS), transforme les individus en auto-entrepreneurs de leur santé, souvent inspirés par des impératifs capitalistes, tel que l’efficacité au travail (Dagiral, 2019). Cette quête d'auto-optimisation peut mener à une obsession de la performance et à une compétition avec soi-même, comme l'illustre le témoignage d'une enquêtée hospitalisée pour anorexie, soulignant les effets négatifs de la comparaison et du contrôle excessif : « Ce qu’on fait n’est jamais assez bien ». Les pratiques de QS rapprochent l'individu d’un modèle d'homo oeconomicus, où chaque aspect de la vie est contrôlé dans une recherche constante de productivité, reflet d’un modèle capitaliste (Dagiral, 2019).
 
@@ -57,7 +57,7 @@ Par ailleurs, ces outils imposent également une gestion minutieuse du temps, ex
 
 Enfin, ces pratiques reflètent des modes de pensée capitalistes, similaires à l’éthique protestante décrite par Max Weber, qui valorise la rationalisation et le contrôle de soi. Cet individualisme moral, issu de l’éthique protestante, place l’individu seul face à ses responsabilités, valorisant le travail et l’autodiscipline pour atteindre l’état de grâce. Comme une enquêtée utilisant RunKeeper, les individus appliquent cette discipline pour maximiser leur « capital » santé et émotionnel, pouvant créer une logique aliénante d’auto-perfectionnement. Ces applications oscillent ainsi entre promesse de maîtrise de soi et asservissement à des logiques productivistes, questionnant notre rapport au bien-être et à la santé
 
-### b) Données Réduites à des Chiffres
+#### b) Données Réduites à des Chiffres
 
 Les applications de fitness transforment le corps en données mesurables, modifiant notre relation avec celui-ci. Bien qu'elles encouragent une gestion proactive de la santé, elles peuvent aussi générer de l'anxiété. Une enquêtée rapporte recevoir jusqu’à six notifications quotidiennes, créant une pression constante. Ces rappels, bien que visant à fixer des limites, engendrent une obsession malsaine, comme la honte de déclarer ses calories réelles ou un plaisir malsain de « consommer moins ». Cette vision chiffrée du bien-être, souvent déconnectée des réalités corporelles et de la santé mentale, peut mener à la frustration et au mal-être.
 
@@ -65,7 +65,7 @@ A contrario, certains perçoivent les données comme une clé de transformation 
 
 Cependant, mesurer son corps peut devenir une fin en soi, éloignant celui-ci du réel. Julien Onno parle de « désaffiliation du corps », le rendant superficiel et inauthentique dans une quête de normalisation. Ce processus génère une fatigue mentale pour certains, stressés par l’exigence d’optimiser leurs données. Un enquêté confie : « On est déjà submergés de données, si en plus on doit produire des données sur nous... Il faut faire attention. » Enfin, la mesure décide de ce qui compte ou peut être ignoré. Or, ces chiffres, ne représentant qu'une fraction de soi, risquent d’être surinterprétés, renforçant une vision réduite et normative du bien-être.
 
-### c) Commercialisation et Confidentialité
+#### c) Commercialisation et Confidentialité
 
 Les données collectées par les applications de santé sont souvent monétisées par les entreprises, avec un manque de transparence sur leur usage final, ce qui alimente une perception erronée de la protection des données personnelles. Les utilisateurs, parfois trop confiants envers les « règles de confidentialité », sous-estiment les implications de leur partage d’informations.
 
@@ -77,30 +77,30 @@ Les techniques marketing des applications de self-tracking influencent fortement
 
 Par ailleurs, le ludisme et la praticité de ces outils, amplifiés par des stratégies marketing efficaces, rendent ces dispositifs attrayants tout en masquant leur caractère prescriptif. Par exemple, MyFitnessPal a triplé sa base de données alimentaires en 2004 pour attirer plus d’utilisateurs. Ces techniques facilitent l’acceptation des normes imposées, alimentant une pression sociale constante. Un enquêté note : « Il faut vivre et ne pas vouloir tout contrôler tout le temps, c’est très dur dans une société où l’image de nous-même nous est renvoyée à chaque publicité. » Ainsi, santé et marketing coopèrent, via la diffusion de messages normatifs, pour modeler nos comportements et alimenter des idéaux parfois oppressants.
 
-## 2.  L’Individu Face à son Corps : Autonomie et Isolement
+### 2.  L’Individu Face à son Corps : Autonomie et Isolement
     
-### a) Responsabilité et Individualisme
+#### a) Responsabilité et Individualisme
 
 Le suivi de soi, aligné avec l'idéal néolibéral du « soi entrepreneurial », valorise l'autonomie et la responsabilité individuelle, plaçant les utilisateurs d'applications de santé comme seuls responsables de leur bien-être et de leur réussite. Cette individualisation des pratiques favorise l’isolement et l’autodiscipline, tout en permettant une "privatisation mobile" grâce à l'accès autonome à des outils de santé, sans dépendance aux professionnels.
 
 Parallèlement, les plateformes encouragent un individualisme en réseau où les utilisateurs partagent leurs progrès pour motiver et surveiller leurs pairs, comme sur MyFitnessPal (Millington, 2014). Cette quête de reconnaissance sociale, via un partage en ligne, pousse à ajuster son comportement pour répondre aux attentes du groupe, renforçant des idéaux méritocratiques de réussite personnelle. Par exemple, des membres félicitent ceux ayant transformé leur corps, insistant sur la "force de volonté", tandis que ceux qui échouent sont culpabilisés. Certains méprisent les excuses liées à la génétique ou à la maladie, perçues comme de la fainéantise (Onno, 2020), créant une division entre les « forts » et les « faibles » et exacerbant la pression sociale. Ce système illustre l’individualisation et la responsabilisation du libéralisme, au cœur du Quantified Self.
 
-### b) Autonomie et détachement des Institutions
+#### b) Autonomie et détachement des Institutions
 
 Les applications de self-tracking favorisent une autonomie accrue en permettant un certain détachement des institutions médicales traditionnelles. Tout d’abord, elles offrent aux personnes atteintes de maladies, comme les diabétiques, la possibilité de surveiller leur santé en temps réel via des outils pratiques, comme le suivi du glucose (Dagiral, 2019). Plus largement, ces outils permettent même aux individus en bonne santé de choisir leurs méthodes et outils, rejetant parfois les standards traditionnels. Les adeptes du QS se positionnent comme experts de leur propre corps grâce à une appropriation renforcée de leur santé.
 
 Cependant, cette autonomie a ses limites. Certains utilisateurs critiquent les professionnels de santé, affirmant qu'il faut « se prendre en main » pour réussir, tout en appréciant les économies réalisées (Onno, 2020). Pourtant, certains aspects de la santé nécessitent un conseil professionnel. Julien Onno parle d'auto-santé, où des savoirs médicaux sont partagés sur des forums, créant une expertise collective qui floute la frontière entre applications de loisirs et dispositifs médicaux. Une coopération entre applications et institutions médicales pourrait néanmoins offrir une solution, notamment pour les malades chroniques, permettant un suivi quotidien sécurisé et réduisant les déplacements à l’hôpital. Globalement, la quantification de la santé doit évoluer dans un cadre respectant le bien-être individuel et les normes médicales.
 
-### c) Maîtrise et Repli sur Soi
+#### c) Maîtrise et Repli sur Soi
 
 Les applications de self-tracking offrent un contrôle accru sur le corps, renforçant la confiance en soi, comme décrit par une enquêtée. Mais elles traduisent aussi un transfert de responsabilités de santé des institutions vers les individus, inscrivant cette dynamique dans une culture de l'individualisme et du narcissisme, comme l’analyse Christopher Lasch (1979). Le QS devient donc une extension de ces tendances, où l’individu se concentre sur lui-même, souvent au détriment des liens sociaux. Ces pratiques renforcent l’isolement et peuvent transformer l’auto-surveillance en quête de validation sociale, plus proche du "m’as-tu-vu" que d’un épanouissement personnel réel (Onno, 2020).
 
 Pourtant, le self-tracking promet également une meilleure connaissance de soi. Certains utilisateurs considèrent chaque objectif atteint comme un signe de soin personnel. Une enquête montre que certains usagers intègrent des activités comme le shopping ou les sorties dans leur comptabilisation, cherchant ainsi à renforcer leur estime de soi sans suivre strictement les normes de performance libérales (Pharabod, 2019). Le QS balance entre la promesse de mieux se connaître et le risque de perdre sa liberté, contribuant à la fragmentation sociale, au consumérisme technologique, et à l’éloignement des enjeux collectifs de santé (Onno, 2020).
 
-# <ins> 3.  Régulations, entre limitations claires et insuffisances
+## <ins> 3.  Régulations, entre limitations claires et insuffisances
     
 
-## 1. Normes existantes en France vis-à-vis du Quantified Self
+### 1. Normes existantes en France vis-à-vis du Quantified Self
 
 Aujourd’hui, les pratiques et outils de “Quantified Self” se sont largement développés et démocratisés au sein de la population. Certaines applications sont même directement incluses dans le système des téléphones portables neufs, comme Apple Health ou Samsung Health. Cependant, cette démocratisation importante n’a pas été accompagnée d’une évolution de la législation liée à l’utilisation des données personnelles en France. L’administration publique française est consciente de l’existence de ces technologies, comme le montre le fait que la Commission de l’enrichissement de la langue française, anciennement Commission générale de terminologie et de néologie, qui veille notamment à assurer l’emploi de termes corrects et cohérents dans les publications officielles. Cette Commission a publié au Journal Officiel en 2017 une traduction obligatoire de “Quantified Self” par “automesure connectée” dans les rapports et compte-rendus émis par les administrations et les établissements de l’Etat (Journal Officiel, 2017), prouvant que ce sujet peut être amené à être étudié par des politiques publiques.
 
@@ -108,13 +108,13 @@ Vis-à-vis de la loi, le Quantified Self soulève principalement des débats sur
 
   
 
-## 2. Insuffisances des règlementations vis-à-vis du “Quantified Self”
+### 2. Insuffisances des règlementations vis-à-vis du “Quantified Self”
 
 Cependant, ces normes restent insuffisantes pour réguler efficacement le traitement des données effectué par les applications de santé. L’utilisation d’objets connectés équipés de capteurs permet de contourner la notion de donnée de santé en définissant les mesures récoltées d’une autre manière ou en ne définissant pas leur technologie comme “médicale”. Ceci a partiellement été résolu par la régulation européenne 2017/745 de 2017, qui met en place une procédure dédiée de commercialisation pour les produits capables de mesurer des données de santé et étend cette procédure à des objets connectés “sans but médical prévu” mais jugés capables d’en avoir (Régulation 2017/745, 2017). Un autre élément important est le fait que certaines données comme la localisation ne sont pas considérées comme des données personnelles relevant de l’identité, comme “les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses ou l’appartenance syndicale des personnes” (Loi “Informatique et Libertés”, 1978), ce qui signifie qu’elles peuvent être traitées et collectées sans autre régulation que l’accord préalable des utilisateurs.
 
 De plus, l’article 6 de la loi de 1978 requiert que les données récoltées et traitées dans le cadre du régime juridique mis en place par cette même loi soient récoltées “pour des finalités déterminées, explicites et légitimes”, de manière “adéquate, pertinente et non excessive”, et qu’elles soient enfin “exactes et complètes” (Loi “Informatique et Libertés”, 1978). Ces principes vont à l’encontre de la notion de “Quantified Self”. En effet, le but général de quantification n’est pas explicite ni fini dans le temps, les mesures sont permanentes et donc non proportionnelles à une finalité déterminée et ne sont pas exactes puisque les objets connectés ne sont pas aussi bien adaptés pour de telles pratiques que des instruments médicaux professionnels.  
 
-# <ins>Conclusion
+## <ins>Conclusion
 En conclusion, nous nous sommes demandés si les pratiques individuelles de “Quantified Self” dans le domaine de la santé via des applications sont seulement bénéfiques, ou si elles nécessitent un suivi et une régulation plus stricts. Nous avons vu que les professionnels de santé restent partagés sur les bienfaits de ces applications, qui peuvent apporter des bénéfices en aidant les individus à adopter des gestes leur permettant d’atteindre leurs objectifs physiques mais doivent néanmoins être utilisées avec précaution pour éviter les conséquences néfastes sur la santé physique et mentale que peut causer une utilisation erronée. De plus, les expériences vécues par les personnes que nous avons interrogées, ainsi que l’avis général du public extérieur à ces applications montrent que si de nombreux utilisateurs vivent des expériences positives de remise en forme et d’activité physique, ces applications comportent néanmoins des risques psychologiques importants, et peuvent véhiculer des messages néfastes. Nous avons également vu que ces messages et les principes dont découlent le “Quantified Self” sont intimement liés à des logiques capitalistes et néolibérales pouvant provoquer un repli sur soi et un individualisme accru chez les utilisateurs, ce qui peut renforcer la gravité des symptômes psychologiques de troubles alimentaires que certains utilisateurs développent en limitant leur capacité à demander de l’aide. Enfin, nous avons vu que si les données de santé et leur traitement sont régulés et encadrés en France, ces normes sont insuffisantes pour pleinement limiter le traitement de données effectué par ces applications et donc protéger la vie privée et la santé des individus.
 
 Globalement, ces applications semblent avoir permis à de nombreux individus d’adopter des habitudes d’alimentation et d’activité physiques saines, ce qui montre leurs bénéfices. Néanmoins, leur utilisation comporte des risques, puisque les principes derrière le mouvement du “Quantified Self” prônent l’individualité, la précision et la mise en place de standards souvent hauts pour l’apparence physique et la santé. Ces principes et le manque de régulation publiques permettant de cadrer les normes sanitaires et sociales mises en avant par les applications de fitness et de minceur créent de nombreux risques psychologiques et physiques liés à une utilisation malsaine de ces services. Ces applications comportent donc de nombreux bénéfices pour les individus les utilisant sainement et de manière cadrée, mais sont des sources de risques psychologiques et sanitaires importants pour les individus les utilisant de manière erronée, ce qui est rendu possible par les faibles réglementations mises en place vis-à-vis de ces applications.
@@ -125,7 +125,7 @@ Globalement, ces applications semblent avoir permis à de nombreux individus d�
 
   
  
-# <ins>Bibliographie
+## <ins>Bibliographie
 
 Brumauld, Charles. “Alimentation” [http://www.charlesbrumauld.com/category/alimentation/](http://www.charlesbrumauld.com/category/alimentation/)
 
